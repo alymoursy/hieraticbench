@@ -5,12 +5,12 @@ Every benchmark item is one JSON file in `data/items/<id>.json` plus one image i
 ```jsonc
 {
   "id": "wm-0001",                 // unique; prefix = source (hb = commissioned, wm = Wikimedia, met = Met Museum, aku = AKU-PAL, ...)
-  "split": "public",               // "public" (answers in this file) or "sealed" (answers held privately)
+  "split": "public",               // "public" (answers in this file) or "sealed" (answer known only to its authors, never stored)
   "rungs": ["identify"],           // which rungs this item is scored on: identify | signs | transliterate | translate
   "image": "images/wm-0001.jpg",   // path relative to data/
   "title": "Edwin Smith Papyrus, column 6",
 
-  // Gold answers for public rungs. Sealed items leave these out (they live in data/private/answers.json).
+  // Gold answers for public rungs. Sealed items leave these out: no answer key exists for them.
   "script": "hieratic",            // identify gold: hieratic | abnormal-hieratic | hieroglyphic | cursive-hieroglyphic | demotic | coptic | other
   "gardiner": ["G17"],             // signs gold for a single-sign item: acceptable Gardiner codes (any match = correct)
 

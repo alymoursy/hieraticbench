@@ -1,8 +1,8 @@
 import { Arrow } from "@/components/Arrow";
 import { Container } from "@/components/Container";
-import { RUNGS, RUNG_LABEL, documentCoverage, formatDate, identifyScore, leaderboard, percent, sentenceScore, type Entry } from "@/lib/data";
+import { documentCoverage, formatDate, identifyScore, leaderboard, percent, sentenceScore, type Entry } from "@/lib/data";
 
-const READING_RUNGS = RUNGS.filter((r) => r !== "identify");
+
 
 function Cell({ value, pending = "Pending" }: { value: number | null | undefined; pending?: string }) {
   if (value === null || value === undefined) return <span className="text-stone-500">{pending}</span>;
@@ -92,12 +92,7 @@ export function LeaderboardTable() {
                     <th scope="col" className="py-3 pr-8 font-normal whitespace-nowrap">Model</th>
                     <th scope="col" className="py-3 pr-8 font-normal whitespace-nowrap">The sentence</th>
                     <th scope="col" className="py-3 pr-8 font-normal whitespace-nowrap">Real documents</th>
-                    {READING_RUNGS.map((r) => (
-                      <th key={r} scope="col" className="py-3 pr-8 font-normal whitespace-nowrap">
-                        {RUNG_LABEL[r]}
-                      </th>
-                    ))}
-                    <th scope="col" className="py-3 font-normal whitespace-nowrap">Score</th>
+                    <th scope="col" className="py-3 font-normal whitespace-nowrap">Single signs</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-black/5">
@@ -112,13 +107,8 @@ export function LeaderboardTable() {
                         <Cell value={identifyScore(e.key, "hieratic")} pending="Not run" />
                         <Coverage entryKey={e.key} />
                       </td>
-                      {READING_RUNGS.map((r) => (
-                        <td key={r} className="py-4 pr-8">
-                          <Cell value={e.rungs[r]?.score} pending={leaderboard.sealedAnswered[e.key]?.[r] ? "Sealed" : "Not run"} />
-                        </td>
-                      ))}
-                      <td className="py-4 font-medium">
-                        <Cell value={e.overall} />
+                      <td className="py-4">
+                        <Cell value={e.rungs.signs?.score} pending="Not run" />
                       </td>
                     </tr>
                   ))}
@@ -133,10 +123,9 @@ export function LeaderboardTable() {
             .filter((e) => e.refusals > 0)
             .map((e) => `${e.label} declined ${e.refusals} questions, which count as wrong. `)
             .join("")}
-          Real documents counts hieratic documents only. The demotic and hieroglyphic controls still count toward the
-          overall score. Sealed means the model&apos;s answers are in and waiting to be scored against the private key. The overall
-          score appears once all four rungs are scored. Chat-app transcripts above are quoted for the record and never
-          counted here.
+          Real documents counts hieratic documents only, not the demotic and hieroglyphic controls. Transliterating and
+          translating the sentence aren&apos;t scored here, because no answer key is stored. A reading that looks real goes
+          to the people who wrote it. Chat-app transcripts above are quoted for the record and never counted here.
         </p>
       </Container>
     </section>

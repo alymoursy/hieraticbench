@@ -27,8 +27,8 @@ export default function MethodPage() {
           <li>
             <strong>Sealed sentences.</strong> One sentence in two images. The first is in the professor&apos;s own hand.
             The second is the same text rewritten in a period-style hand by a hieratic specialist, closer to what a
-            scribe would have produced. Both were commissioned in 2022. The script is public. The signs,
-            transliteration and translation are not.
+            scribe would have produced. Both were commissioned in 2022. The script is public. What the sentence says
+            is known only to the people who wrote it.
           </li>
           <li>
             <strong>The public identification set.</strong> Photographs and facsimiles of real Egyptian documents from
@@ -78,18 +78,12 @@ export default function MethodPage() {
             sequences divided by the reference length, floored at zero.
           </li>
           <li>
-            <strong>Transliterate.</strong> Both sides are reduced to a consonantal skeleton first, so conventions
-            don&apos;t cost points. Unicode and Manuel de Codage are both accepted, j and i are merged, z and s are
-            merged, and spaces, dots and hyphens are dropped. The score is one minus the character error rate.
+            <strong>Transliterate and translate.</strong> On the sentence these are not scored by machine, because no
+            answer key is stored. A reading that looks real goes to the people who wrote the sentence. The harness
+            still ships character error rate and chrF scoring for future public items with published readings.
           </li>
           <li>
-            <strong>Translate.</strong> chrF against the sealed reference, character n-grams up to six with beta 2,
-            case-insensitive. Any translation above 0.5 is also read by an Egyptologist, because one sentence is too
-            short for a string metric to have the last word.
-          </li>
-          <li>
-            <strong>Overall.</strong> Samples are averaged per item, items are averaged per rung, and the overall score
-            is the mean of the four rungs. It only appears once all four rungs are scored.
+            <strong>Averages.</strong> Samples are averaged per item, then items are averaged per rung.
           </li>
         </ul>
         <p>
@@ -99,10 +93,13 @@ export default function MethodPage() {
 
         <h2>Keeping the answer sealed</h2>
         <ol>
-          <li>The answer key lives on the maintainer&apos;s machine and is never committed.</li>
+          <li>
+            There is no answer key. Not in the repository, not on a server, not with the maintainer. Only the professor
+            and the specialist who wrote the sentence know what it says, and it will never be published.
+          </li>
           <li>
             When anyone runs a sealed rung, the answers are written to a local inbox that is never committed either. A
-            correct answer would reveal the key, so unscored answers stay private.
+            correct reading would give the answer away, so these stay private.
           </li>
           <li>
             The identify question on the sealed sentences also asks for a translation, so a model that can read it would
@@ -110,8 +107,8 @@ export default function MethodPage() {
             full text stays private.
           </li>
           <li>
-            The maintainer scores the inbox. Any sealed answer scoring 50% or more has its text withheld before results
-            are published. The score is always published.
+            If a model&apos;s reading looks real, it goes privately to the sentence&apos;s authors. They are the only
+            ones who can say a model has read it.
           </li>
         </ol>
 
@@ -133,8 +130,8 @@ npm run bench -- leaderboard`}</pre>
           Any model can run as <code>provider:model-id</code>, for example{" "}
           <code>openrouter:qwen/qwen3.8-flash</code>. Claude runs through Anthropic&apos;s API, other labs&apos; models
           through OpenRouter. Scored results land in <code>results/runs</code>.
-          Sealed answers land in <code>results/inbox</code>. Send that file to{" "}
-          <a href={`mailto:${site.email}`}>{site.email}</a> and it will be scored and added to the leaderboard.
+          Answers about the sentence land in <code>results/inbox</code>. If you think your model has read it, send
+          that file to <a href={`mailto:${site.email}`}>{site.email}</a> and the sentence&apos;s authors will check.
         </p>
 
         <h2>Limits of version {leaderboard.harness}</h2>

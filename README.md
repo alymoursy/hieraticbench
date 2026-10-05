@@ -14,7 +14,7 @@ The goal isn't my sentence. It's hieratic. The sentence is the exam. Its answer 
 
 ## Results so far
 
-Run on 5 October 2026, Claude through Anthropic's API and every other model through OpenRouter, at high reasoning effort where offered. Some rows are partial to keep costs down. Sealed rungs (transliterate and translate) are waiting to be scored against the private key.
+Run on 5 October 2026, Claude through Anthropic's API and every other model through OpenRouter, at high reasoning effort where offered. Some rows are partial to keep costs down. Reading the sentence is not machine-scored, because no answer key exists. Its authors check any reading that looks real.
 
 | Model | Names the script of the sentence | Names the script of real documents | Reads single signs |
 |---|---|---|---|
@@ -42,10 +42,10 @@ Each item is asked at up to four depths. Identify is asked cold. Every later run
 |---|---|---|
 | 1. Identify | What writing system is this? | Script label. 1 right, 0.5 for another Egyptian script, 0 otherwise |
 | 2. Signs | Which hieroglyph is each sign? | Gardiner codes. Exact match, or 1 minus sign error rate for a sentence |
-| 3. Transliterate | How does it sound? | 1 minus character error rate on a normalised consonant skeleton |
-| 4. Translate | What does it say? | chrF against the sealed reference, plus expert review near the top |
+| 3. Transliterate | How does it sound? | On the sentence, checked by its authors. Machine scoring is ready for future public items |
+| 4. Translate | What does it say? | On the sentence, checked by its authors. Machine scoring is ready for future public items |
 
-The sentence's signs, transliteration and translation are **sealed**. They have never been published and never enter this repository, so no model can have memorised them. See [site/src/app/method/page.tsx](site/src/app/method/page.tsx) or the Method page on the site for the full protocol.
+What the sentence says is **sealed**. It has never been published and no answer key exists anywhere in this project, not even with the maintainer. Only the people who wrote it know, so no model can have memorised it, and if a model ever reads it, they are the ones who will confirm it. See [site/src/app/method/page.tsx](site/src/app/method/page.tsx) or the Method page on the site for the full protocol.
 
 ## The dataset
 
@@ -74,8 +74,8 @@ Useful flags are `--rungs identify`, `--items hb-,wm-`, `--limit 5` for a smoke 
 ### Where results go
 
 - Openly scored answers (the identify rung, and public sign items) go to `results/runs/<run>.jsonl`. Commit these.
-- On the sealed sentences, even the identify answer can contain a translation attempt, so the public file keeps only the script named and the score. The full text goes to the inbox with everything else.
-- Answers for sealed rungs go to `results/inbox/<run>.jsonl`, which is gitignored. A correct answer would reveal the key, so **don't open a public PR with these**. Email the file to the maintainer instead, who scores it privately with `npm run bench -- score`. Any sealed answer scoring 50% or more has its text withheld before it is published. Its score is always published.
+- On the sentence, even the identify answer can contain a translation attempt, so the public file keeps only the script named and the score.
+- Answers about the sentence go to `results/inbox/<run>.jsonl`, which is gitignored, because a correct reading would give the answer away. **Don't open a public PR with these.** If you think your model has read it, email the file and the sentence's authors will check.
 
 ## Deploy the site
 

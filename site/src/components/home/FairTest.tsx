@@ -3,7 +3,7 @@ import { Container } from "@/components/Container";
 const reasons = [
   {
     title: "The answer is sealed.",
-    body: "The professor's translation has never been published. No model can have memorised it, and the benchmark never prints it.",
+    body: "The translation has never been published, and the benchmark doesn't store it anywhere. Only the people who wrote the sentence know it, so no model can have memorised it.",
   },
   {
     title: "Almost nobody can read it.",
@@ -15,7 +15,7 @@ const reasons = [
   },
   {
     title: "Progress shows up early.",
-    body: "Four rungs separate seeing the script, reading its signs, sounding it out and understanding it. Partial credit is real credit.",
+    body: "Naming the script and reading single signs are scored automatically on public data. Partial credit is real credit.",
   },
 ];
 

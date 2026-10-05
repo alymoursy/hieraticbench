@@ -216,7 +216,7 @@ const WITHHOLD_AT = 0.5;
 
 function score() {
   const key = loadAnswerKey();
-  if (!key) throw new Error("No answer key at data/private/answers.json. Only maintainers can score sealed rungs.");
+  if (!key) throw new Error("No answer key, by design. HieraticBench doesn't store one. Readings of the sealed sentence are checked by the people who wrote it.");
   const items = new Map(loadItems().map((i) => [i.id, i]));
   const files = listJsonl(INBOX_DIR);
   if (files.length === 0) return console.log("Nothing in results/inbox.");

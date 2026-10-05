@@ -2,7 +2,7 @@
 
 HieraticBench is built to run without anyone's permission. You do the work in your own fork with your own API keys, open a pull request, and automated checks make it safe to merge. Merging updates the leaderboard and the website on its own.
 
-The only thing kept private is the answer key to the sealed sentences.
+The only secret is what the sealed sentence says, and it isn't stored anywhere. Only the people who wrote it know.
 
 ## Add a model to the leaderboard
 
@@ -24,9 +24,9 @@ To add a model as a named shortcut, add one line to `bench/src/models.ts`.
 
 ### The sealed sentences
 
-Running every rung also asks the sealed questions (signs, transliteration, translation). Those answers land in `results/inbox/`, which git ignores, because a correct answer would reveal the key.
+Running every rung also asks the sealed questions (signs, transliteration, translation). Those answers land in `results/inbox/`, which git ignores, because a correct reading would give the answer away.
 
-**Never open a pull request with inbox files.** Email them to aly@veeza.ai. A maintainer scores them against the private key, and only the scores are published. CI rejects any public file that contains answer text for a sealed item.
+**Never open a pull request with inbox files.** If you think your model has read the sentence, email the file to aly@veeza.ai and the sentence's authors will check it. There is no answer key to score against, by design. CI rejects any public file that contains answer text for a sealed item.
 
 ## Add images to the dataset
 
@@ -42,12 +42,12 @@ Real hieratic documents, controls in demotic or hieroglyphs, and single signs ar
 
 This is the most valuable contribution there is. Every new sentence makes the benchmark harder to game.
 
-Don't post the sentence, its transliteration or its translation anywhere public, including GitHub issues. Open an issue with the "Offer a sentence" template, or email aly@veeza.ai, and we'll arrange a private handover. By offering one you agree it can be used to evaluate models, and that you'll keep the answer private.
+Send us only the image. Keep what it says to yourself, and never post the reading anywhere, including GitHub issues. Open an issue with the "Offer a sentence" template, or email aly@veeza.ai. If a model's reading of your sentence ever looks real, we'll send it to you to check. By offering one you agree the image can be used to evaluate models.
 
 ## For maintainers
 
 A maintainer reviews and merges. That's the whole job.
 
 - **Merge** when CI is green and the pull request touches only what it says. Vercel redeploys the site on merge, and the build rebuilds the leaderboard from `results/runs/`.
-- **Score sealed answers** (whoever holds the key): put emailed files in `results/inbox/`, run `npm run bench -- score`, then commit the new files in `results/runs/`. High-scoring answers are withheld automatically.
+- **Sealed readings.** There is no answer key, so there is nothing to score. If an emailed reading looks real, forward it to the sentence's authors. Never post it.
 - **Never** commit `data/private/`, `results/inbox/` or `.env`. CI blocks all three.
