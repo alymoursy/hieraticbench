@@ -56,6 +56,7 @@ export type Leaderboard = {
   perItem: Record<string, Record<string, Partial<Record<Rung, number>>>>;
   spotchecks: Spotcheck[];
   sentenceGuesses: { model: string; tries: number; answers: { answer: string; count: number }[] }[];
+  sealedAnswered: Record<string, Partial<Record<Rung, number>>>;
   prompts: Record<"identify" | "signsSingle" | "signsSequence" | "transliterate" | "translate", string>;
   items: Item[];
 };
@@ -107,6 +108,15 @@ export function identifyScore(entryKey: string, kind: "hieratic" | "control" | "
     .map((i) => leaderboard.perItem[i.id]?.[entryKey]?.identify)
     .filter((s): s is number => typeof s === "number");
   return scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+}
+
+/** How many public hieratic documents a row has answered, out of how many exist. */
+export function documentCoverage(entryKey: string): { answered: number; total: number } {
+  const docs = leaderboard.items.filter(
+    (i) => i.split === "public" && i.rungs.includes("identify") && (i.script === "hieratic" || i.script === "abnormal-hieratic"),
+  );
+  const answered = docs.filter((i) => typeof leaderboard.perItem[i.id]?.[entryKey]?.identify === "number").length;
+  return { answered, total: docs.length };
 }
 
 /** The best value of a per-row metric across the leaderboard. */

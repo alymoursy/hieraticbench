@@ -1,7 +1,17 @@
 import { Arrow } from "@/components/Arrow";
 import { Container } from "@/components/Container";
 import { Readings } from "@/components/Readings";
-import { leaderboard } from "@/lib/data";
+import { leaderboard, sentenceScore } from "@/lib/data";
+
+/** The claim under the headline, kept true by the leaderboard. */
+function nameTheScript(): string {
+  const named = leaderboard.entries.filter((e) => (sentenceScore(e.key) ?? 0) > 0);
+  const tested = leaderboard.entries.length;
+  if (named.length === 0) return `We tested ${tested} models. Not one could even name the script.`;
+  const who = named.map((e) => e.label.replace(/ \(.*\)$/, ""));
+  const list = who.length === 1 ? who[0] : `${who.slice(0, -1).join(", ")} and ${who.at(-1)}`;
+  return `We tested ${tested} models. Only ${list} ever named the script, and none could read it.`;
+}
 
 export function Hero() {
   const fromChats = leaderboard.spotchecks.flatMap((s) => (s.reading ? [{ model: s.model, reading: s.reading }] : []));
@@ -32,8 +42,8 @@ export function Hero() {
           No AI can read this sentence.
         </h1>
         <p className="mt-6 max-w-[48ch] text-xl/8 text-pretty text-stone-600">
-          An Oxford Egyptologist wrote it for me in 2022, in hieratic, the everyday handwriting of ancient Egypt. Every
-          model we have tested gets it wrong. Not one could even name the script.
+          An Oxford Egyptologist wrote it for me in 2022, in hieratic, the everyday handwriting of ancient Egypt.{" "}
+          {nameTheScript()}
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-x-8 gap-y-4">
           <a

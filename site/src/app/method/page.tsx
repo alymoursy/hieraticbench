@@ -130,8 +130,9 @@ cp .env.example .env        # add one provider key
 npm run bench -- run --models claude-opus-5-5 --samples 3
 npm run bench -- leaderboard`}</pre>
         <p>
-          Any model can run as <code>provider:model-id</code>, for example <code>openai:gpt-5</code> or{" "}
-          <code>openrouter:qwen/qwen3-vl-235b-a22b-instruct</code>. Scored results land in <code>results/runs</code>.
+          Any model can run as <code>provider:model-id</code>, for example{" "}
+          <code>openrouter:qwen/qwen3.8-flash</code>. Claude runs through Anthropic&apos;s API, other labs&apos; models
+          through OpenRouter. Scored results land in <code>results/runs</code>.
           Sealed answers land in <code>results/inbox</code>. Send that file to{" "}
           <a href={`mailto:${site.email}`}>{site.email}</a> and it will be scored and added to the leaderboard.
         </p>
@@ -141,6 +142,7 @@ npm run bench -- leaderboard`}</pre>
           <li>The sealed set is one sentence in two hands. That is a story, not yet a statistic. More sentences from more hands is the first priority.</li>
           <li>The two sealed images are crops of screenshots. They will be replaced with the original scans.</li>
           <li>Famous public documents may be in training data. The famous flag lets you score with or without them.</li>
+          <li>To keep costs down, models from other labs answered only the identify question. GPT-6 Astra and both Gemini models were asked about the sentence alone, and Qwen3.8 Max stopped partway through the documents. The leaderboard marks every gap.</li>
           <li>Chat-app transcripts on the home page are context. They use each app&apos;s own system prompt and are never counted on the leaderboard.</li>
         </ul>
 

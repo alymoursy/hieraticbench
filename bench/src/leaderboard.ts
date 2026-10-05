@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { RESULTS, RUNGS, loadItems, type Item, type Rung } from "./items.ts";
 import { buildPrompt } from "./prompts.ts";
-import { HARNESS_VERSION, RUNS_DIR, entryKey, listJsonl, readRecords, type RunRecord } from "./runs.ts";
+import { HARNESS_VERSION, INBOX_DIR, RUNS_DIR, entryKey, listJsonl, readRecords, type RunRecord } from "./runs.ts";
 
 type RungResult = { score: number; items: number; coverage: number; samples: number };
 
@@ -105,9 +105,25 @@ export function buildLeaderboard() {
     perItem,
     spotchecks,
     sentenceGuesses: sentenceGuesses(records, itemsById),
+    sealedAnswered: sealedAnswered(),
     prompts: promptsForDocs(),
     items: items.map(publicItem),
   };
+}
+
+/**
+ * How many sealed answers each row has waiting in the local inbox, per rung, so the
+ * site can tell "answered, awaiting the key" apart from "never run". Only the
+ * maintainer's machine has the inbox, so rebuild the leaderboard there.
+ */
+function sealedAnswered() {
+  const counts: Record<string, Partial<Record<Rung, number>>> = {};
+  for (const r of listJsonl(INBOX_DIR).flatMap(readRecords)) {
+    if (r.error || r.privateCopy || r.rung === "identify") continue;
+    const row = (counts[entryKey(r.model)] ??= {});
+    row[r.rung] = (row[r.rung] ?? 0) + 1;
+  }
+  return counts;
 }
 
 /** What each model named the script of the sealed sentences, with counts. */

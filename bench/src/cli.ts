@@ -30,6 +30,7 @@ Options for run
   --limit      Stop after this many requests per model (for smoke tests)
   --dry-run    Print the plan and the first prompt without calling any API
   --resume     Skip answers this model already has (same effort), e.g. after an interrupted run
+  --max-cost   Stop a model's run once its reported spend reaches this many US dollars (OpenRouter reports cost)
 `;
 
 async function main() {
@@ -47,6 +48,7 @@ async function main() {
       limit: { type: "string" },
       "dry-run": { type: "boolean", default: false },
       resume: { type: "boolean", default: false },
+      "max-cost": { type: "string" },
       help: { type: "boolean", short: "h", default: false },
     },
   });
@@ -83,6 +85,7 @@ async function run(values: Record<string, string | boolean | undefined>) {
   const samples = Number(values.samples);
   const concurrency = Number(values.concurrency);
   const limit = values.limit ? Number(values.limit) : Infinity;
+  const maxCost = values["max-cost"] ? Number(values["max-cost"]) : Infinity;
 
   const items = loadItems().filter((i) => !filters || filters.some((f) => i.id === f || i.id.startsWith(f)));
   const tasks: Task[] = [];
@@ -107,7 +110,7 @@ async function run(values: Record<string, string | boolean | undefined>) {
     }
     const todo = values.resume ? withoutDone(model, planned) : planned;
     if (todo.length < planned.length) console.log(`${model.label}: ${planned.length - todo.length} already answered, ${todo.length} to go`);
-    await runModel(model, todo, concurrency);
+    await runModel(model, todo, concurrency, maxCost);
   }
   console.log("\nNext: npm run bench -- leaderboard");
 }
@@ -124,16 +127,17 @@ function withoutDone(model: ModelSpec, tasks: Task[]): Task[] {
   return tasks.filter((t) => !done.has(`${t.item.id}|${t.rung}|${t.sample}`));
 }
 
-async function runModel(model: ModelSpec, tasks: Task[], concurrency: number) {
+async function runModel(model: ModelSpec, tasks: Task[], concurrency: number, maxCost = Infinity) {
   const runId = newRunId(model);
   const openFile = path.join(RUNS_DIR, `${runId}.jsonl`);
   const sealedFile = path.join(INBOX_DIR, `${runId}.jsonl`);
   let done = 0;
   let correct = 0;
   let scored = 0;
+  let cost = 0;
 
   const worker = async (queue: Task[]) => {
-    for (let task = queue.shift(); task; task = queue.shift()) {
+    for (let task = queue.shift(); task && cost < maxCost; task = queue.shift()) {
       const { item, rung, sample } = task;
       const prompt = buildPrompt(item, rung);
       const started = Date.now();
@@ -170,6 +174,7 @@ async function runModel(model: ModelSpec, tasks: Task[], concurrency: number) {
         record.error = error instanceof Error ? error.message : String(error);
       }
       record.latencyMs = Date.now() - started;
+      cost += record.usage?.costUsd ?? 0;
       if (item.split === "sealed" && rung === "identify") {
         // The cold prompt also asks for a translation, so a model that can read the
         // sentence would write the answer here. Publish the score, keep the text private.
@@ -186,8 +191,9 @@ async function runModel(model: ModelSpec, tasks: Task[], concurrency: number) {
 
   const queue = [...tasks];
   await Promise.all(Array.from({ length: Math.max(1, concurrency) }, () => worker(queue)));
+  if (cost >= maxCost) console.log(`\n${model.label}: stopped at the $${maxCost} cap with ${tasks.length - done} requests left. Rerun with --resume to finish.`);
 
-  console.log(`\n${model.label}: ${scored ? `${((correct / scored) * 100).toFixed(1)}% on ${scored} openly scored answers` : "no openly scored answers"}`);
+  console.log(`\n${model.label}: ${scored ? `${((correct / scored) * 100).toFixed(1)}% on ${scored} openly scored answers` : "no openly scored answers"}${cost ? `, $${cost.toFixed(2)}` : ""}`);
   if (fs.existsSync(openFile)) console.log(`  scored results -> ${path.relative(ROOT, openFile)}`);
   if (fs.existsSync(sealedFile)) {
     console.log(`  sealed answers -> ${path.relative(ROOT, sealedFile)}`);

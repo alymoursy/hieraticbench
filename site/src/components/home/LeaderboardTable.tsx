@@ -1,6 +1,6 @@
 import { Arrow } from "@/components/Arrow";
 import { Container } from "@/components/Container";
-import { RUNGS, RUNG_LABEL, formatDate, identifyScore, leaderboard, percent, sentenceScore, type Entry } from "@/lib/data";
+import { RUNGS, RUNG_LABEL, documentCoverage, formatDate, identifyScore, leaderboard, percent, sentenceScore, type Entry } from "@/lib/data";
 
 const READING_RUNGS = RUNGS.filter((r) => r !== "identify");
 
@@ -9,8 +9,23 @@ function Cell({ value, pending = "Pending" }: { value: number | null | undefined
   return <span className={value === 0 ? "text-rubric" : ""}>{percent(value)}</span>;
 }
 
+function Coverage({ entryKey }: { entryKey: string }) {
+  const { answered, total } = documentCoverage(entryKey);
+  if (answered === 0 || answered === total) return null;
+  return (
+    <span className="ml-2 text-stone-400">
+      {answered} of {total}
+    </span>
+  );
+}
+
 export function LeaderboardTable() {
-  const entries: Entry[] = leaderboard.entries;
+  // Every model ties at 0% on the sentence, so rank by real documents, then signs.
+  const entries: Entry[] = [...leaderboard.entries].sort(
+    (a, b) =>
+      (identifyScore(b.key, "hieratic") ?? -1) - (identifyScore(a.key, "hieratic") ?? -1) ||
+      (b.rungs.signs?.score ?? -1) - (a.rungs.signs?.score ?? -1),
+  );
   const updated = formatDate(leaderboard.generatedAt);
   return (
     <section id="leaderboard" className="border-t border-black/5 py-24 sm:py-32">
@@ -19,7 +34,7 @@ export function LeaderboardTable() {
           <div>
             <h2 className="text-4xl font-medium tracking-tight text-balance sm:text-5xl">Leaderboard</h2>
             <p className="mt-6 max-w-[56ch] text-lg/8 text-pretty text-stone-600">
-              Every score comes from the open harness, run through each provider&apos;s API. The first two columns
+              Every score comes from the open harness, through Anthropic&apos;s API for Claude and OpenRouter for everyone else. The first two columns
               ask a model to name the script, on the professor&apos;s sentence and on real ancient documents. Updated {updated}.
             </p>
           </div>
@@ -62,10 +77,11 @@ export function LeaderboardTable() {
                       </td>
                       <td className="py-4 pr-8">
                         <Cell value={identifyScore(e.key, "hieratic")} pending="Not run" />
+                        <Coverage entryKey={e.key} />
                       </td>
                       {READING_RUNGS.map((r) => (
                         <td key={r} className="py-4 pr-8">
-                          <Cell value={e.rungs[r]?.score} pending={r === "signs" ? "Not run" : "Sealed"} />
+                          <Cell value={e.rungs[r]?.score} pending={leaderboard.sealedAnswered[e.key]?.[r] ? "Sealed" : "Not run"} />
                         </td>
                       ))}
                       <td className="py-4 font-medium">

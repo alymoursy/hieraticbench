@@ -12,7 +12,7 @@ export type Completion = {
   text: string;
   stopReason?: string;
   refusal?: boolean;
-  usage?: { inputTokens?: number; outputTokens?: number };
+  usage?: { inputTokens?: number; outputTokens?: number; costUsd?: number };
 };
 
 export function ask(model: ModelSpec, image: Image, prompt: string): Promise<Completion> {

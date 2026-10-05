@@ -11,6 +11,8 @@ const EGYPTIAN = new Set(["hieratic", "abnormal-hieratic", "hieroglyphic", "curs
 export function classifyScript(answer: string): string {
   const a = answer.toLowerCase();
   if (/^\W*(unknown|none|unidentified|unclear|n\/a)\b/.test(a)) return "unknown";
+  // The script claimed for the Book of Mormon, not an Egyptian script.
+  if (/reformed\s+egyptian/.test(a)) return "other";
   if (/abnormal\s+hieratic/.test(a)) return "abnormal-hieratic";
   if (/hieratic/.test(a)) return "hieratic";
   if (/demotic/.test(a)) return "demotic";

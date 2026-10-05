@@ -12,16 +12,25 @@ HieraticBench turns that sentence into a benchmark, and asks for help making it 
 
 ## Results so far
 
-Run on 5 October 2026 through each provider's API. Sealed rungs (transliterate and translate) are waiting to be scored against the private key.
+Run on 5 October 2026, Claude through Anthropic's API and every other model through OpenRouter, at high reasoning effort where offered. Some rows are partial to keep costs down. Sealed rungs (transliterate and translate) are waiting to be scored against the private key.
 
 | Model | Names the script of the sentence | Names the script of real documents | Reads single signs |
 |---|---|---|---|
-| Claude Fable 5.1 | 0% | 95% | 8.7% |
 | Claude Opus 5.5 | 0% | 95% | 13% |
+| Claude Fable 5.1 | 0% | 95% | 8.7% |
 | Claude Sonnet 5.5 | 0% | 94% | 11% |
+| Kimi K3 | 0% | 84% | not run |
+| Qwen3.8 Max | 0% | 81% (53 of 87) | not run |
+| GPT-6.1 Sol | 0% | 79% | not run |
+| Llama 4 Maverick | 0% | 61% | not run |
+| Mistral Medium 3.5 | 0% | 46% | not run |
 | Claude Haiku 4.5 | 0% | 43% | 0.7% |
+| Grok 4.7 | 0% | 25% | not run |
+| GPT-6 Astra | 0% | not run | not run |
+| Gemini 3.1 Pro | 0% | not run | not run |
+| Gemini 3.8 Flash | 0% | not run | not run |
 
-Fable, Opus and Sonnet recognise hieratic on real papyri and printed facsimiles almost every time. On the professor's sentence, not one of the four named it, across 24 tries between them. The full table is on the website, and the raw answers are in `results/runs/`. Help us add other labs' models.
+The best models recognise hieratic on real papyri and printed facsimiles almost every time. On the professor's sentence, not one of the 13 named it, across 78 tries between them. Their guesses included Urdu, Tibetan, Hangul, Mongolian, Paleo-Hebrew, Rongorongo and Nüshu. The full table is on the website, and the raw answers are in `results/runs/`. Help us fill the gaps.
 
 ## The ladder
 
@@ -56,7 +65,7 @@ npm run bench -- leaderboard    # rebuilds results/leaderboard.json
 npm run dev                     # the website, at http://localhost:3000
 ```
 
-Model shortcuts are listed by `npm run bench -- models`. Anything else runs as `provider:model-id`, with provider one of `anthropic`, `openai`, `google` or `openrouter`. Examples are `openai:gpt-5` and `openrouter:qwen/qwen3-vl-235b-a22b-instruct`.
+Model shortcuts are listed by `npm run bench -- models`. Shortcuts cover Claude directly and other labs' flagships through OpenRouter (`gpt-6-astra`, `gemini-3.1-pro`, `grok-4.7` and more). Anything else runs as `provider:model-id`, with provider one of `anthropic`, `openai`, `google` or `openrouter`, for example `openrouter:qwen/qwen3.8-flash`.
 
 Useful flags are `--rungs identify`, `--items hb-,wm-`, `--limit 5` for a smoke test, `--effort max`, and `--dry-run` to print the plan and the first prompt.
 

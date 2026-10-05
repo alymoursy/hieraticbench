@@ -33,6 +33,11 @@ export async function askOpenRouter(model: ModelSpec, image: Image, prompt: stri
   openrouter ??= new OpenAI({ apiKey: process.env.OPENROUTER_API_KEY, baseURL: "https://openrouter.ai/api/v1" });
   const response = await openrouter.chat.completions.create({
     model: model.id,
+    // OpenRouter extensions: unified reasoning effort, and the real cost of each call.
+    ...({
+      ...(model.effort ? { reasoning: { effort: model.effort === "xhigh" || model.effort === "max" ? "high" : model.effort } } : {}),
+      usage: { include: true },
+    } as object),
     messages: [
       {
         role: "user",
@@ -48,6 +53,10 @@ export async function askOpenRouter(model: ModelSpec, image: Image, prompt: stri
     text: choice?.message?.content ?? "",
     stopReason: choice?.finish_reason ?? undefined,
     refusal: Boolean(choice?.message?.refusal),
-    usage: { inputTokens: response.usage?.prompt_tokens, outputTokens: response.usage?.completion_tokens },
+    usage: {
+      inputTokens: response.usage?.prompt_tokens,
+      outputTokens: response.usage?.completion_tokens,
+      costUsd: (response.usage as { cost?: number } | undefined)?.cost,
+    },
   };
 }

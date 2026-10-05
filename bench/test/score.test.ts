@@ -24,6 +24,7 @@ test("classifyScript prefers the most specific label", () => {
   assert.equal(classifyScript("Cursive hieroglyphs"), "cursive-hieroglyphic");
   assert.equal(classifyScript("UNKNOWN (possibly hieratic)"), "unknown");
   assert.equal(classifyScript("Tangut"), "other");
+  assert.equal(classifyScript("Reformed Egyptian"), "other");
 });
 
 test("scoreIdentify gives half credit for the wrong Egyptian script", () => {

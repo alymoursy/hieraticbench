@@ -27,7 +27,7 @@ export type RunRecord = {
   stopReason?: string;
   refusal?: boolean;
   error?: string;
-  usage?: { inputTokens?: number; outputTokens?: number };
+  usage?: { inputTokens?: number; outputTokens?: number; costUsd?: number };
   latencyMs: number;
   createdAt: string;
 };
