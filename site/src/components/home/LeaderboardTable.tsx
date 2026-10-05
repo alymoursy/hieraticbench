@@ -5,7 +5,7 @@ import { RUNGS, RUNG_LABEL, documentCoverage, formatDate, identifyScore, leaderb
 const READING_RUNGS = RUNGS.filter((r) => r !== "identify");
 
 function Cell({ value, pending = "Pending" }: { value: number | null | undefined; pending?: string }) {
-  if (value === null || value === undefined) return <span className="text-stone-400">{pending}</span>;
+  if (value === null || value === undefined) return <span className="text-stone-500">{pending}</span>;
   return <span className={value === 0 ? "text-rubric" : ""}>{percent(value)}</span>;
 }
 
@@ -13,7 +13,7 @@ function Coverage({ entryKey }: { entryKey: string }) {
   const { answered, total } = documentCoverage(entryKey);
   if (answered === 0 || answered === total) return null;
   return (
-    <span className="ml-2 text-stone-400">
+    <span className="ml-2 text-stone-500">
       {answered} of {total}
     </span>
   );
@@ -48,7 +48,40 @@ export function LeaderboardTable() {
             The first harness runs are in progress.
           </p>
         ) : (
-          <div className="mt-14 -mx-6 -my-2 overflow-x-auto whitespace-nowrap lg:-mx-8">
+          <>
+          {/* Phones: one stacked row per model, the three scores that exist today labelled underneath. */}
+          <ol role="list" className="mt-12 divide-y divide-black/5 border-y border-black/10 tabular-nums md:hidden">
+            {entries.map((e, i) => (
+              <li key={e.key} className="flex gap-4 py-4">
+                <p className="w-6 shrink-0 text-lg text-stone-500">{i + 1}</p>
+                <div className="min-w-0 flex-1">
+                  <p className="text-lg text-ink">{e.label}</p>
+                  <dl className="mt-1 flex flex-wrap gap-x-5 gap-y-1 text-base text-stone-600">
+                    <div className="flex gap-1.5">
+                      <dt>Sentence</dt>
+                      <dd>
+                        <Cell value={sentenceScore(e.key)} pending="Not run" />
+                      </dd>
+                    </div>
+                    <div className="flex gap-1.5">
+                      <dt>Documents</dt>
+                      <dd>
+                        <Cell value={identifyScore(e.key, "hieratic")} pending="Not run" />
+                        <Coverage entryKey={e.key} />
+                      </dd>
+                    </div>
+                    <div className="flex gap-1.5">
+                      <dt>Signs</dt>
+                      <dd>
+                        <Cell value={e.rungs.signs?.score} pending="Not run" />
+                      </dd>
+                    </div>
+                  </dl>
+                </div>
+              </li>
+            ))}
+          </ol>
+          <div className="mt-14 -mx-6 -my-2 overflow-x-auto whitespace-nowrap max-md:hidden lg:-mx-8">
             <div className="inline-block min-w-full px-6 py-2 align-middle lg:px-8">
               <table className="w-full text-left text-lg tabular-nums sm:text-base">
                 <thead>
@@ -70,7 +103,7 @@ export function LeaderboardTable() {
                 <tbody className="divide-y divide-black/5">
                   {entries.map((e, i) => (
                     <tr key={e.key}>
-                      <td className="py-4 pr-4 text-stone-400">{i + 1}</td>
+                      <td className="py-4 pr-4 text-stone-500">{i + 1}</td>
                       <td className="py-4 pr-8 text-ink">{e.label}</td>
                       <td className="py-4 pr-8">
                         <Cell value={sentenceScore(e.key)} pending="Not run" />
@@ -93,6 +126,7 @@ export function LeaderboardTable() {
               </table>
             </div>
           </div>
+          </>
         )}
         <p className="mt-8 max-w-[68ch] text-base/7 text-pretty text-stone-600 sm:text-sm/6">
           {entries

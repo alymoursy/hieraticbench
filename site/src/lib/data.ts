@@ -1,5 +1,7 @@
 import board from "@/generated/leaderboard.json";
 
+export * from "./format";
+
 export const RUNGS = ["identify", "signs", "transliterate", "translate"] as const;
 export type Rung = (typeof RUNGS)[number];
 
@@ -63,30 +65,9 @@ export type Leaderboard = {
 
 export const leaderboard = board as unknown as Leaderboard;
 
-export const SCRIPT_LABEL: Record<string, string> = {
-  hieratic: "Hieratic",
-  "abnormal-hieratic": "Abnormal hieratic",
-  hieroglyphic: "Hieroglyphic",
-  "cursive-hieroglyphic": "Cursive hieroglyphs",
-  demotic: "Demotic",
-  coptic: "Coptic",
-  other: "Other",
-};
 
-export const RUNG_LABEL: Record<Rung, string> = {
-  identify: "Identify",
-  signs: "Signs",
-  transliterate: "Transliterate",
-  translate: "Translate",
-};
 
-export function percent(score: number): string {
-  const value = score * 100;
-  return `${value < 10 && value > 0 ? value.toFixed(1) : Math.round(value)}%`;
-}
 
-export const thumbUrl = (item: Item) => `/data/thumb/${item.id}.webp`;
-export const largeUrl = (item: Item) => `/data/large/${item.id}.webp`;
 
 /** Mean identify score on the sealed sentences, per leaderboard row. */
 export function sentenceScore(entryKey: string): number | null {
@@ -132,13 +113,3 @@ export function identifiedBy(item: Item): { right: number; asked: number } {
     .filter((s): s is number => typeof s === "number");
   return { right: results.filter((s) => s >= 0.999).length, asked: results.length };
 }
-
-const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-
-/** "2026-10-04" -> "4 October 2026", "2026-09" -> "September 2026". Parsed by hand so time zones can't shift the day. */
-export function formatDate(value: string): string {
-  const [year, month, day] = value.slice(0, 10).split("-").map(Number);
-  return [day, MONTHS[month - 1], year].filter(Boolean).join(" ");
-}
-
-export const times = (n: number) => (n === 1 ? "once" : n === 2 ? "twice" : `${n} times`);
