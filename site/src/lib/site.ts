@@ -2,7 +2,7 @@
 export const site = {
   name: "HieraticBench",
   version: "v0.1",
-  url: "https://hieraticbench.com",
+  url: "https://hieraticbench.vercel.app",
   github: "https://github.com/alymoursy/hieraticbench",
   email: "aly@veeza.ai",
   founder: "Aly Moursy",

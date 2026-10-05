@@ -17,3 +17,6 @@ results/inbox/
 # Generated from data/ and results/ by site/scripts/sync-data.mjs
 site/public/data/
 site/src/generated/
+
+# Vercel CLI link
+.vercel

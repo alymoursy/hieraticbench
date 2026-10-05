@@ -1,0 +1,13 @@
+# Never upload the answer key, unscored sealed answers, or secrets.
+data/private
+results/inbox
+.env
+.env.*
+!.env.example
+node_modules
+**/node_modules
+.next
+site/.next
+site/out
+site/public/data
+site/src/generated
