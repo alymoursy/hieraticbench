@@ -1,7 +1,12 @@
 {
   "id": "hb-0001",
   "split": "sealed",
-  "rungs": ["identify", "signs", "transliterate", "translate"],
+  "rungs": [
+    "identify",
+    "signs",
+    "transliterate",
+    "translate"
+  ],
   "image": "images/hb-0001.png",
   "title": "The professor's sentence",
   "script": "hieratic",
@@ -11,7 +16,7 @@
     "material": "pen on paper"
   },
   "source": {
-    "license": "All rights reserved. Licensed for evaluation use.",
+    "license": "© Aly Moursy. Free to use for evaluating models.",
     "attribution": "Written by an Oxford Egyptology professor, commissioned by Aly Moursy in 2022",
     "retrieved": "2026-10-05"
   },

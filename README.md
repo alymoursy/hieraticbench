@@ -2,6 +2,8 @@
 
 **Can AI read ancient Egyptian handwriting?**
 
+Started by [Aly Moursy](https://github.com/alymoursy), founder of [Veeza AI](https://veeza.ai). Live at [hieraticbench.vercel.app](https://hieraticbench.vercel.app).
+
 ![The professor's sentence](site/public/hero-sentence.png)
 
 In 2022 I asked an Oxford Egyptology professor to write me one sentence in hieratic, the cursive script ancient Egyptians used for letters, accounts, medicine, maths and stories for more than three thousand years. Hieroglyphs were for monuments. Hieratic was for everything else.
@@ -98,4 +100,7 @@ site/      the website (Next.js, static export)
 
 ## License
 
-Code is MIT. Public images keep the license recorded in their item file. The two commissioned sentence images are not openly licensed. They may be used to evaluate models with this benchmark, and for nothing else without permission.
+- **Code** in `bench/` and `site/` is MIT.
+- **Results** in `results/` (run logs, leaderboard, spot checks) are CC BY 4.0. Reuse and cite them with credit to HieraticBench.
+- **Public images** keep the license their source states, recorded in each item file in `data/items/`.
+- **The two commissioned images** (`hb-0001`, `hb-0002`) are © Aly Moursy. They are free to use for evaluating models with this benchmark. Anything else needs permission.

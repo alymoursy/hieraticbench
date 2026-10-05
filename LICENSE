@@ -20,7 +20,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers the code in bench/ and site/. It does not cover the images
-in data/images/. Public images keep the license recorded in their item file in
-data/items/. The commissioned images hb-0001 and hb-0002 are not openly
-licensed (see README).
+This license covers the code in bench/ and site/.
+
+Results in results/ are licensed under CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/).
+
+Images in data/images/ are not covered by this license. Public images keep the
+license recorded in their item file in data/items/. The commissioned images
+hb-0001 and hb-0002 are (c) Aly Moursy, free to use for evaluating models with
+this benchmark; any other use needs permission.

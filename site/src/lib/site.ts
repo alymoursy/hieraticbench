@@ -6,6 +6,7 @@ export const site = {
   github: "https://github.com/alymoursy/hieraticbench",
   email: "aly@veeza.ai",
   founder: "Aly Moursy",
+  company: { name: "Veeza AI", url: "https://veeza.ai" },
 };
 
 export const mailto = (subject: string) =>
