@@ -1,0 +1,28 @@
+{
+  "id": "wm-0052",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0052.jpg",
+  "title": "Demotic temple oath on a pottery ostracon (MET 21.2.122)",
+  "script": "demotic",
+  "object": {
+    "name": "Ostracon MET 21.2.122",
+    "date": "127 BCE",
+    "period": "Ptolemaic Period",
+    "material": "pottery ostracon",
+    "holder": "Metropolitan Museum of Art, New York (21.2.122)",
+    "content": "Temple oath; probably from Gebelein"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Demotic_Temple_Oath_MET_LC-21_2_122_EGDP023779.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Demotic_Temple_Oath_MET_LC-21_2_122_EGDP023779.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Metropolitan Museum of Art, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Museum photo; the red accession number painted on the sherd was cropped out together with the faint bottom lines."
+}

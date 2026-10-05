@@ -1,0 +1,30 @@
+{
+  "id": "aku-0025",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0025.png",
+  "title": "Single hieratic sign, Brooklyn (NY), The Brooklyn Museum, 47.218.3 (AKU HT 55692)",
+  "script": "hieratic",
+  "gardiner": [
+    "W19"
+  ],
+  "object": {
+    "name": "Brooklyn (NY), The Brooklyn Museum, 47.218.3",
+    "date": "Late Period, Dynasty 26, Psamtik I, regnal year 14, month 1, season šm.w, day 5",
+    "period": "Late Period",
+    "material": "papyrus",
+    "content": "Petition"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/55692",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_55692_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 55692",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 55692; AKU grapheme W0200 (AKU GR 723). Gold = the grapheme's MdC code(s) as given by AKU-PAL: W19 (std). Möller numbers listed by AKU-PAL for this grapheme: 509. Source publication of this facsimile: Verhoeven 2001. Occurrence: line 7; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 11.9 x 6.9 mm (h x w). AKU dating: \"Spätzeit, 26. Dynastie, Psammetich I., Regierungsjahr 14, Monat 1, Jahreszeit šm.w, Tag 5\". Facsimile type: Retro-Digitalisat (Publikation), by Ursula Verhoeven. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

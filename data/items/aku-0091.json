@@ -1,0 +1,30 @@
+{
+  "id": "aku-0091",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0091.png",
+  "title": "Single hieratic sign, D. Assiut N13.1 TN9 (AKU HT 14503)",
+  "script": "hieratic",
+  "gardiner": [
+    "M23"
+  ],
+  "object": {
+    "name": "D. Assiut N13.1 TN9",
+    "date": "New Kingdom, Dynasty 18, Amenhotep III",
+    "period": "New Kingdom",
+    "material": "plaster (dipinto)",
+    "content": "Kolophon (Scribe Khaemwaset, praise to scribe, praise to Thoth, sky of myrrh)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/14503",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_14503.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 14503",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 14503; AKU grapheme M0260 (AKU GR 372). Gold = the grapheme's MdC code(s) as given by AKU-PAL: M23 (std). Möller numbers listed by AKU-PAL for this grapheme: 289. Occurrence: line 3; find place Gebel Assiut al-gharbi; writing direction \"Zeilen, linksläufig prograd\"; sign size 15.1 x 6.4 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Amenhotep III.\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

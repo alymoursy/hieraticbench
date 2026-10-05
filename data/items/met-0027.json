@@ -1,0 +1,28 @@
+{
+  "id": "met-0027",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0027.jpg",
+  "title": "Papyrus inscribed with six \"Osiris Liturgies\", Met 35.9.21a–o",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus inscribed with six \"Osiris Liturgies\" (Met 35.9.21a–o)",
+    "date": "ca. 332–200 BCE",
+    "period": "Early Ptolemaic Period",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Osiris Liturgies"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/551976",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/35.9.21a_o_Text4.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of  Edward S. Harkness, 1935",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 35.9.21a–o; Met objectName: \"Papyrus, funerary, Osiris Liturgy, Priest, Horus, Imhotep\"; Met tags: Hieratic. Provenance per Met: Middle Egypt, Meir, south part of the necropolis. Additional image 3 of the roll; cropped to two and a half text columns. Image 2000x1318 px, from the Met original file."
+}

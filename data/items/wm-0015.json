@@ -1,0 +1,28 @@
+{
+  "id": "wm-0015",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0015.jpg",
+  "title": "Edwin Smith Papyrus, recto column 8 (cases 20–24), upper half",
+  "script": "hieratic",
+  "object": {
+    "name": "Edwin Smith Papyrus",
+    "date": "c. 1600 BCE",
+    "period": "Second Intermediate Period, Dynasties 16–17",
+    "material": "papyrus",
+    "holder": "New York Academy of Medicine",
+    "content": "Surgical treatise (cases 20–24)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Egyptology,_A_page_of_the_Edwin_Smith_Payrus,_late_17thC_BC_Wellcome_M0008142.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Egyptology%2C_A_page_of_the_Edwin_Smith_Payrus%2C_late_17thC_BC_Wellcome_M0008142.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Wellcome Collection (Wellcome Images M0008142), CC BY 4.0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Black-and-white halftone photo from a printed book page. Cropped to the upper half; the printed caption below, which names the script, was cut off."
+}

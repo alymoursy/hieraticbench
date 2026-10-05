@@ -1,0 +1,30 @@
+{
+  "id": "aku-0124",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0124.png",
+  "title": "Single hieratic sign, D. Assiut N13.1 TN33 (AKU HT 28283)",
+  "script": "hieratic",
+  "gardiner": [
+    "N35"
+  ],
+  "object": {
+    "name": "D. Assiut N13.1 TN33",
+    "date": "New Kingdom, Dynasty 18",
+    "period": "New Kingdom",
+    "material": "plaster (dipinto)",
+    "content": "Besuchertext (Scribe Men); Kolophon (Scribe Men)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/28283",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_28283.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 28283",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 28283; AKU grapheme N0590 (AKU GR 432). Gold = the grapheme's MdC code(s) as given by AKU-PAL: N35 (std). Möller numbers listed by AKU-PAL for this grapheme: 331. Occurrence: line 5; find place Gebel Assiut al-gharbi; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 2.6 x 13.1 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

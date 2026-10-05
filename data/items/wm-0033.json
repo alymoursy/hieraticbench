@@ -1,0 +1,28 @@
+{
+  "id": "wm-0033",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0033.jpg",
+  "title": "Ostracon with a hymn by Amunnakht son of Ipuy (Turin Cat. 2164)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon Turin Cat. 2164",
+    "date": "c. 1149–1146 BCE",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "limestone ostracon",
+    "holder": "Museo Egizio, Turin (Cat. 2164)",
+    "content": "Hymn written by Amunnakht, son of Ipuy"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_ostracon_inscribed_with_a_hymn_written_by_Amunnakht,_son_of_Ipuy,_on_both_sides,_limestone_-_Museo_Egizio_(Turin)_C_2164_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hieratic_ostracon_inscribed_with_a_hymn_written_by_Amunnakht%2C_son_of_Ipuy%2C_on_both_sides%2C_limestone_-_Museo_Egizio_%28Turin%29_C_2164_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo of two joining fragments; scale bar cropped out. From Deir el-Medina. Date from the Wikidata item."
+}

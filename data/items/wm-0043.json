@@ -1,0 +1,28 @@
+{
+  "id": "wm-0043",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0043.jpg",
+  "title": "Wine-jar docket from Amarna, year 17 of Akhenaten (Petrie Museum)",
+  "script": "hieratic",
+  "object": {
+    "name": "Wine-jar docket from Amarna",
+    "date": "Year 17 of Akhenaten",
+    "period": "Reign of Akhenaten",
+    "material": "marl clay transport vessel (sherd)",
+    "holder": "Petrie Museum of Egyptian Archaeology, London",
+    "content": "Wine docket (wine of the house of the Aten)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_inscription_on_a_pottery_fragment._It_records_year_17_of_Akhenaten%27s_reign_and_reference_to_wine_of_the_house_of_Aten._From_Amarna,_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology,_London.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hieratic_inscription_on_a_pottery_fragment._It_records_year_17_of_Akhenaten%27s_reign_and_reference_to_wine_of_the_house_of_Aten._From_Amarna%2C_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo; a single line of docket text on a sherd."
+}

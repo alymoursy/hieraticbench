@@ -1,0 +1,27 @@
+{
+  "id": "wm-0059",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0059.jpg",
+  "title": "Book of the Dead papyrus from Thebes (Neues Museum, Berlin), text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Book of the Dead papyrus from Thebes, Neues Museum",
+    "date": "2nd century BCE",
+    "material": "papyrus",
+    "holder": "Neues Museum, Berlin",
+    "content": "Book of the Dead"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieroglyphic_Papyrus_Book_of_the_Dead;_Late_Period,_2nd_Cent._BC;_from_Thebes_(28716931656).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Hieroglyphic_Papyrus_Book_of_the_Dead%3B_Late_Period%2C_2nd_Cent._BC%3B_from_Thebes_%2828716931656%29.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Gary Todd, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Gallery photo. The source title calls it a 'Hieroglyphic Papyrus Book of the Dead'. Labelled cursive-hieroglyphic because it uses linear ink hieroglyphs in ruled columns."
+}

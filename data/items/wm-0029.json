@@ -1,0 +1,26 @@
+{
+  "id": "wm-0029",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0029.jpg",
+  "title": "London Medical Papyrus (BM EA 10059), plate 1 (Wreszinski 1912)",
+  "script": "hieratic",
+  "object": {
+    "name": "London Medical Papyrus",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 10059)",
+    "content": "Medical and magical recipes"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:London_Medical_Papyrus_01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/London_Medical_Papyrus_01.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Walter Wreszinski, Der Londoner Medizinische Papyrus (1912), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Black-and-white photographic plate. Library stamp, line numbers, scale and plate caption cropped out. Fragmentary."
+}

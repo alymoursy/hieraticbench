@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0001",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0001.jpg",
+  "title": "Contendings of Horus and Seth (recto), Beginning of the sweet sayings found while using a papyrus (love-songs III) (recto), Love-songs II (verso), Memoranda or business jottings (verso), Chester Beatty Pap 1.5",
+  "script": "hieratic",
+  "object": {
+    "name": "Chester Beatty Pap 1.5 (Papyrus Chester Beatty I)",
+    "date": "c. 1160 BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Contendings of Horus and Seth / love songs III (recto), per CBL title"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_1_5",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_1_5/files/images/3_D0003265.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap 1.5. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "CBL object no. Pap 1.5; CBL title: \"Contendings of Horus and Seth (recto), Beginning of the sweet sayings found while using a papyrus (love-songs III) (recto), Love-songs II (verso), Memoranda or business jottings (verso)\"; CBL 'Script type': \"Hieratic script\"; place: Thebes. Canvas: \"Side 1, detail\". Side 1, detail; cropped to the right half of the written area (beginnings of the lines). The plate number tag and handwritten plate label on the mount are excluded. A different sheet (Pap 1.5) from the Pap 1.2 recto photo used by wm-0023. License: Europeana record /1100/669 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x1803 px."
+}

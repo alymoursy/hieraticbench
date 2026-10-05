@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0012",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0012.jpg",
+  "title": "Account and letter relating to wine, Chester Beatty Pap XXIX",
+  "script": "demotic",
+  "object": {
+    "name": "Chester Beatty Pap XXIX",
+    "date": "unknown",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Letter relating to wine (left-hand text)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXIX",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXIX/files/images/PapXXIX_02057.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXIX. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXIX; CBL title: \"Account and letter relating to wine\"; CBL 'Script type': \"Demotic script\". Canvas: \"Side 1\". Side 1; cropped to the left-hand text (the letter); the account on the right of the same sheet is not used. Control item. License: Europeana record /1100/6471 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 1300x1250 px."
+}

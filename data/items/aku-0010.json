@@ -1,0 +1,30 @@
+{
+  "id": "aku-0010",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0010.png",
+  "title": "Single hieratic sign, Paris, Bibliothèque Nationale de France, Egyptien 186–194 (AKU HT 20188)",
+  "script": "hieratic",
+  "gardiner": [
+    "Aa2"
+  ],
+  "object": {
+    "name": "Paris, Bibliothèque Nationale de France, Egyptien 186–194",
+    "date": "Middle Kingdom, Dynasty 12",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "content": "Lehre (Ptahhotep)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/20188",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_20188_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 20188",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 20188; AKU grapheme J0020 (AKU GR 747). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Aa2 (std). Möller numbers listed by AKU-PAL for this grapheme: 582. Source publication of this facsimile: Möller 1927a, p. 56, no. 582. Occurrence: line 6; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"rot\"; sign size 5.7 x 5.7 mm (h x w). AKU dating: \"Mittleres Reich, 12. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

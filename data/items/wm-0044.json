@@ -1,0 +1,28 @@
+{
+  "id": "wm-0044",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0044.jpg",
+  "title": "Book of the Dead of Pinedjem II (BM EA 10793/1), text columns",
+  "script": "hieratic",
+  "object": {
+    "name": "Book of the Dead of Pinedjem II",
+    "date": "c. 990–969 BCE",
+    "period": "Third Intermediate Period, 21st Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 10793/1)",
+    "content": "Book of the Dead; from the Deir el-Bahri royal cache"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/PinedjemIIBookOfTheDead-BritishMuseum-August21-08.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Captmondo, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Text block only; the vignette at right was cropped out. Hieratic Book of the Dead (the Commons file sits in Category:Hieratic). Black and red ink."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0137",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0137.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10474 rto (AKU HT 71336)",
+  "script": "hieratic",
+  "gardiner": [
+    "H4"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10474 rto",
+    "date": "Late Period, Dynasty 26, Psamtik I",
+    "period": "Late Period",
+    "material": "papyrus",
+    "content": "Lehre (Die Lehre des Amenemope)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/71336",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_71336_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 71336",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 71336; AKU grapheme H0040 (AKU GR 300). Gold = the grapheme's MdC code(s) as given by AKU-PAL: H4 (std). Möller numbers listed by AKU-PAL for this grapheme: 231. Source publication of this facsimile: Verhoeven 2001. Occurrence: line 12; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 10.8 x 12.2 mm (h x w). AKU dating: \"Spätzeit, 26. Dynastie, Psammetich I.\". Facsimile type: Retro-Digitalisat (Publikation), by Ursula Verhoeven. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0083",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0083.png",
+  "title": "Single hieratic sign, Turin, Museo Egizio, CGT 54050 (AKU HT 43416)",
+  "script": "hieratic",
+  "gardiner": [
+    "S43"
+  ],
+  "object": {
+    "name": "Turin, Museo Egizio, CGT 54050",
+    "date": "New Kingdom, Dynasty 20",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Magischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/43416",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_43416.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Giuseppina Lenzo; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 43416",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 43416; AKU grapheme S0750 (AKU GR 599). Gold = the grapheme's MdC code(s) as given by AKU-PAL: S43 (std). Möller numbers listed by AKU-PAL for this grapheme: 456. Source publication of this facsimile: Lenzo 2011. Occurrence: line 1; find place Deir el-Medina; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 7.5 x 4.5 mm (h x w). AKU dating: \"Neues Reich, 20. Dynastie\". Facsimile type: Digitalisat (Kooperationspartner), by Giuseppina Lenzo. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

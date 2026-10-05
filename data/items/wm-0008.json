@@ -1,0 +1,28 @@
+{
+  "id": "wm-0008",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0008.jpg",
+  "title": "Papyrus Berlin 3022 (Story of Sinuhe), facsimile by Georg Möller",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Berlin 3022 (Sinuhe B)",
+    "date": "c. 1800 BCE",
+    "period": "Middle Kingdom, 12th Dynasty",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin",
+    "content": "Story of Sinuhe (beginning)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Sinuhe-Papyrus_(Papyrus_Berlin_3022).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sinuhe-Papyrus_%28Papyrus_Berlin_3022%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Ancient Egyptian scribe; facsimile by Georg Möller (1876–1921), Hieratische Lesestücke I (1909), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Hand-drawn facsimile (not a photograph) from Möller's Hieratische Lesestücke. Same manuscript as wm-0007, different passage. Contains small printed line numbers."
+}

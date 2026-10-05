@@ -1,0 +1,30 @@
+{
+  "id": "aku-0042",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0042.png",
+  "title": "Single hieratic sign, D. Assiut N13.1 TN13 (AKU HT 30404)",
+  "script": "hieratic",
+  "gardiner": [
+    "P6"
+  ],
+  "object": {
+    "name": "D. Assiut N13.1 TN13",
+    "date": "Second Intermediate Period, Dynasty 17 – New Kingdom, Dynasty 18, Amenhotep I",
+    "period": "Second Intermediate Period",
+    "material": "plaster (dipinto)",
+    "content": "Besuchertext (Scribe of prince of the oasis Ipu)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/30404",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_30404.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 30404",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 30404; AKU grapheme P0130 (AKU GR 501). Gold = the grapheme's MdC code(s) as given by AKU-PAL: P6 (std). Möller numbers listed by AKU-PAL for this grapheme: 380. Occurrence: line 3; find place Gebel Assiut al-gharbi; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 9.5 x 3.9 mm (h x w). AKU dating: \"Zweite Zwischenzeit, 17. Dynastie – Neues Reich, 18. Dynastie, Amenhotep I.\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

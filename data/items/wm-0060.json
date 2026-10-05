@@ -1,0 +1,27 @@
+{
+  "id": "wm-0060",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0060.jpg",
+  "title": "Book of the Dead of Lady Neskhons (CBL Pap XXI.4), text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Book of the Dead of Lady Neskhons",
+    "date": "c. 300 BCE",
+    "material": "papyrus",
+    "holder": "Chester Beatty Library, Dublin (Pap XXI.4)",
+    "content": "Book of the Dead"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Judgement_of_the_deceased,_Book_of_the_Dead_of_Lady_Neskhons_(CBL_Pap_XXI.4).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Judgement_of_the_deceased%2C_Book_of_the_Dead_of_Lady_Neskhons_%28CBL_Pap_XXI.4%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Chester Beatty Library, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Damaged, with gaps. The source says 'hieroglyphic script'. Labelled cursive-hieroglyphic because the signs are linear ink hieroglyphs in columns."
+}

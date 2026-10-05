@@ -1,0 +1,28 @@
+{
+  "id": "met-0012",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0012.jpg",
+  "title": "Letter with hieratic inscription, Met 27.3.561a, b",
+  "script": "hieratic",
+  "object": {
+    "name": "Letter with hieratic inscription (Met 27.3.561a, b)",
+    "date": "ca. 1550–1300 BCE",
+    "period": "New Kingdom; Dynasty 18",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Letter"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/554654",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/LC-27_3_561a_ b_EGDP037005.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1927",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 27.3.561a, b; Met objectName: \"Papyrus, Letter, hieratic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Temple of Hatshepsut; MMA excavations, 1926–27. Cropped to the two fragments inside the glass mount. Image 2000x750 px, from the Met original file."
+}

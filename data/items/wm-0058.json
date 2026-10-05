@@ -1,0 +1,28 @@
+{
+  "id": "wm-0058",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0058.jpg",
+  "title": "Book of the Dead of Nany (MET 30.3.31), text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Book of the Dead of Nany",
+    "date": "c. 1050 BCE",
+    "period": "Third Intermediate Period, 21st Dynasty",
+    "material": "papyrus",
+    "holder": "Metropolitan Museum of Art, New York (30.3.31)",
+    "content": "Book of the Dead; from Deir el-Bahri"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_for_the_Singer_of_Amun,_Nany_MET_LC_EG_213987.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Book_of_the_Dead_for_the_Singer_of_Amun%2C_Nany_MET_LC_EG_213987.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Metropolitan Museum of Art, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Black-and-white museum photo; vignettes above cropped out. The source does not name the script; identified visually as cursive hieroglyphs in columns."
+}

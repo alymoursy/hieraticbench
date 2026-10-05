@@ -1,0 +1,31 @@
+{
+  "id": "aku-0087",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0087.png",
+  "title": "Single hieratic sign, London, British Museum, EA 5646 rto (AKU HT 58787)",
+  "script": "hieratic",
+  "gardiner": [
+    "A30",
+    "A4"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 5646 rto",
+    "date": "New Kingdom, Dynasty 18",
+    "period": "New Kingdom",
+    "material": "wood (writing board)",
+    "content": "Hymnus im Götterkult (Hymnus an Thot)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/58787",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_58787.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja Stern, Tabitha Kraus, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 58787",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 58787; AKU grapheme A0670 (AKU GR 7). Gold = the grapheme's MdC code(s) as given by AKU-PAL: A4 (var), A30 (std). Möller numbers listed by AKU-PAL for this grapheme: 2, 38, 39, 59, v3p4n3. Occurrence: line 5; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 17.2 x 10.9 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie\". Facsimile type: Digitalisat (AKU), by Svenja Stern, Tabitha Kraus, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

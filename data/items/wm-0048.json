@@ -1,0 +1,28 @@
+{
+  "id": "wm-0048",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0048.jpg",
+  "title": "Receipt for the shabtis of Petekhons (BM EA 10800)",
+  "script": "abnormal-hieratic",
+  "object": {
+    "name": "Papyrus BM EA 10800",
+    "date": "c. 1070–945 BCE",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 10800)",
+    "content": "Receipt for shabtis of Petekhons"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_EA10800.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Papyrus_EA10800.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Fæ, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo through glass. Script per the British Museum record quoted on the Commons page: 'Papyrus; Abnormal Hieratic text: receipt for shabtis of Petekhons.' The date comes from a second Commons photo of the same object (File:ShabtisPurchaseDocument-BritishMuseum-August21-08.jpg), which calls it 'hieratic', 21st Dynasty, c. 1070–945 BC. Borderline: the two sources label the script differently."
+}

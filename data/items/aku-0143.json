@@ -1,0 +1,30 @@
+{
+  "id": "aku-0143",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0143.png",
+  "title": "Single hieratic sign, London, Petrie Museum of Egyptian Archaeology, UC 32783 (AKU HT 20717)",
+  "script": "hieratic",
+  "gardiner": [
+    "O49"
+  ],
+  "object": {
+    "name": "London, Petrie Museum of Egyptian Archaeology, UC 32783",
+    "date": "New Kingdom, Dynasty 18, Amenhotep IV/Akhenaten, regnal year 5",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Brief (an einen Lebenden)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/20717",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_20717.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Tabitha Kraus; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 20717",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 20717; AKU grapheme O0660 (AKU GR 435). Gold = the grapheme's MdC code(s) as given by AKU-PAL: O49 (std). Möller numbers listed by AKU-PAL for this grapheme: 339. Occurrence: line 3; find place Gurob; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 5.5 x 4.8 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Amenhotep IV./Echnaton, Regierungsjahr 5\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Tabitha Kraus. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

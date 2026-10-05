@@ -1,0 +1,27 @@
+{
+  "id": "wm-0007",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0007.jpg",
+  "title": "Papyrus Berlin 3022 (Story of Sinuhe), opening section",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Berlin 3022 (Sinuhe B)",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin",
+    "content": "Story of Sinuhe"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_3022_(A-I).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Papyrus_Berlin_3022_%28A-I%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Lisa Baylis (scan), Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Museum scan (photo). Vertical columns at left, horizontal lines with a red rubric at right. SMB copyright line cropped off."
+}

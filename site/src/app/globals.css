@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: var(--font-newsreader), ui-serif, Georgia, serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+
+  /* Carbon ink and red ochre: the two inks an Egyptian scribe carried. Red marked headings and checkpoints. */
+  --color-ink: #1c1917;
+  --color-rubric: #a3271d;
+  --color-rubric-wash: #fbf1ef;
+}
+
+@layer base {
+  html {
+    @apply bg-white font-serif text-ink antialiased;
+    font-optical-sizing: auto;
+    scroll-behavior: smooth;
+    scrollbar-color: var(--color-stone-300) transparent;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  ::selection {
+    background-color: color-mix(in oklab, var(--color-rubric) 16%, white);
+    color: var(--color-ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-rubric);
+    outline-offset: 3px;
+  }
+
+  a {
+    text-underline-offset: 0.22em;
+    text-decoration-thickness: 1px;
+  }
+
+  [id] {
+    scroll-margin-top: 5rem;
+  }
+}
+
+@utility prose-page {
+  & h2 {
+    @apply mt-16 text-3xl font-medium tracking-tight text-balance;
+  }
+  & h3 {
+    @apply mt-10 text-xl font-medium text-balance;
+  }
+  & p,
+  & ul,
+  & ol {
+    @apply mt-5 max-w-[68ch] text-lg/8 text-pretty text-stone-700;
+  }
+  & ul {
+    @apply list-disc pl-6;
+  }
+  & ol {
+    @apply list-decimal pl-6;
+  }
+  & li + li {
+    @apply mt-2;
+  }
+  & a {
+    @apply text-ink underline decoration-stone-300 hover:decoration-rubric;
+  }
+  & strong {
+    @apply font-semibold text-ink;
+  }
+  & code {
+    @apply font-mono text-[0.9em] text-ink;
+  }
+  & pre {
+    @apply mt-5 max-w-[68ch] overflow-x-auto rounded-xl bg-stone-50 p-5 font-mono text-sm/6 whitespace-pre-wrap text-stone-800 outline-1 -outline-offset-1 outline-black/5;
+  }
+}

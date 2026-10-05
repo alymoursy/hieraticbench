@@ -1,0 +1,28 @@
+{
+  "id": "met-0028",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0028.jpg",
+  "title": "Book of the Dead of the Priest of Horus, Imhotep (Imuthes), Met 35.9.20a–w",
+  "script": "hieratic",
+  "object": {
+    "name": "Book of the Dead of the Priest of Horus, Imhotep (Imuthes) (Met 35.9.20a–w)",
+    "date": "ca. 332–200 BCE",
+    "period": "Early Ptolemaic Period",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Book of the Dead of Imhotep (Imuthes)"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/551786",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/35.9.20a_w_Section6.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of  Edward S. Harkness, 1935",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 35.9.20a–w; Met objectName: \"Papyrus, funerary, Book of the Dead, Imouthes, Imhotep, Imuthes\"; Met tags: Birds, Lions, Boats, Hieratic. Provenance per Met: Middle Egypt, Meir. Additional image 6 of the roll; cropped to text columns below the vignette band (no vignettes in frame). Image 1250x1020 px, from the Met original file."
+}

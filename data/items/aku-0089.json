@@ -1,0 +1,30 @@
+{
+  "id": "aku-0089",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0089.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10102 (AKU HT 12517)",
+  "script": "hieratic",
+  "gardiner": [
+    "K1"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10102",
+    "date": "New Kingdom, Dynasty 18, Thutmose III",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Brief (an einen Lebenden)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/12517",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_12517.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Tabitha Kraus; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 12517",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 12517; AKU grapheme K0010 (AKU GR 329). Gold = the grapheme's MdC code(s) as given by AKU-PAL: K1 (std). Möller numbers listed by AKU-PAL for this grapheme: 253. Occurrence: line 9; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 9.2 x 11.3 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Thutmosis III.\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Tabitha Kraus. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

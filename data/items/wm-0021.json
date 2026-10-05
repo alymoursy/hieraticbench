@@ -1,0 +1,28 @@
+{
+  "id": "wm-0021",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0021.jpg",
+  "title": "Abbott Papyrus (BM EA 10221), middle column",
+  "script": "hieratic",
+  "object": {
+    "name": "Abbott Papyrus",
+    "date": "c. 1110 BCE (year 16 of Ramesses IX)",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 10221)",
+    "content": "Record of an official inspection of royal tombs in the Theban necropolis"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:AbbottPapyrus-BritishMuseum-August21-08.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/AbbottPapyrus-BritishMuseum-August21-08.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Captmondo, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Museum photo. Cropped to the middle column. Late Ramesside administrative hand."
+}

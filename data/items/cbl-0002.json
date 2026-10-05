@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0002",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0002.jpg",
+  "title": "Contendings of Horus and Seth (recto), Encomium of Ramesses V (verso), Beginning of the words of the great dispenser of entertainment (love-songs I) (verso), Chester Beatty Pap 1.2",
+  "script": "hieratic",
+  "object": {
+    "name": "Chester Beatty Pap 1.2 (Papyrus Chester Beatty I)",
+    "date": "c. 1160 BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Verso text in vertical columns (Encomium of Ramesses V / love songs I, per CBL title)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_1_2",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_1_2/files/images/D0003312.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap 1.2. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "CBL object no. Pap 1.2; CBL title: \"Contendings of Horus and Seth (recto), Encomium of Ramesses V (verso), Beginning of the words of the great dispenser of entertainment (love-songs I) (verso)\"; CBL 'Script type': \"Hieratic script\"; place: Thebes. Canvas: \"Side 2, part 3 of 3\". Side 2, part 3 of 3; cropped to the columns (handwritten plate/section labels on the mount excluded). wm-0023 uses a Wikimedia photo of the Pap 1.2 recto; this item is the verso. License: Europeana record /1100/666 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x1408 px."
+}

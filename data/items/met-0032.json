@@ -1,0 +1,28 @@
+{
+  "id": "met-0032",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0032.jpg",
+  "title": "Marriage Contract, Met 35.4.1a, b",
+  "script": "demotic",
+  "object": {
+    "name": "Marriage Contract (Met 35.4.1a, b)",
+    "date": "380–343 BCE",
+    "period": "Late Period; Dynasty 30",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Marriage contract"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/544736",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/35.4.1a_b_EGDP019733.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Hugh J. Chisholm, 1935",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 35.4.1a, b; Met objectName: \"Manuscript, marriage contract\"; Met tags: Documents, Demotic. Provenance per Met: Egypt. Additional image 1 (one sheet in its frame); cropped to the papyrus. Control item. Image 1445x2000 px, from the Met original file."
+}

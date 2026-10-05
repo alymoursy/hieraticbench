@@ -1,0 +1,27 @@
+{
+  "id": "wm-0050",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0050.jpg",
+  "title": "Demotic pottery ostracon with a temple oath (Turin G. 5)",
+  "script": "demotic",
+  "object": {
+    "name": "Ostracon Turin G. 5",
+    "period": "Ptolemaic Period",
+    "material": "baked clay (pottery) ostracon",
+    "holder": "Museo Egizio, Turin (G. 5)",
+    "content": "Temple oath; from the Ptolemaic garrison at Gebelein"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Demotic_ostracon_with_a_%27temple_oath%27,_clay_-_Museo_Egizio_(Turin)_G_5_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Demotic_ostracon_with_a_%27temple_oath%27%2C_clay_-_Museo_Egizio_%28Turin%29_G_5_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Museum photo; colour/scale chart cropped out."
+}

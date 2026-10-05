@@ -1,0 +1,28 @@
+{
+  "id": "wm-0017",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0017.jpg",
+  "title": "Ebers Papyrus, column 38",
+  "script": "hieratic",
+  "object": {
+    "name": "Ebers Papyrus",
+    "date": "c. 1550 BCE",
+    "period": "Late Second Intermediate Period or early New Kingdom",
+    "material": "papyrus",
+    "holder": "Leipzig University Library",
+    "content": "Medical prescriptions (column 38)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:PEbers_c38.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/PEbers_c38.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Einsamer Schütze, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Photo through glass, slightly oblique. Black and red ink. Date, period and holder from the Wikipedia article."
+}

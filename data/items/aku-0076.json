@@ -1,0 +1,30 @@
+{
+  "id": "aku-0076",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0076.png",
+  "title": "Single hieratic sign, Kairo, Institut français d’archéologie orientale, 714 (AKU HT 64634)",
+  "script": "hieratic",
+  "gardiner": [
+    "N29"
+  ],
+  "object": {
+    "name": "Kairo, Institut français d’archéologie orientale, 714",
+    "date": "New Kingdom, Dynasty 20",
+    "period": "New Kingdom",
+    "material": "pottery (ostracon)",
+    "content": "Administrativer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/64634",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_64634.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Maren Goecke-Bauer; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 64634",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 64634; AKU grapheme N0340 (AKU GR 412). Gold = the grapheme's MdC code(s) as given by AKU-PAL: N29 (std). Möller numbers listed by AKU-PAL for this grapheme: 319. Occurrence: line 4; find place Deir el-Medina; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 7.5 x 7.6 mm (h x w). AKU dating: \"Neues Reich, 20. Dynastie\". Facsimile type: Digitalisat (Kooperationspartner), by Maren Goecke-Bauer. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

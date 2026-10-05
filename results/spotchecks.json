@@ -1,0 +1,71 @@
+[
+  {
+    "id": "opus-5-5-cold",
+    "model": "Claude Opus 5.5",
+    "date": "2026-10-04",
+    "surface": "Claude app",
+    "item": "hb-0001",
+    "prompt": "Can you identify and translate this script?",
+    "quote": "I can't confidently identify this as any known writing system, so I can't give you a translation. I'd rather say so than invent one.",
+    "detail": "It doesn't match Chinese, Japanese, Korean, Tangut, Khitan, Jurchen, Nüshu, or the common shorthand systems like Gregg or Pitman.",
+    "reading": "Not a known writing system",
+    "verdict": "Did not recognise hieratic"
+  },
+  {
+    "id": "fable-5-1-cold",
+    "model": "Claude Fable 5.1",
+    "date": "2026-09",
+    "surface": "Claude app",
+    "item": "hb-0001",
+    "prompt": "Can you translate this script? First identify what it is and then translate it!",
+    "quote": "I looked at this carefully, and I don't think it's a real writing system, so I can't give you a translation without making one up.",
+    "reading": "Not a real writing system",
+    "verdict": "Did not recognise hieratic"
+  },
+  {
+    "id": "fable-5-1-nudged",
+    "model": "Claude Fable 5.1",
+    "date": "2026-09",
+    "surface": "Claude app",
+    "item": "hb-0001",
+    "prompt": "Follow-up after the cold attempt: This may be a script that's no longer in use or a reconstruction of one.",
+    "quote": "Even against extinct and reconstructed scripts, I still can't place it, so I'd rather not guess at a translation.",
+    "detail": "It listed Egyptian hieratic and Demotic among the closest visual families, then rejected them.",
+    "reading": "Hieratic, Demotic, Meroitic, Pahlavi or Elbasan. None confirmed",
+    "verdict": "Named the right family only after a nudge, then rejected it"
+  },
+  {
+    "id": "fable-5-1-told",
+    "model": "Claude Fable 5.1",
+    "date": "2026-09",
+    "surface": "Claude app",
+    "item": "hb-0002",
+    "prompt": "Told the image was hieratic and that a speculative transcription was welcome.",
+    "quote": "What survives narrowing: a personal name built on Amun, most likely Amenemhat.",
+    "reading": "Amenemhat, “Amun is in front”",
+    "verdict": "Confident sign-by-sign reading. Wrong."
+  },
+  {
+    "id": "haiku-4-5-cold",
+    "model": "Claude Haiku 4.5",
+    "date": "2026-10-05",
+    "surface": "API, HieraticBench harness",
+    "item": "hb-0001",
+    "prompt": "Can you identify and translate this script?",
+    "quote": "This appears to be Urdu script (a variant of Persian/Arabic script).",
+    "detail": "It then supplied a word-by-word Urdu reading and translated it as “One should learn every day.”",
+    "reading": "Urdu, “One should learn every day”",
+    "verdict": "Wrong script, invented translation"
+  },
+  {
+    "id": "astra-cold",
+    "model": "Astra",
+    "date": "2026-10",
+    "surface": "Chat app",
+    "item": "hb-0001",
+    "prompt": "Can you identify and translate this script?",
+    "quote": null,
+    "reading": null,
+    "verdict": "Did not recognise hieratic. Transcript not archived."
+  }
+]

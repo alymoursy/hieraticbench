@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0015",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0015.jpg",
+  "title": "Business document or memorandum, Chester Beatty Pap XXV",
+  "script": "demotic",
+  "object": {
+    "name": "Chester Beatty Pap XXV",
+    "date": "2nd or 1st century BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "List of names and numerals (business document or memorandum)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXV",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXV/files/images/PapXXV_01972.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXV. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXV; CBL title: \"Business document or memorandum\"; CBL 'Script type': \"Demotic script\". Canvas: \"Side 1\". Side 1; cropped to the right-hand fragments. An old handwritten label on the mount that names the script ('Fragment of a demotic papyrus ...', bottom left) is excluded. Control item. License: Europeana record /1100/6472 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x1947 px."
+}

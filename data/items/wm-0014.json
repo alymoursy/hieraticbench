@@ -1,0 +1,28 @@
+{
+  "id": "wm-0014",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0014.jpg",
+  "title": "Edwin Smith Papyrus, recto column 6",
+  "script": "hieratic",
+  "object": {
+    "name": "Edwin Smith Papyrus",
+    "date": "c. 1600 BCE",
+    "period": "Second Intermediate Period, Dynasties 16–17",
+    "material": "papyrus",
+    "holder": "New York Academy of Medicine",
+    "content": "Surgical treatise (column 6, within cases 12–20)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:EdSmPaPlateVIandVIIPrintsx.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/EdSmPaPlateVIandVIIPrintsx.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "New York Academy of Medicine, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Colour photo of plates VI–VII; cropped to column 6 (right half). Black text with red rubrics. Date from the Wikipedia article."
+}

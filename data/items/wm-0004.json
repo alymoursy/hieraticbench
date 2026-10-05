@@ -1,0 +1,28 @@
+{
+  "id": "wm-0004",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0004.jpg",
+  "title": "Prisse Papyrus, Teaching of Ptahhotep (BnF Égyptien 190)",
+  "script": "hieratic",
+  "object": {
+    "name": "Prisse Papyrus",
+    "date": "c. 1800 BCE",
+    "period": "Middle Kingdom, 12th Dynasty",
+    "material": "papyrus",
+    "holder": "Bibliothèque nationale de France",
+    "content": "Teaching of Ptahhotep (lines 298–373, right part)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Prisse_190_1.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Papyrus_Prisse_190_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Zunkir, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Exhibition photo. Black text with red rubrics. Literary book hand."
+}

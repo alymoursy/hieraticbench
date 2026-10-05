@@ -1,0 +1,30 @@
+{
+  "id": "aku-0018",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0018.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 10499 vso (AKU HT 12756)",
+  "script": "hieratic",
+  "gardiner": [
+    "H5"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 10499 vso",
+    "date": "Middle Kingdom, Dynasty 12",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "content": "Erzählung"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/12756",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_12756_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 12756",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 12756; AKU grapheme H0110 (AKU GR 305). Gold = the grapheme's MdC code(s) as given by AKU-PAL: H5 (std). Möller numbers listed by AKU-PAL for this grapheme: 235, 235 (v4p12). Source publication of this facsimile: Möller 1927a, p. 22, no. 235. Occurrence: line 21; find place Ramesseum; writing direction \"Zeilen, linksläufig prograd\"; sign size 5.8 x 15.2 mm (h x w). AKU dating: \"Mittleres Reich, 12. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "met-0019",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0019.jpg",
+  "title": "Folded Piece of Linen with Hieratic Inscription, Met 27.3.118",
+  "script": "hieratic",
+  "object": {
+    "name": "Folded Piece of Linen with Hieratic Inscription (Met 27.3.118)",
+    "date": "ca. 1961–1917 B.C.",
+    "period": "Middle Kingdom; Dynasty 12; Possibly Senwosret I",
+    "material": "Linen",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Linen mark"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/561865",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/27.3.118_EGDP011771.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1927",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 27.3.118; Met objectName: \"Linen, folded, linen mark\"; Met tags: Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Tomb MMA 507 (The Slain Soldiers); MMA excavations, 1926–27. Cropped to the inked column on the linen; the rest of the cloth is blank. Image 1200x1800 px, from the Met original file."
+}

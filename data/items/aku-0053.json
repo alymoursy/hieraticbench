@@ -1,0 +1,31 @@
+{
+  "id": "aku-0053",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0053.png",
+  "title": "Single hieratic sign, New York City, Metropolitan Museum of Art, 22.3.518 (AKU HT 3676)",
+  "script": "hieratic",
+  "gardiner": [
+    "U28",
+    "U29"
+  ],
+  "object": {
+    "name": "New York City, Metropolitan Museum of Art, 22.3.518",
+    "date": "Middle Kingdom, Dynasty 12, Senusret I",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "content": "Brief (an einen Lebenden)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/3676",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_3676.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by James P. Allen; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 3676",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 3676; AKU grapheme U0290 (AKU GR 658). Gold = the grapheme's MdC code(s) as given by AKU-PAL: U28 (std), U29 (var). Möller numbers listed by AKU-PAL for this grapheme: 391, 391 (v4p2). Source publication of this facsimile: Allen 2002. Occurrence: find place Deir el-Bahri; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 9.6 x 4.1 mm (h x w). AKU dating: \"Mittleres Reich, 12. Dynastie, Sesostris I.\". Facsimile type: Digitalisat (Kooperationspartner), by James P. Allen. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

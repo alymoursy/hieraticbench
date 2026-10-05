@@ -1,0 +1,28 @@
+{
+  "id": "wm-0034",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0034.jpg",
+  "title": "Pottery ostracon with two oaths written by Amunkha (Turin S. 9754)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon Turin S. 9754",
+    "date": "c. 1292–1077 BCE",
+    "period": "New Kingdom, 19th–20th Dynasty",
+    "material": "baked clay (pottery) ostracon",
+    "holder": "Museo Egizio, Turin (S. 9754)",
+    "content": "Two oaths"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_ostracon_inscribed_with_two_oaths,_written_by_Amunkha,_baked_clay_-_Museo_Egizio,_Turin_S_9754_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Hieratic_ostracon_inscribed_with_two_oaths%2C_written_by_Amunkha%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_9754_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo; faint ink on a pottery sherd. From Deir el-Medina. Date from the Wikidata item."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wm-0022",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0022.jpg",
+  "title": "Wilbour Papyrus, columns 66–68 (Brooklyn 34.5596.26)",
+  "script": "hieratic",
+  "object": {
+    "name": "Wilbour Papyrus",
+    "period": "New Kingdom, late Ramesside Period",
+    "material": "papyrus",
+    "holder": "Brooklyn Museum (34.5596.26)",
+    "content": "Land survey register (administrative)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Wilbour_Spalten_66-68_Brooklyn_Museum_Egyptian_Collection_Acc._No._34.5596.26_Licenz_CC-BY-3.0_CUR.34.5596.26_front_IMLS_PS5.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Papyrus_Wilbour_Spalten_66-68_Brooklyn_Museum_Egyptian_Collection_Acc._No._34.5596.26_Licenz_CC-BY-3.0_CUR.34.5596.26_front_IMLS_PS5.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Brooklyn Museum, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Administrative register hand with repeated entries and red ink. Modern column-number tags and accession label cropped out. Period from the Wikipedia article."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0108",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0108.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 10621 (AKU HT 59685)",
+  "script": "hieratic",
+  "gardiner": [
+    "G41"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 10621",
+    "date": "New Kingdom, Dynasty 18, Thutmose III",
+    "period": "New Kingdom",
+    "material": "limestone (ostracon)",
+    "content": "Administrativer Text (working report)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/59685",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_59685.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Svenja Stern; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 59685",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 59685; AKU grapheme G0540 (AKU GR 274). Gold = the grapheme's MdC code(s) as given by AKU-PAL: G41 (std). Möller numbers listed by AKU-PAL for this grapheme: 220 (v4p12), 221, 222. Occurrence: line 5; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.2 x 5 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Thutmosis III.\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Svenja Stern. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

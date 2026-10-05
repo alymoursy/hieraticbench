@@ -1,0 +1,28 @@
+{
+  "id": "wm-0024",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0024.jpg",
+  "title": "Papyrus Bologna 1086 (letter of Bakenamun)",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Bologna 1086 (KS 3161)",
+    "date": "Reign of Merenptah",
+    "period": "New Kingdom, 19th Dynasty",
+    "material": "papyrus",
+    "holder": "Museo Civico Archeologico, Bologna (KS 3161)",
+    "content": "Letter of the scribe Bakenamun to the priest Ramose about a Syrian slave"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Bologna_1086.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Papyrus_Bologna_1086.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Khruner, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo taken through display glass. Upper part with strong reflections cropped out."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0075",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0075.png",
+  "title": "Single hieratic sign, Brooklyn (NY), The Brooklyn Museum, 47.218.18 (AKU HT 72059)",
+  "script": "hieratic",
+  "gardiner": [
+    "N5"
+  ],
+  "object": {
+    "name": "Brooklyn (NY), The Brooklyn Museum, 47.218.18",
+    "date": "Old Kingdom, Dynasty 6, Pepy II",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Brief (an einen Lebenden)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/72059",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_72059.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 72059",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 72059; AKU grapheme N0090 (AKU GR 394). Gold = the grapheme's MdC code(s) as given by AKU-PAL: N5 (std). Möller numbers listed by AKU-PAL for this grapheme: 303, 303B. Occurrence: find place Elephantine; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.9 x 6.6 mm (h x w). AKU dating: \"Altes Reich, 6. Dynastie, Pepi II.\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

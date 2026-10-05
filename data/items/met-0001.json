@@ -1,0 +1,28 @@
+{
+  "id": "met-0001",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0001.jpg",
+  "title": "Hieratic Jar Label, Met 17.10.2",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic Jar Label (Met 17.10.2)",
+    "date": "ca. 1386–1347 BCE",
+    "period": "New Kingdom; Dynasty 18; reign of Amenhotep III",
+    "material": "Pottery",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Jar label"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/544510",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/17.10.2_EGDP011882.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1917",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 17.10.2; Met objectName: \"Jar Label, fat\"; Met tags: Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Malqata, House 3 W; MMA excavations. Cropped to the inked label on the shoulder of the jar. Image 1900x750 px, from the Met original file."
+}

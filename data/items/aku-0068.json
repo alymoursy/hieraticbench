@@ -1,0 +1,30 @@
+{
+  "id": "aku-0068",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0068.png",
+  "title": "Single hieratic sign, Kairo, Ägyptisches Museum, TR 25/3/52/1_(15+19) (AKU HT 51167)",
+  "script": "hieratic",
+  "gardiner": [
+    "A1"
+  ],
+  "object": {
+    "name": "Kairo, Ägyptisches Museum, TR 25/3/52/1_(15+19)",
+    "date": "Second Intermediate Period, Dynasty 15 – Second Intermediate Period, Dynasty 17",
+    "period": "Second Intermediate Period",
+    "material": "limestone (ostracon)",
+    "content": "Kemit"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/51167",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_51167.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Aurore Motte; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 51167",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 51167; AKU grapheme A0010 (AKU GR 1). Gold = the grapheme's MdC code(s) as given by AKU-PAL: A1 (std). Möller numbers listed by AKU-PAL for this grapheme: 33, 33B. Occurrence: find place Scheich Abd el-Qurna; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 8 x 13.7 mm (h x w). AKU dating: \"Zweite Zwischenzeit, 15. Dynastie – Zweite Zwischenzeit, 17. Dynastie\". Facsimile type: Digitalisat (Kooperationspartner), by Aurore Motte. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

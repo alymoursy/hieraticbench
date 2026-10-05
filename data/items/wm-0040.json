@@ -1,0 +1,28 @@
+{
+  "id": "wm-0040",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0040.jpg",
+  "title": "Ostracon mentioning the inspection of tombs (BM EA 51842)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon BM EA 51842",
+    "date": "c. 1070–945 BCE",
+    "period": "Third Intermediate Period, 21st Dynasty",
+    "material": "ostracon",
+    "holder": "British Museum, London (EA 51842)",
+    "content": "Names officials involved in the inspection and clearing of tombs; from Thebes"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:OstraconMentioningInspectionOfTombs-BritishMuseum-August21-08.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/OstraconMentioningInspectionOfTombs-BritishMuseum-August21-08.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Captmondo, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Large, widely spaced signs."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "met-0003",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0003.jpg",
+  "title": "Hieratic ostracon recording the accession of Seti II, Met 14.6.217",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic ostracon recording the accession of Seti II (Met 14.6.217)",
+    "date": "ca. 1214–1208 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 19; Reign of Seti II",
+    "material": "Limestone, paint",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Record of the accession of Seti II"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/545194",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/14.6.217_front.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Theodore M. Davis, 1913",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 14.6.217; Met objectName: \"Ostracon, hieratic, Seti II\"; Met tags: Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings; Davis excavations, before 1913. Front view (additional image 1); trimmed background. Image 2000x1960 px, from the Met original file."
+}

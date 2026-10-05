@@ -1,0 +1,28 @@
+{
+  "id": "met-0022",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0022.jpg",
+  "title": "Accounts of workforce salaries, Met 22.3.527",
+  "script": "hieratic",
+  "object": {
+    "name": "Accounts of workforce salaries (Met 22.3.527)",
+    "date": "ca. 1961–1917 B.C.",
+    "period": "Middle Kingdom; Dynasty 12; reign of Senwosret I",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Accounts of workforce salaries"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/545455",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/22.3.527_EGDP012541.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 22.3.527; Met objectName: \"Papyrus, Harhotep, account\"; Met tags: Documents, Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Tomb of Harhotep (TT 314, MMA 513); MMA excavations, 1921–22. Additional image 1, full, no crop. Image 1155x2000 px, from the Met original file."
+}

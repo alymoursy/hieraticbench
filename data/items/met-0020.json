@@ -1,0 +1,28 @@
+{
+  "id": "met-0020",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0020.jpg",
+  "title": "Hieratic ostracon inscribed with literary text and work journal, Met 14.6.216",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic ostracon inscribed with literary text and work journal (Met 14.6.216)",
+    "date": "ca. 1300–1080 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 19–20",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Literary text and work journal"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/569131",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/14.6.216_front.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Theodore M. Davis, 1914",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 14.6.216; Met objectName: \"Ostracon, hieratic\"; Met tags: Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings; Davis excavations, before 1913. Trimmed background. Image 2000x1289 px, from the Met original file."
+}

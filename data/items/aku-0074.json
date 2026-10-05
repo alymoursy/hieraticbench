@@ -1,0 +1,31 @@
+{
+  "id": "aku-0074",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0074.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3013 A–B (AKU HT 67844)",
+  "script": "hieratic",
+  "gardiner": [
+    "Aa28",
+    "Aa29"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3013 A–B",
+    "date": "Third Intermediate Period, Dynasty 21 – Third Intermediate Period, Dynasties 22–23",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Totenbuch"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/67844",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_67844_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 67844",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 67844; AKU grapheme U0300 (AKU GR 765). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Aa28 (std), Aa29 (var). Möller numbers listed by AKU-PAL for this grapheme: 488, 488 (v4p6). Source publication of this facsimile: Möller 1936a. Occurrence: line 1; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 12.6 x 4.8 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 21. Dynastie – Dritte Zwischenzeit, 22.–23. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

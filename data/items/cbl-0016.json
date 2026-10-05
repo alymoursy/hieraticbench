@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0016",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0016.jpg",
+  "title": "Legal document relating to land (Gebelein), Chester Beatty Pap XXVII",
+  "script": "demotic",
+  "object": {
+    "name": "Chester Beatty Pap XXVII",
+    "date": "96-95 BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Legal document relating to land (Gebelein)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXVII",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXVII/files/images/PapXXVII_02059.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXVII. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXVII; CBL title: \"Legal document relating to land (Gebelein)\"; CBL 'Script type': \"Demotic script\"; place: Gebelein. Canvas: \"Side 1\". Side 1; cropped to the right-hand part of the sheet. Control item. License: Europeana record /1100/6475 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x879 px."
+}

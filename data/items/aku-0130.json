@@ -1,0 +1,30 @@
+{
+  "id": "aku-0130",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0130.png",
+  "title": "Single hieratic sign, Brooklyn (NY), The Brooklyn Museum, 47.218.84 (AKU HT 55103)",
+  "script": "hieratic",
+  "gardiner": [
+    "Aa1"
+  ],
+  "object": {
+    "name": "Brooklyn (NY), The Brooklyn Museum, 47.218.84",
+    "date": "Late Period, Dynasty 26, Psamtik I",
+    "period": "Late Period",
+    "material": "papyrus",
+    "content": "Mythologischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/55103",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_55103.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Dimitri Meeks; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 55103",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 55103; AKU grapheme J0010 (AKU GR 746). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Aa1 (std). Möller numbers listed by AKU-PAL for this grapheme: 574. Source publication of this facsimile: Meeks 2006. Occurrence: line 3; find place Heliopolis; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 7 x 8.2 mm (h x w). AKU dating: \"Spätzeit, 26. Dynastie, Psammetich I.\". Facsimile type: Digitalisat (Kooperationspartner), by Dimitri Meeks. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

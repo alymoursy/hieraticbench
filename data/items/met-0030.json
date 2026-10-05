@@ -1,0 +1,28 @@
+{
+  "id": "met-0030",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0030.jpg",
+  "title": "Ostracon With a Sketch for a Mereseger Stela, Met 09.184.705",
+  "script": "hieroglyphic",
+  "object": {
+    "name": "Ostracon With a Sketch for a Mereseger Stela (Met 09.184.705)",
+    "date": "ca. 1300–1200 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 19",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Sketch for a stela of Meretseger"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/561347",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-33589-001.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Theodore M. Davis, 1909",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 09.184.705; Met objectName: \"Ostracon, hieroglyphic, stela sketch, Meretseger, Khawy, Nebenmaat\". Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings; Davis excavations. Cropped to the inscribed lower part. Script per Met objectName ('Ostracon, hieroglyphic, stela sketch'). Control item. Image 2000x1434 px, from the Met original file."
+}

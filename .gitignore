@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+
+# The answer key never leaves the maintainer's machine.
+data/private/
+
+# Unscored outputs for sealed rungs. They may contain a correct reading,
+# so they are scored privately before anything is committed.
+results/inbox/
+
+# Generated from data/ and results/ by site/scripts/sync-data.mjs
+site/public/data/
+site/src/generated/

@@ -1,0 +1,28 @@
+{
+  "id": "wm-0011",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0011.jpg",
+  "title": "Westcar Papyrus (P. Berlin 3033), museum photo",
+  "script": "hieratic",
+  "object": {
+    "name": "Westcar Papyrus (P. Berlin 3033)",
+    "date": "18th–16th century BCE",
+    "period": "Second Intermediate Period (Hyksos period)",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin",
+    "content": "Tales of wonder at the court of King Khufu"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:PapyrusWestcar_photomerge-AltesMuseum-Berlin-1A.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PapyrusWestcar_photomerge-AltesMuseum-Berlin-1A.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Keith Schengili-Roberts (photo); derivative work by JMCC1, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Merged museum photos (Altes Museum, Berlin). Dense literary hand with red rubrics. Date and period from the Wikipedia article."
+}

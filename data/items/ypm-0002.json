@@ -1,0 +1,28 @@
+{
+  "id": "ypm-0002",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/ypm-0002.jpg",
+  "title": "Small stela of Hornakht, YPM ANT 261382",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Small stela of Hornakht (Yale Peabody Museum YPM ANT 261382)",
+    "date": "ca. 1900-1700 BCE",
+    "period": "Middle Kingdom",
+    "material": "limestone with ink",
+    "holder": "Yale Peabody Museum, New Haven",
+    "content": "Name of Hornakht and his immediate family"
+  },
+  "source": {
+    "url": "https://collections.peabody.yale.edu/search/Record/YPM-ANT-261382",
+    "fileUrl": "https://images.collections.yale.edu/iiif/2/ypm:b667f4b2-135b-4d8f-86f3-3f4cafbf5d16/full/full/0/default.jpg",
+    "license": "CC0 1.0 (Yale Peabody Museum Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Yale Peabody Museum, Division of Anthropology. CC0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "YPM catalog number YPM ANT 261382 (accession YPM.10017, received via donation, 1996). Script per the YPM record: \"contains six lines of cursive hieroglyphic text (a hybrid of hieroglyphic and hieratic forms)\"; findspot Abydos, Egypt. Photo by J. Domian, 2006 (IIIF canvas 3 of the manifest), full frame, no crop. Control item; note the museum itself calls the hand a hybrid of hieroglyphic and hieratic forms, so this is a hard boundary case. License: the IIIF manifest (https://manifests.collections.yale.edu/ypm/nat/254915) gives rights https://creativecommons.org/publicdomain/zero/1.0/ and the statement 'Open Access; see museum policies at http://hdl.handle.net/10079/8931zqj'. Image 1907x2000 px."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wm-0038",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0038.jpg",
+  "title": "Ostracon with the beginning of the Wisdom of Amenemope (MET 26.3.165)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon MET 26.3.165",
+    "date": "525–404 BCE",
+    "material": "limestone ostracon",
+    "holder": "Metropolitan Museum of Art, New York (26.3.165)",
+    "content": "Instruction of Amenemope (beginning)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_Ostracon_with_the_beginning_of_%22The_Wisdom_of_Amenemope%22_MET_LC-26_3_165_EGDP027774.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hieratic_Ostracon_with_the_beginning_of_%22The_Wisdom_of_Amenemope%22_MET_LC-26_3_165_EGDP027774.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Metropolitan Museum of Art, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Written entirely in red ink. Left end cropped just past a red '30' that may be a modern number. MET date 525–404 BCE (a late copy)."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0032",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0032.png",
+  "title": "Single hieratic sign, Berkeley (CA), University of California - Bancroft Library, P. Hearst 1282 (AKU HT 32463)",
+  "script": "hieratic",
+  "gardiner": [
+    "D36"
+  ],
+  "object": {
+    "name": "Berkeley (CA), University of California - Bancroft Library, P. Hearst 1282",
+    "date": "First Intermediate Period, Dynasty 9/10",
+    "period": "First Intermediate Period",
+    "material": "papyrus",
+    "content": "Totenbrief"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/32463",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_32463.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 32463",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 32463; AKU grapheme D0490 (AKU GR 151). Gold = the grapheme's MdC code(s) as given by AKU-PAL: D36 (std). Möller numbers listed by AKU-PAL for this grapheme: 99. Occurrence: find place Naga ed-Deir; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.5 x 9 mm (h x w). AKU dating: \"Erste Zwischenzeit, 9./10. Dynastie\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "met-0025",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0025.jpg",
+  "title": "Ostracon with Pharaoh Spearing a Lion and a Royal Hymn on its Back, Met 26.7.1453",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon with Pharaoh Spearing a Lion and a Royal Hymn on its Back (Met 26.7.1453)",
+    "date": "ca. 1200–1080 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 20",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Royal hymn (back of an ostracon with a drawing of a pharaoh spearing a lion)"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/544076",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/26.7.1453_back.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Purchase, Edward S. Harkness Gift, 1926",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 26.7.1453; Met objectName: \"Ostracon, figured, pharaoh, Lion, hieratic\"; Met tags: Men, Hunting, Dogs, Lions. Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings, Tomb of Tutankhamun (KV 62); Carnarvon/Carter excavations, 1920. Additional image 1 (back, text side), full. The drawn front side was not used. Image 2000x1786 px, from the Met original file."
+}

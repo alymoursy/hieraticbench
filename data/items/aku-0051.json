@@ -1,0 +1,30 @@
+{
+  "id": "aku-0051",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0051.png",
+  "title": "Single hieratic sign, Kairo, Ägyptisches Museum, JE 26230 (AKU HT 42075)",
+  "script": "hieratic",
+  "gardiner": [
+    "W22"
+  ],
+  "object": {
+    "name": "Kairo, Ägyptisches Museum, JE 26230",
+    "date": "Third Intermediate Period, Dynasty 21, Siamun, regnal year 5",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Totenbuch"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/42075",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_42075_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 42075",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 42075; AKU grapheme W0030 (AKU GR 709). Gold = the grapheme's MdC code(s) as given by AKU-PAL: W22 (std). Möller numbers listed by AKU-PAL for this grapheme: 497, 497 (v4p14), 497 (v4p6). Source publication of this facsimile: Möller 1936b. Occurrence: line 19; find place Deir el-Bahri; writing direction \"Zeilen, linksläufig prograd\"; sign size 5.6 x 2.9 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 21. Dynastie, Siamun, Regierungsjahr 5\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller, Hanns Przybylla. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

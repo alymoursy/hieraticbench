@@ -1,0 +1,27 @@
+{
+  "id": "met-0024",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0024.jpg",
+  "title": "Jar With Hieratic Inscription, Met 16.10.501",
+  "script": "hieratic",
+  "object": {
+    "name": "Jar With Hieratic Inscription (Met 16.10.501)",
+    "date": "ca. 1550–1458 BCE",
+    "period": "New Kingdom; Dynasty 18, early",
+    "material": "Pottery (rough red, originally whitewashed), paint",
+    "holder": "The Metropolitan Museum of Art, New York"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/546948",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/16.10.501_left.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1916",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 16.10.501; Met objectName: \"Jar, painted, inscribed\". Provenance per Met: Egypt, Upper Egypt, Thebes, Asasif, Courtyard CC 41, Tomb R 7; MMA excavations, 1915–16. Additional image 3 (detail); cropped to the inscribed band on the jar. Image 2000x766 px, from the Met original file."
+}

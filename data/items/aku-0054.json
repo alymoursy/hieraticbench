@@ -1,0 +1,30 @@
+{
+  "id": "aku-0054",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0054.png",
+  "title": "Single hieratic sign, Paris, Musée du Louvre, E 25416 (AKU HT 58454)",
+  "script": "hieratic",
+  "gardiner": [
+    "I9"
+  ],
+  "object": {
+    "name": "Paris, Musée du Louvre, E 25416",
+    "date": "Old Kingdom, Dynasty 5, Djedkare",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Rechnung"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/58454",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_58454.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 58454",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 58454; AKU grapheme I0150 (AKU GR 309). Gold = the grapheme's MdC code(s) as given by AKU-PAL: I9 (std). Möller numbers listed by AKU-PAL for this grapheme: 263. Source publication of this facsimile: Posener-Kriéger und Cenival 1968, pl. 6. Occurrence: line 39; find place Abusir; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 2.9 x 6.4 mm (h x w). AKU dating: \"Altes Reich, 5. Dynastie, Djedkare\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

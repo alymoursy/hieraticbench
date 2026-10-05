@@ -1,0 +1,14 @@
+{
+  "name": "hieraticbench",
+  "private": true,
+  "workspaces": [
+    "bench",
+    "site"
+  ],
+  "scripts": {
+    "bench": "npm run --silent -w bench cli --",
+    "test": "npm run -w bench test",
+    "dev": "npm run -w site dev",
+    "build": "npm run -w site build"
+  }
+}

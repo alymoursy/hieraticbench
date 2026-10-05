@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0004",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0004.jpg",
+  "title": "Papyrus fragments, Chester Beatty Pap XXII",
+  "script": "hieratic",
+  "object": {
+    "name": "Chester Beatty Pap XXII",
+    "date": "c. 1800 BC (Lahun fragments), 100 BC-100 AD (Book of the Dead fragments)",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Lahun fragments (literary text, name list, letter, accounts)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXII",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXII/files/images/PapXXII_01914.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXII. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXII; CBL title: \"Papyrus fragments\"; CBL 'Script type': \"Hieroglyphic script; Hieratic script\". Canvas: \"Side 1\". Side 1; cropped to the two inscribed fragments at the upper right of the mount, from the Lahun group which the CBL description dates to c. 1800 BC and says are written in hieratic. The two hieroglyphic Book of the Dead fragments on the same mount are excluded (used separately as a control). License: Europeana record /1100/6468 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 1950x1350 px."
+}

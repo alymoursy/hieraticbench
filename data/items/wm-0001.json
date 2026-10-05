@@ -1,0 +1,27 @@
+{
+  "id": "wm-0001",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0001.jpg",
+  "title": "Papyrus Berlin 9010 (civil judgment), recto",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Berlin 9010",
+    "period": "Old Kingdom, 6th Dynasty",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin",
+    "content": "Civil judgment (inheritance dispute)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_9010_(recto).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Papyrus_Berlin_9010_%28recto%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sandra Steiß (scan), Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum scan (photo). Cropped to the written area; the SMB copyright line and scale bar were cut off. Date from the Commons file ('Sixth Dynasty of Egypt'); content from the Wikidata item and the Berlin museum label in File:-2300 Gerichtsurteil in einer Erbstreitigkeit anagoria.JPG."
+}

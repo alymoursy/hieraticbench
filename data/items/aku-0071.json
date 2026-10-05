@@ -1,0 +1,30 @@
+{
+  "id": "aku-0071",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0071.png",
+  "title": "Single hieratic sign, New York City, Academy of Medicine, 217 (AKU HT 44600)",
+  "script": "hieratic",
+  "gardiner": [
+    "M2"
+  ],
+  "object": {
+    "name": "New York City, Academy of Medicine, 217",
+    "date": "Second Intermediate Period, Dynasty 17 – New Kingdom, Dynasty 18",
+    "period": "Second Intermediate Period",
+    "material": "papyrus",
+    "content": "Medizinischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/44600",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_44600_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by James Henry Breasted; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 44600",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 44600; AKU grapheme M0320 (AKU GR 384). Gold = the grapheme's MdC code(s) as given by AKU-PAL: M2 (std). Möller numbers listed by AKU-PAL for this grapheme: 268. Source publication of this facsimile: Breasted 1930, p. 26. Occurrence: line 17; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 8.3 x 7.7 mm (h x w). AKU dating: \"Zweite Zwischenzeit, 17. Dynastie – Neues Reich, 18. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by James Henry Breasted. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

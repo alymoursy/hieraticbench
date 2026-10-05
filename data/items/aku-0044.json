@@ -1,0 +1,30 @@
+{
+  "id": "aku-0044",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0044.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3048 rto (AKU HT 68401)",
+  "script": "hieratic",
+  "gardiner": [
+    "R11"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3048 rto",
+    "date": "Third Intermediate Period, Dynasties 22–23",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Hymnus im Götterkult"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/68401",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_68401_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 68401",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 68401; AKU grapheme R0110 (AKU GR 529). Gold = the grapheme's MdC code(s) as given by AKU-PAL: R11 (std). Möller numbers listed by AKU-PAL for this grapheme: 541. Source publication of this facsimile: Möller 1936a. Occurrence: line 1; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 15.3 x 14.5 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 22.–23. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

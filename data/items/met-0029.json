@@ -1,0 +1,28 @@
+{
+  "id": "met-0029",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0029.jpg",
+  "title": "Sheet from the Papyrus of Amenhotep, Met 30.8.70a",
+  "script": "hieroglyphic",
+  "object": {
+    "name": "Sheet from the Papyrus of Amenhotep (Met 30.8.70a)",
+    "date": "ca. 1427–1386 BCE",
+    "period": "New Kingdom; Dynasty 18; reign of Amenhotep II–Thutmose IV",
+    "material": "Papyrus, ink, pigment",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Book of the Dead"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/554676",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP292922.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 30.8.70a; Met objectName: \"Papyrus, Book of the Dead, Amenhotep, TT A 7\"; Met tags: Hieroglyphs. Provenance per Met: Dra Abu el-Naga, Tomb of Amenhotep, TT A 7. Cropped to text columns left of the vignette. Script label per the Met tag 'Hieroglyphs'. The hand is the cursive hieroglyphic usual in New Kingdom Book of the Dead papyri, but the Met record does not use that phrase (it is not returned by a phrase search for \"cursive hieroglyphs\"), so the gold is the broader 'hieroglyphic' (same family in scoring). Control item. Image 1961x2000 px, from the Met original file."
+}

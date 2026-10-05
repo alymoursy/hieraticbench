@@ -1,0 +1,28 @@
+{
+  "id": "wm-0012",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0012.jpg",
+  "title": "Westcar Papyrus, printed facsimile in Erman, Die Literatur der Ägypter (1923)",
+  "script": "hieratic",
+  "object": {
+    "name": "Westcar Papyrus (P. Berlin 3033)",
+    "date": "18th–16th century BCE",
+    "period": "Second Intermediate Period (Hyksos period)",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin",
+    "content": "Tale of King Khufu and the magicians"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Die_Literatur_der_%C3%84gypter_Erman_020.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Die_Literatur_der_%C3%84gypter_Erman_020.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Adolf Erman (1854–1937), Die Literatur der Ägypter (1923), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Printed facsimile (hand-copied line reproduction, not a photograph). The book caption, which names the script, was cropped out. Same manuscript as wm-0011."
+}

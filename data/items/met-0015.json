@@ -1,0 +1,28 @@
+{
+  "id": "met-0015",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0015.jpg",
+  "title": "Hieratic Ostracon Dated to Year 21 of Ramesses II, Met 09.184.183",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic Ostracon Dated to Year 21 of Ramesses II (Met 09.184.183)",
+    "date": "ca. 1269 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 19; Reign of Ramesses II, year 21",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Dated to Year 21 of Ramesses II"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/558590",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/LC-09_184_183_EGDP025594.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Theodore M. Davis, 1909",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 09.184.183; Met objectName: \"Ostracon, hieratic, Ramesses II\". Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings, Workmen's Huts near KV 55 (site 18) or between KV 18 and KV 21; Davis/Ayrton excavations, 1907–08. Cropped to the ostracon. Image 2000x1857 px, from the Met original file."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wm-0045",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0045.jpg",
+  "title": "Linen with a funerary text (Albany Institute), detail",
+  "script": "hieratic",
+  "object": {
+    "name": "Funerary text on linen, Albany Institute",
+    "date": "1069–664 BCE",
+    "period": "Third Intermediate Period",
+    "material": "linen",
+    "holder": "Albany Institute of History and Art"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Funerary_text,_Egypt,_hieratic_script,_Third_Intermediate_Period,_1069-664_BC,_linen_with_ink_-_Albany_Institute_of_History_and_Art_-_DSC08195.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Funerary_text%2C_Egypt%2C_hieratic_script%2C_Third_Intermediate_Period%2C_1069-664_BC%2C_linen_with_ink_-_Albany_Institute_of_History_and_Art_-_DSC08195.JPG",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Daderot, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Gallery photo; ink on linen weave. Cropped to the right text block; small vignette figures at top edge."
+}

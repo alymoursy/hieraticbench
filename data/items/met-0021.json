@@ -1,0 +1,28 @@
+{
+  "id": "met-0021",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0021.jpg",
+  "title": "Heqanakht Account VI, Met 22.3.521",
+  "script": "hieratic",
+  "object": {
+    "name": "Heqanakht Account VI (Met 22.3.521)",
+    "date": "ca. 1961–1917 B.C.",
+    "period": "Middle Kingdom; Dynasty 12; reign of Senwosret I",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Account (Heqanakht Account VI)"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/545450",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/22.3.521_3183.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 22.3.521; Met objectName: \"Papyrus, letter, Heqanakht\"; Met tags: Documents, Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Tomb of Ipy (TT 315, MMA 516B); MMA excavations, 1921–22. Full image, no crop. Image 1350x2000 px, from the Met original file."
+}

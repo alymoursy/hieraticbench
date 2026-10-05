@@ -1,0 +1,30 @@
+{
+  "id": "aku-0079",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0079.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3022 / New York City, Pierpont Morgan Library, Amh. Egy. Pap. 4 (AKU HT 13215)",
+  "script": "hieratic",
+  "gardiner": [
+    "S40"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3022 / New York City, Pierpont Morgan Library, Amh. Egy. Pap. 4",
+    "date": "Middle Kingdom, Dynasty 12, Amenemhet III",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "content": "Erzählung (Die Geschichte des Sinuhe)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/13215",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_13215_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 13215",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 13215; AKU grapheme S0670 (AKU GR 594). Gold = the grapheme's MdC code(s) as given by AKU-PAL: S40 (std). Möller numbers listed by AKU-PAL for this grapheme: 455. Source publication of this facsimile: Möller 1927a, p. 43, no. 455. Occurrence: find place Theben West; writing direction \"Kolumnen, linksläufig prograd\"; sign size 15.7 x 5.2 mm (h x w). AKU dating: \"Mittleres Reich, 12. Dynastie, Amenemhet III.\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

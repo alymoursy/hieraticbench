@@ -1,0 +1,30 @@
+{
+  "id": "aku-0131",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0131.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10490 (AKU HT 10762)",
+  "script": "hieratic",
+  "gardiner": [
+    "G43"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10490",
+    "date": "Third Intermediate Period, Dynasty 21, Psusennes I",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Totenbuch"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/10762",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_10762_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 10762",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 10762; AKU grapheme G0460 (AKU GR 267). Gold = the grapheme's MdC code(s) as given by AKU-PAL: G43 (std). Möller numbers listed by AKU-PAL for this grapheme: 200, 200 (v4p5). Source publication of this facsimile: Möller 1927b, p. 18, no. 200. Occurrence: line 4; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 10.4 x 7.9 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 21. Dynastie, Psusennes I.\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

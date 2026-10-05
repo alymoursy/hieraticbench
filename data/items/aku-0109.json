@@ -1,0 +1,30 @@
+{
+  "id": "aku-0109",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0109.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 9010 (AKU HT 9600)",
+  "script": "hieratic",
+  "gardiner": [
+    "G37"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 9010",
+    "date": "Old Kingdom, Dynasty 6",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Juristische Urkunde"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/9600",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_9600.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 9600",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 9600; AKU grapheme G0840 (AKU GR 287). Gold = the grapheme's MdC code(s) as given by AKU-PAL: G37 (std). Möller numbers listed by AKU-PAL for this grapheme: 197, 197 (v4p8). Source publication of this facsimile: Möller 1927a, p. 19, no. 197. Occurrence: find place Elephantine; writing direction \"Kolumnen, linksläufig prograd\"; sign size 7.3 x 11 mm (h x w). AKU dating: \"Altes Reich, 6. Dynastie\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

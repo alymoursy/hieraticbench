@@ -1,0 +1,28 @@
+{
+  "id": "met-0011",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0011.jpg",
+  "title": "Hieratic Papyrus fragment, Met O.C.3569",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic Papyrus fragment (Met O.C.3569)",
+    "date": "ca. 1181 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 20; reign of Ramesses III",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Letter / account"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/549250",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/O.C.3569_EGDP015269.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Museum Accession",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession O.C.3569; Met objectName: \"Papyrus, letter, account\"; Met tags: Documents, Hieratic. Provenance per Met: Memphite Region, Memphis (Mit Rahina). Full image, no crop. Image 1741x2000 px, from the Met original file."
+}

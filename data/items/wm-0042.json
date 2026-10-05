@@ -1,0 +1,25 @@
+{
+  "id": "wm-0042",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0042.jpg",
+  "title": "Hieratic reburial docket on the coffin of Ramesses II",
+  "script": "hieratic",
+  "object": {
+    "name": "Coffin used for the reburial of Ramesses II",
+    "material": "wood (coffin)",
+    "content": "Docket recording the reburial"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_docket_coffin_of_Ramesses_II.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hieratic_docket_coffin_of_Ramesses_II.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Merytat3n, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Photo; ink docket on wood grain. The cartouches above the docket were cropped out. No date given by the source."
+}

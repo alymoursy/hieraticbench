@@ -1,0 +1,28 @@
+{
+  "id": "met-0013",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0013.jpg",
+  "title": "Hieratic copy of the Teaching of Amenemhat I, Met 32.1.119",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic copy of the Teaching of Amenemhat I (Met 32.1.119)",
+    "date": "ca. 1300–1080 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 19–20",
+    "material": "Pottery, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Teaching of Amenemhat I (copy)"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/555544",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP330301.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1932",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 32.1.119; Met objectName: \"Ostracon, hieratic, instruction of Amenemhat I\"; Met tags: Hieratic. Provenance per Met: Egypt, Memphite Region, Lisht South; MMA excavations, 1931–32. Cropped to the joined sherds. Image 2000x1723 px, from the Met original file."
+}

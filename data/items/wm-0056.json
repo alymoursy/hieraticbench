@@ -1,0 +1,28 @@
+{
+  "id": "wm-0056",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0056.jpg",
+  "title": "Papyrus of Ani (BM), detail of text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Papyrus of Ani",
+    "date": "c. 1250 BCE",
+    "period": "New Kingdom, 19th Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London",
+    "content": "Book of the Dead"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Ani_curs_hiero.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Papyrus_Ani_curs_hiero.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "British Museum (photo via Bridgeman Art Library v. Corel Corp.), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Control (not hieratic). The file is a detail of cursive hieroglyphs (Commons category 'Cursive hieroglyphs'). Date and period from the Wikipedia article."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wm-0002",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0002.jpg",
+  "title": "Abusir papyrus (temple archive of Neferirkare), detail",
+  "script": "hieratic",
+  "object": {
+    "name": "Abusir Papyri",
+    "date": "c. 2454–2311 BCE",
+    "period": "Old Kingdom, 5th Dynasty",
+    "material": "papyrus",
+    "content": "Administrative records of the funerary temple of Neferirkare"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Abusir_papyrus_-_Pharaoh_exhibit_-_Cleveland_Museum_of_Art_(27910051062).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Abusir_papyrus_-_Pharaoh_exhibit_-_Cleveland_Museum_of_Art_%2827910051062%29.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Tim Evanson, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Photo taken through glass at the 'Pharaoh' exhibition, Cleveland Museum of Art. Tabular Old Kingdom administrative hand; a few cartouches. Period from the Wikipedia article 'Abusir Papyri'."
+}

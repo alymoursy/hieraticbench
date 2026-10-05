@@ -1,0 +1,27 @@
+{
+  "id": "met-0017",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0017.jpg",
+  "title": "Hieratic ostracon, Met 09.184.749",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic ostracon (Met 09.184.749)",
+    "date": "ca. 1200–1080 BCE",
+    "period": "New Kingdom, Ramesside; Dynasty 20",
+    "material": "Limestone, ink, paint",
+    "holder": "The Metropolitan Museum of Art, New York"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/561390",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/09.184.749_EGDP017623.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Theodore M. Davis, 1909",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 09.184.749; Met objectName: \"Ostracon, hieratic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Valley of the Kings; Davis excavations 1909. Additional image 4 (brighter lighting); cropped to the ostracon. Image 1356x2000 px, from the Met original file."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "met-0014",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0014.jpg",
+  "title": "Hieratic ostracon with one column of accounts, Met 26.3.166",
+  "script": "hieratic",
+  "object": {
+    "name": "Hieratic ostracon with one column of accounts (Met 26.3.166)",
+    "date": "525–404 BCE",
+    "period": "Late Period, Persian Period; Dynasty 27",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Accounts (one column)"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/558434",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-37521-001.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1926",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 26.3.166; Met objectName: \"Ostracon, hieratic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Tomb of Nespekashuty (TT 312, MMA 509); MMA excavations, 1922–23. Cropped to the inscribed upper part of the ostracon. Caveat: the Met record (title says hieratic) is also returned by a Met API phrase search for \"cursive hieroglyphs\", so its description, which could not be retrieved (website blocks scripted access), mentions cursive hieroglyphs somewhere; this ostracon belongs to the 26.3.165-171 group, one of which (26.3.169) is titled as mixing hieratic with names in hieroglyphs. Worth an expert glance. Image 1577x2000 px, from the Met original file."
+}

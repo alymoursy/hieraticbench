@@ -1,0 +1,28 @@
+{
+  "id": "wm-0036",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0036.jpg",
+  "title": "Wooden writing tablet with the fable of the head and the body (Turin Cat. 6238), detail",
+  "script": "hieratic",
+  "object": {
+    "name": "Writing tablet Turin Cat. 6238",
+    "date": "c. 1190–1077 BCE",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "wood (writing tablet)",
+    "holder": "Museo Egizio, Turin (Cat. 6238)",
+    "content": "Fable: the dispute between the head and the body"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Writing_tablet_bearing_the_hieratic_text_of_a_fable,_wood_-_Museo_Egizio,_Turin_C_6238_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Writing_tablet_bearing_the_hieratic_text_of_a_fable%2C_wood_-_Museo_Egizio%2C_Turin_C_6238_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo; dark ink on dark wood, low contrast. Cropped to the right half of the tablet. From Deir el-Medina. Date from the Wikidata item."
+}

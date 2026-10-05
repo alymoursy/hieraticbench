@@ -1,0 +1,30 @@
+{
+  "id": "aku-0005",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0005.png",
+  "title": "Single hieratic sign, Paris, Musée du Louvre, N 815 (AKU HT 187)",
+  "script": "hieratic",
+  "gardiner": [
+    "A51"
+  ],
+  "object": {
+    "name": "Paris, Musée du Louvre, N 815",
+    "date": "Late Period, Dynasty 26, Apries Haaibre, regnal year 1, month 2, season pr.t",
+    "period": "Late Period",
+    "material": "wood (plaque)",
+    "content": "Administrativer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/187",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_187_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 187",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 187; AKU grapheme A1440 (AKU GR 30). Gold = the grapheme's MdC code(s) as given by AKU-PAL: A51 (std). Möller numbers listed by AKU-PAL for this grapheme: 26. Source publication of this facsimile: Möller 1936a, 3. Occurrence: line 1; find place Ägypten (unlokalisiert); writing direction \"Zeilen, linksläufig prograd\"; sign size 6.6 x 5 mm (h x w). AKU dating: \"Spätzeit, 26. Dynastie, Apries Haaibre, Regierungsjahr 1, Monat 2, Jahreszeit pr.t\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

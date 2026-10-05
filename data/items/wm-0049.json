@@ -1,0 +1,28 @@
+{
+  "id": "wm-0049",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0049.jpg",
+  "title": "Demotic papyrus with two payment contracts (Turin S. 6074), detail",
+  "script": "demotic",
+  "object": {
+    "name": "Papyrus Turin S. 6074",
+    "date": "c. 145–116 BCE",
+    "period": "Greco-Roman Egypt (Ptolemaic)",
+    "material": "papyrus",
+    "holder": "Museo Egizio, Turin (S. 6074)",
+    "content": "Two payment contracts; from Deir el-Medina"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Demotic_papyrus_containing_two_payment_contracts_-_Museo_Egizio_Turin_S_6074_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Demotic_papyrus_containing_two_payment_contracts_-_Museo_Egizio_Turin_S_6074_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Museum photo; cropped to the right end of the narrow text band. Date from the Wikidata item."
+}

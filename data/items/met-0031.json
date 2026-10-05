@@ -1,0 +1,28 @@
+{
+  "id": "met-0031",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0031.jpg",
+  "title": "Coffin of Ukhhotep, son of Hedjpu, Met 12.182.132a, b",
+  "script": "hieroglyphic",
+  "object": {
+    "name": "Coffin of Ukhhotep, son of Hedjpu (Met 12.182.132a, b)",
+    "date": "ca. 1981–1802 B.C.",
+    "period": "Middle Kingdom; Dynasty 12",
+    "material": "Wood (Abies sp. or Cedrus sp.)",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Coffin inscription band"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/546303",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/12.182.132a_0033.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1912",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 12.182.132a, b; Met objectName: \"Coffin, Ukhhotep, Hedjpu\"; Met tags: Hieroglyphs, Coffins. Provenance per Met: Meir, Tomb of Ukhhotep. Additional image 2; cropped to the painted inscription band on the coffin box. Script per Met tag 'Hieroglyphs'. Control item. Image 2000x279 px, from the Met original file."
+}

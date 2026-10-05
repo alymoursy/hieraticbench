@@ -1,0 +1,30 @@
+{
+  "id": "aku-0029",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0029.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10672 (AKU HT 65944)",
+  "script": "hieratic",
+  "gardiner": [
+    "H2"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10672",
+    "date": "Roman Period",
+    "period": "Roman Period",
+    "material": "papyrus",
+    "content": "nicht spezifiziert"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/65944",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_65944_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 65944",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 65944; AKU grapheme H0020 (AKU GR 297). Gold = the grapheme's MdC code(s) as given by AKU-PAL: H2 (std). Möller numbers listed by AKU-PAL for this grapheme: 232, 232 (v4p3). Source publication of this facsimile: Möller 1936a. Occurrence: line 12; find place Tanis; writing direction \"Zeilen, linksläufig prograd\"; sign size 5.1 x 5.3 mm (h x w). AKU dating: \"Römische Zeit\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

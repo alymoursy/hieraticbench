@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0008",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0008.jpg",
+  "title": "Book of the Dead of the 'scribe of documents of the king', Chester Beatty Pap XXIV",
+  "script": "hieratic",
+  "object": {
+    "name": "Chester Beatty Pap XXIV",
+    "date": "4th century BC",
+    "material": "linen, ink (CBL: Linen; Ink)",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Book of the Dead, chapter 125 (on linen)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXIV",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXIV/files/images/PapXXIV_01996.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXIV. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXIV; CBL title: \"Book of the Dead of the 'scribe of documents of the king'\"; CBL 'Script type': \"Hieratic script\". Canvas: \"Side 1\". Side 1; cropped to the central part of the linen fragment. License: Europeana record /1100/6470 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x1844 px."
+}

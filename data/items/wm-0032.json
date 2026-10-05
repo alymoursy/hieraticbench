@@ -1,0 +1,28 @@
+{
+  "id": "wm-0032",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0032.jpg",
+  "title": "Ostracon with a section of the Instruction of Amennakht (Turin S. 9598)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon Turin S. 9598",
+    "date": "c. 1292–1077 BCE",
+    "period": "New Kingdom, 19th–20th Dynasty",
+    "material": "limestone ostracon",
+    "holder": "Museo Egizio, Turin (S. 9598)",
+    "content": "Instruction of Amennakht (section)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_ostracon_with_a_section_of_the_%27Instruction_of_Amennakht%27,_limestone_-_Museo_Egizio,_Turin_S_9598_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hieratic_ostracon_with_a_section_of_the_%27Instruction_of_Amennakht%27%2C_limestone_-_Museo_Egizio%2C_Turin_S_9598_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo; scale bar cropped out. Black text with red verse points; from Deir el-Medina. Date from the Wikidata item."
+}

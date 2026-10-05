@@ -1,0 +1,26 @@
+{
+  "id": "ypm-0001",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/ypm-0001.jpg",
+  "title": "(229 Pl.39) Fragment of a Hieratic Papyrus, YPM ANT 006207",
+  "script": "hieratic",
+  "object": {
+    "name": "Fragment of a hieratic papyrus (Yale Peabody Museum YPM ANT 006207)",
+    "period": "Greco-Roman Period",
+    "material": "papyrus (YPM: plant matter)",
+    "holder": "Yale Peabody Museum, New Haven"
+  },
+  "source": {
+    "url": "https://collections.peabody.yale.edu/search/Record/YPM-ANT-006207",
+    "fileUrl": "https://images.collections.yale.edu/iiif/2/ypm:d7d7cdc6-12a5-4406-a20c-6ccd4aaed91a/full/full/0/default.jpg",
+    "license": "CC0 1.0 (Yale Peabody Museum Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "Yale Peabody Museum, Division of Anthropology. CC0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "YPM catalog number YPM ANT 006207 (accession YPM.01950, received via loan, 1888). YPM record title: \"(229 Pl.39) Fragment of a Hieratic Papyrus. Egypt.\"; 'Other Attributes: Period = Greco-Roman'. No more precise date in the record. Photo by J. Domian, 2006 (IIIF canvas 2 of the manifest); cropped to the papyrus on its card backing. The text is late funerary-style hieratic with column rules; the label is the museum's. License: the IIIF manifest (https://manifests.collections.yale.edu/ypm/nat/5996) gives rights https://creativecommons.org/publicdomain/zero/1.0/ and the statement 'Open Access; see museum policies at http://hdl.handle.net/10079/8931zqj'. Image 1308x2000 px."
+}

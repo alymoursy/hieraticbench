@@ -1,0 +1,27 @@
+{
+  "id": "met-0016",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0016.jpg",
+  "title": "Ostracon with hieratic inscription, Met 22.3.26",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon with hieratic inscription (Met 22.3.26)",
+    "date": "ca. 1300–525 BCE",
+    "period": "New Kingdom, Ramesside–Late Period; Dynasty 19–26",
+    "material": "Limestone, ink",
+    "holder": "The Metropolitan Museum of Art, New York"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/560964",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-27329-001.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 22.3.26; Met objectName: \"Ostracon, hieratic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Southern Asasif, Royal Cache Valley; MMA excavations, 1919-20. Cropped to the ostracon. Image 830x2000 px, from the Met original file."
+}

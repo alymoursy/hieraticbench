@@ -1,0 +1,28 @@
+{
+  "id": "met-0023",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0023.jpg",
+  "title": "Papyrus inscribed with an account and a religious text, Met 22.3.528",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus inscribed with an account and a religious text (Met 22.3.528)",
+    "date": "ca. 1961–1917 B.C.",
+    "period": "Middle Kingdom; Dynasty 12; reign of Senwosret I",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Account (this side); the other side carries a religious text"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/545456",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/22.3.528_EGDP012540.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund and Edward S. Harkness Gift, 1922",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 22.3.528; Met objectName: \"Papyrus, Harhotep, account\"; Met tags: Documents, Hieratic. Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Tomb of Harhotep (TT 314); MMA excavations, 1921–22. Additional image 1 (account side). The other side (religious text, laid out in columns) was not used. Image 2000x1543 px, from the Met original file."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wm-0013",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0013.jpg",
+  "title": "Rhind Mathematical Papyrus (BM EA 10057), detail",
+  "script": "hieratic",
+  "object": {
+    "name": "Rhind Mathematical Papyrus",
+    "date": "c. 1650 BCE",
+    "period": "Second Intermediate Period (copied under King Apepi)",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 10057)",
+    "content": "Mathematical problems with geometric figures"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_(1065x1330).png",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Ahmes (scribe); image of British Museum EA 10057, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "High-contrast black-and-white reproduction (thresholded), not a colour photograph. Includes drawn triangles."
+}

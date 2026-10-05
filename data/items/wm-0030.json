@@ -1,0 +1,25 @@
+{
+  "id": "wm-0030",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0030.jpg",
+  "title": "Lepsius, Denkmäler VI pl. 118: papyrus from Thebes no. VII, right column (detail)",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus from Thebes no. VII (Lepsius, Denkmäler Abth. VI, Bl. 118)",
+    "material": "papyrus",
+    "holder": "Königliche Museen zu Berlin (as of 1849)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus._Hieratischer_Papyrus_aus_Theben_(Thebes)._No._VII,_Lin._1-45._(jetzt_im_K._Museum_zu_Berlin.)_(NYPL_b14291191-44347).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Papyrus._Hieratischer_Papyrus_aus_Theben_%28Thebes%29._No._VII%2C_Lin._1-45._%28jetzt_im_K._Museum_zu_Berlin.%29_%28NYPL_b14291191-44347%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Karl Richard Lepsius, Denkmäler aus Aegypten und Aethiopien (1849); scan by the New York Public Library, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Lithographic facsimile (hand-drawn copy printed in colour), not a photograph. The plate prints the text sideways; this crop was rotated 90° so the lines run horizontally. Plate caption cropped out; small printed line numbers (28, 36) remain. No date given by the source."
+}

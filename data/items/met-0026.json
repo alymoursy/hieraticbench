@@ -1,0 +1,28 @@
+{
+  "id": "met-0026",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0026.jpg",
+  "title": "Ostracon, Met 68.135.3",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon (Met 68.135.3)",
+    "date": "305 BCE–364 CE",
+    "period": "Ptolemaic or Roman Period",
+    "material": "Pottery, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Religious text"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/569675",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/LC-68_135_3_EGDP037860.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Gift of Joseph V. Noble, 1968",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 68.135.3; Met objectName: \"Ostracon, hieratic, religious text\". Provenance per Met: Egypt. Additional image 1; cropped to the sherd. Image 1621x2000 px, from the Met original file."
+}

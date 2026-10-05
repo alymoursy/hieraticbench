@@ -1,0 +1,28 @@
+{
+  "id": "wm-0025",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0025.jpg",
+  "title": "Papyrus with an adoption and inheritance document (Ashmolean Museum), detail",
+  "script": "hieratic",
+  "object": {
+    "name": "Adoption and inheritance papyrus, Ashmolean Museum",
+    "date": "c. 1104–1075 BCE (reign of Ramesses XI)",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "papyrus",
+    "holder": "Ashmolean Museum, Oxford",
+    "content": "Legal document on adoption and inheritance, from Thebes"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Ashmolean_Museum_2022-05-06y.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ashmolean_Museum_2022-05-06y.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Djehouty, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo, close-up. Large late-Ramesside documentary hand."
+}

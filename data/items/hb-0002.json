@@ -1,0 +1,21 @@
+{
+  "id": "hb-0002",
+  "split": "sealed",
+  "rungs": ["identify", "signs", "transliterate", "translate"],
+  "image": "images/hb-0002.png",
+  "title": "The scribe's rendition",
+  "script": "hieratic",
+  "sameTextAs": "hb-0001",
+  "object": {
+    "name": "Commissioned sentence, period-style hand",
+    "date": "2022",
+    "material": "ink, digitised"
+  },
+  "source": {
+    "license": "All rights reserved. Licensed for evaluation use.",
+    "attribution": "The professor's sentence re-written in a period-style hand by a hieratic specialist, commissioned by Aly Moursy in 2022",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Same text as hb-0001, in a hand closer to what a scribe would have written. Image is a crop of a screenshot; swap in the original when available."
+}

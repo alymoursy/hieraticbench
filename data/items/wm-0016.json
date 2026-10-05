@@ -1,0 +1,28 @@
+{
+  "id": "wm-0016",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0016.jpg",
+  "title": "Ebers Papyrus, plate XXXIX of the 1875 edition, upper part",
+  "script": "hieratic",
+  "object": {
+    "name": "Ebers Papyrus",
+    "date": "c. 1550 BCE",
+    "period": "Late Second Intermediate Period or early New Kingdom",
+    "material": "papyrus",
+    "holder": "Leipzig University Library",
+    "content": "Medical prescriptions"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:A_page_from_the_Ebers_Papyrus,_written_circa_1500_B.C._Wellcome_M0008455.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/A_page_from_the_Ebers_Papyrus%2C_written_circa_1500_B.C._Wellcome_M0008455.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Wellcome Collection (Wellcome Images M0008455), CC BY 4.0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Plate from Georg Ebers' 1875 facsimile edition (black ink on white, a reproduction rather than a photo of the papyrus). Plate caption and line numbers cropped out. Date, period and holder from the Wikipedia article."
+}

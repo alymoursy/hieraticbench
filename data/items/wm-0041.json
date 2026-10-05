@@ -1,0 +1,27 @@
+{
+  "id": "wm-0041",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0041.jpg",
+  "title": "Scribe's exercise board (Brooklyn Museum)",
+  "script": "hieratic",
+  "object": {
+    "name": "Scribe's exercise board, Brooklyn Museum",
+    "date": "c. 1514–1493 BCE (reign of Amenhotep I)",
+    "period": "New Kingdom, 18th Dynasty",
+    "material": "wood (plastered writing board)",
+    "holder": "Brooklyn Museum"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Scribe%27s_Exercise_Board_with_Hieratic_Text_-_Egypt,_New_Kingdom,_Dynasty_18,_reign_of_Amunhotep_I,_c._1514-1493_BC,_wood_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08694.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Scribe%27s_Exercise_Board_with_Hieratic_Text_-_Egypt%2C_New_Kingdom%2C_Dynasty_18%2C_reign_of_Amunhotep_I%2C_c._1514-1493_BC%2C_wood_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08694.JPG",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Daderot, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Gallery photo. Upper written half of the board. File:Scribe's exercise tablet 1.jpg, apparently of the same Brooklyn board, identifies the text as an excerpt of the Instructions of Amenemhat."
+}

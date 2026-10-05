@@ -1,0 +1,28 @@
+{
+  "id": "wm-0026",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0026.jpg",
+  "title": "Papyrus Berlin 10496 (record of an inspection of tombs), recto",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Berlin 10496",
+    "date": "Reign of Ramesses III",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin (P. 10496)",
+    "content": "Record of an inspection of tombs"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_10496_(recto).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Papyrus_Berlin_10496_%28recto%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung / Sandra Steiß, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum scan. Copyright line and scale bar cropped off."
+}

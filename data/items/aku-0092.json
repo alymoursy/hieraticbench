@@ -1,0 +1,30 @@
+{
+  "id": "aku-0092",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0092.png",
+  "title": "Single hieratic sign, Kairo, Institut français d’archéologie orientale, P. Jarf A+B (AKU HT 65120)",
+  "script": "hieratic",
+  "gardiner": [
+    "F40"
+  ],
+  "object": {
+    "name": "Kairo, Institut français d’archéologie orientale, P. Jarf A+B",
+    "date": "Old Kingdom, Dynasty 4, Khufu, regnal year 26 – Old Kingdom, Dynasty 4, Khufu, regnal year 27",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Administrativer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/65120",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_65120.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Laetitia Gallet; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 65120",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 65120; AKU grapheme F0590 (AKU GR 246). Gold = the grapheme's MdC code(s) as given by AKU-PAL: F40 (std). Möller numbers listed by AKU-PAL for this grapheme: 172bis, 173bis, 577. Source publication of this facsimile: Tallet 2017. Occurrence: find place Wadi el-Jarf; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 8 x 8.3 mm (h x w). AKU dating: \"Altes Reich, 4. Dynastie, Cheops, Regierungsjahr 26 – Altes Reich, 4. Dynastie, Cheops, Regierungsjahr 27\". Facsimile type: Digitalisat (Kooperationspartner), by Laetitia Gallet. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

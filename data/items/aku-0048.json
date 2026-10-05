@@ -1,0 +1,30 @@
+{
+  "id": "aku-0048",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0048.png",
+  "title": "Single hieratic sign, Leiden, Rijksmuseum van Oudheden, AMS 26 b vso (AKU HT 8575)",
+  "script": "hieratic",
+  "gardiner": [
+    "Q6"
+  ],
+  "object": {
+    "name": "Leiden, Rijksmuseum van Oudheden, AMS 26 b vso",
+    "date": "New Kingdom, Dynasty 19, Ramesses II",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Brief (an einen Lebenden) (Brief des Keny-Imen an Hui)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/8575",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_8575_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 8575",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 8575; AKU grapheme Q0160 (AKU GR 515). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Q6 (std). Möller numbers listed by AKU-PAL for this grapheme: 372, 372 (v4p13). Source publication of this facsimile: Möller 1927b. Occurrence: line 3; find place Sakkara; writing direction \"Zeilen, linksläufig prograd\"; sign size 7.9 x 9.6 mm (h x w). AKU dating: \"Neues Reich, 19. Dynastie, Ramses II.\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

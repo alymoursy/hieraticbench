@@ -1,0 +1,27 @@
+{
+  "id": "wm-0047",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0047.jpg",
+  "title": "Papyrus with an Osiris ritual (KHM Vienna ÄS 3865), upper half",
+  "script": "hieratic",
+  "object": {
+    "name": "Osiris ritual papyrus, ÄS 3865",
+    "date": "c. 1st–2nd century CE",
+    "material": "papyrus",
+    "holder": "Kunsthistorisches Museum, Vienna (ÄS 3865)",
+    "content": "Osiris ritual"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:HieraticPapyrusOfAnOsirisRitual_KunsthistorischesMuseum_Nov13-10.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HieraticPapyrusOfAnOsirisRitual_KunsthistorischesMuseum_Nov13-10.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Captmondo, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo under warm low light. Very late (Roman-era) hieratic book hand."
+}

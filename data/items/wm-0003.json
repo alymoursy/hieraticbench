@@ -1,0 +1,28 @@
+{
+  "id": "wm-0003",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0003.jpg",
+  "title": "Prisse Papyrus, Instructions of Kagemni (BnF Égyptien 183)",
+  "script": "hieratic",
+  "object": {
+    "name": "Prisse Papyrus",
+    "date": "c. 1800 BCE",
+    "period": "Middle Kingdom, 12th Dynasty",
+    "material": "papyrus",
+    "holder": "Bibliothèque nationale de France",
+    "content": "Instructions of Kagemni"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Prisse_183.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Papyrus_Prisse_183.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Zunkir, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Exhibition photo. Cropped to the right-hand block of horizontal lines. Literary book hand."
+}

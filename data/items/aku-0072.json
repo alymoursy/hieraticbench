@@ -1,0 +1,30 @@
+{
+  "id": "aku-0072",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0072.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10554 (AKU HT 41989)",
+  "script": "hieratic",
+  "gardiner": [
+    "Q5"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10554",
+    "date": "Third Intermediate Period, Dynasty 21, Psusennes II, regnal year 13",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Totenbuch"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/41989",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_41989_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 41989",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 41989; AKU grapheme Q0140 (AKU GR 514). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Q5 (std). Möller numbers listed by AKU-PAL for this grapheme: 387, 387 (v4p13). Source publication of this facsimile: Möller 1936b. Occurrence: line 14; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 9.6 x 11 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 21. Dynastie, Psusennes II., Regierungsjahr 13\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller, Hanns Przybylla. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

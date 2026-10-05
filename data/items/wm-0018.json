@@ -1,0 +1,28 @@
+{
+  "id": "wm-0018",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0018.jpg",
+  "title": "Papyrus Harris I (BM EA 9999/77), left part of the sheet",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Harris I (Great Harris Papyrus)",
+    "date": "c. 1184–1153 BCE (reign of Ramesses III)",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 9999)",
+    "content": "Account of Ramesses III's campaigns against the Libyans"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:GranPapiroHarris_(46200286811).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GranPapiroHarris_%2846200286811%29.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "rowanwindwhistler, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Museum photo through glass. Regular horizontal lines in a formal administrative hand."
+}

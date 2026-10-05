@@ -1,0 +1,26 @@
+{
+  "id": "wm-0028",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0028.jpg",
+  "title": "Hearst Medical Papyrus, plate 2 (Reisner 1905)",
+  "script": "hieratic",
+  "object": {
+    "name": "Hearst Medical Papyrus",
+    "date": "First half of the 2nd millennium BCE",
+    "material": "papyrus",
+    "content": "Medical prescriptions"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Hearst_Plate_2.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Papyrus_Hearst_Plate_2.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "George A. Reisner, The Hearst Medical Papyrus (1905), via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Black-and-white collotype plate (photographic reproduction) from Reisner's 1905 publication. Date from the Wikipedia article."
+}

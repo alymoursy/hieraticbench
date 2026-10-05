@@ -1,0 +1,31 @@
+{
+  "id": "aku-0129",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0129.png",
+  "title": "Single hieratic sign, Turin, Museo Egizio, CGT 57036 (AKU HT 29458)",
+  "script": "hieratic",
+  "gardiner": [
+    "Aa17",
+    "Aa18"
+  ],
+  "object": {
+    "name": "Turin, Museo Egizio, CGT 57036",
+    "date": "New Kingdom, Dynasty 20, Ramesses III, regnal year 24",
+    "period": "New Kingdom",
+    "material": "limestone (ostracon)",
+    "content": "Administrativer Text (Progress report)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/29458",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_29458.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 29458",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 29458; AKU grapheme T0190 (AKU GR 755). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Aa18 (var), Aa17 (std). Möller numbers listed by AKU-PAL for this grapheme: 594. Occurrence: line 6; find place Deir el-Medina; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 8.2 x 3.5 mm (h x w). AKU dating: \"Neues Reich, 20. Dynastie, Ramses III., Regierungsjahr 24\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0094",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0094.png",
+  "title": "Single hieratic sign, Kairo, Institut français d’archéologie orientale, 19 (AKU HT 14826)",
+  "script": "hieratic",
+  "gardiner": [
+    "D46"
+  ],
+  "object": {
+    "name": "Kairo, Institut français d’archéologie orientale, 19",
+    "date": "New Kingdom, Dynasty 19, Seti I, regnal year 3, month 2, season šm.w, day 14",
+    "period": "New Kingdom",
+    "material": "limestone (ostracon)",
+    "content": "Administrativer Text (Deliveries and/or deficits of rations)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/14826",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_14826.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 14826",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 14826; AKU grapheme D0660 (AKU GR 161). Gold = the grapheme's MdC code(s) as given by AKU-PAL: D46 (std). Möller numbers listed by AKU-PAL for this grapheme: 115. Occurrence: line 2; find place Deir el-Medina; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.3 x 8.9 mm (h x w). AKU dating: \"Neues Reich, 19. Dynastie, Sethos I., Regierungsjahr 3, Monat 2, Jahreszeit šm.w, Tag 14\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

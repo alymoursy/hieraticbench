@@ -1,0 +1,28 @@
+{
+  "id": "wm-0019",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0019.jpg",
+  "title": "Turin King List (Cat. 1874), fragment group",
+  "script": "hieratic",
+  "object": {
+    "name": "Turin King List (Turin Royal Canon)",
+    "date": "c. 1279–1213 BCE (reign of Ramesses II)",
+    "period": "New Kingdom, 19th Dynasty",
+    "material": "papyrus",
+    "holder": "Museo Egizio, Turin (Cat. 1874)",
+    "content": "List of kings (verso) / administrative text (recto); side of this view not stated"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Turin_King_List,_papyrus_-_Museo_Egizio_Turin_C_1874_p02.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Turin_King_List%2C_papyrus_-_Museo_Egizio_Turin_C_1874_p02.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Museum photo of mounted fragments; cropped to one fragment cluster. Date from the Wikipedia article and the Wikidata item."
+}

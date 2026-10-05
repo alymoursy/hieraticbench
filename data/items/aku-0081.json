@@ -1,0 +1,30 @@
+{
+  "id": "aku-0081",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0081.png",
+  "title": "Single hieratic sign, D. Hatnub 16 (AKU HT 8270)",
+  "script": "hieratic",
+  "gardiner": [
+    "D28"
+  ],
+  "object": {
+    "name": "D. Hatnub 16",
+    "date": "First Intermediate Period, Dynasty 9/10, Nehri I (nomarch), regnal year 5",
+    "period": "First Intermediate Period",
+    "material": "limestone (dipinto)",
+    "content": "Biographischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/8270",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_8270_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 8270",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 8270; AKU grapheme D0360 (AKU GR 144). Gold = the grapheme's MdC code(s) as given by AKU-PAL: D28 (std). Möller numbers listed by AKU-PAL for this grapheme: 108. Source publication of this facsimile: Möller 1927a, p. 10, no. 108. Occurrence: find place Hatnub; writing direction \"unspezifiziert\"; sign size 5 x 5.7 mm (h x w). AKU dating: \"Erste Zwischenzeit, 9./10. Dynastie, Nehri I. (Nomarch), Regierungsjahr 5\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

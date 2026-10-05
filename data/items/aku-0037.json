@@ -1,0 +1,30 @@
+{
+  "id": "aku-0037",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0037.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3030 A-E (AKU HT 67481)",
+  "script": "hieratic",
+  "gardiner": [
+    "O50"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3030 A-E",
+    "date": "Roman Period, Antonine dynasty, Hadrian, regnal year 8",
+    "period": "Roman Period",
+    "material": "papyrus",
+    "content": "Buch vom Atmen"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/67481",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_67481_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 67481",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 67481; AKU grapheme O0670 (AKU GR 465). Gold = the grapheme's MdC code(s) as given by AKU-PAL: O50 (std). Möller numbers listed by AKU-PAL for this grapheme: 403, 403B. Source publication of this facsimile: Möller 1936a. Occurrence: line 12; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 7.2 x 9.1 mm (h x w). AKU dating: \"Römische Zeit, Antoninische Dynastie, Hadrian, Regierungsjahr 8\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

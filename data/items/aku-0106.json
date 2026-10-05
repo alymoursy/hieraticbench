@@ -1,0 +1,30 @@
+{
+  "id": "aku-0106",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0106.png",
+  "title": "Single hieratic sign, Moskau, State Pushkin Museum of Fine Arts, I, 1б 314 (AKU HT 11851)",
+  "script": "hieratic",
+  "gardiner": [
+    "Y8"
+  ],
+  "object": {
+    "name": "Moskau, State Pushkin Museum of Fine Arts, I, 1б 314",
+    "date": "Second Intermediate Period, Dynasty 17",
+    "period": "Second Intermediate Period",
+    "material": "papyrus",
+    "content": "Hymne im Königskult (Investiturritual)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/11851",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_11851_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 11851",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 11851; AKU grapheme Y0060 (AKU GR 737). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Y8 (std). Möller numbers listed by AKU-PAL for this grapheme: 539. Source publication of this facsimile: Möller 1927a, p. 51, no. 539. Occurrence: line 2; find place Ägypten (unlokalisiert); writing direction \"Zeilen, linksläufig prograd\"; sign size 12.3 x 4.9 mm (h x w). AKU dating: \"Zweite Zwischenzeit, 17. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

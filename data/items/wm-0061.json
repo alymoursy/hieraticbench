@@ -1,0 +1,28 @@
+{
+  "id": "wm-0061",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0061.jpg",
+  "title": "Book of the Dead of Kha (Turin S. 8438), text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Book of the Dead of Kha",
+    "date": "c. 1425–1353 BCE",
+    "period": "New Kingdom, 18th Dynasty",
+    "material": "papyrus",
+    "holder": "Museo Egizio, Turin (S. 8438)",
+    "content": "Book of the Dead; from the tomb of Kha and Meryt (TT8)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_of_Kha,_papyrus_-_Museo_Egizio_Turin_S_8438_p012.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Book_of_the_Dead_of_Kha%2C_papyrus_-_Museo_Egizio_Turin_S_8438_p012.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Museum photo; cursive hieroglyphs in columns with red rubrics. The source does not name the script; identified visually. Date from the Wikidata item."
+}

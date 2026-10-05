@@ -1,0 +1,30 @@
+{
+  "id": "aku-0050",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0050.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 11248 (AKU HT 23095)",
+  "script": "hieratic",
+  "gardiner": [
+    "V30"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 11248",
+    "date": "New Kingdom, Dynasty 19 – New Kingdom, Dynasty 20",
+    "period": "New Kingdom",
+    "material": "limestone (ostracon)",
+    "content": "Administrativer Text (Document of absence or presence)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/23095",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_23095.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 23095",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 23095; AKU grapheme V0410 (AKU GR 698). Gold = the grapheme's MdC code(s) as given by AKU-PAL: V30 (std). Möller numbers listed by AKU-PAL for this grapheme: 510. Occurrence: line 8; find place Deir el-Medina; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.2 x 6.4 mm (h x w). AKU dating: \"Neues Reich, 19. Dynastie – Neues Reich, 20. Dynastie\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

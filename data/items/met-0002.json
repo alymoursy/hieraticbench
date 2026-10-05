@@ -1,0 +1,28 @@
+{
+  "id": "met-0002",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0002.jpg",
+  "title": "Letter written in hieratic script on papyrus, Met 27.3.560",
+  "script": "hieratic",
+  "object": {
+    "name": "Letter written in hieratic script on papyrus (Met 27.3.560)",
+    "date": "ca. 1473–1458 BCE",
+    "period": "New Kingdom; Dynasty 18; Joint reign of Hatshepsut and Thutmose III",
+    "material": "Papyrus, ink",
+    "holder": "The Metropolitan Museum of Art, New York",
+    "content": "Letter"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/544847",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP234741.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1927",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 27.3.560; Met objectName: \"Papyrus, letter, hieratic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Deir el-Bahri, Temple of Hatshepsut; MMA excavations, 1926–27. Cropped to the papyrus. Image 2000x714 px, from the Met original file."
+}

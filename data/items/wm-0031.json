@@ -1,0 +1,28 @@
+{
+  "id": "wm-0031",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0031.jpg",
+  "title": "Papyrus D'Orbiney, sheet with the Tale of Two Brothers",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus D'Orbiney",
+    "date": "c. 1185 BCE",
+    "period": "New Kingdom, end of the 19th Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London",
+    "content": "Tale of Two Brothers"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Tale_of_two_brothers.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Tale_of_two_brothers.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "British Museum, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Low-resolution (600 px) museum photo of one sheet. Literary hand with red rubrics."
+}

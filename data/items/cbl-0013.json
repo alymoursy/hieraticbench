@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0013",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0013.jpg",
+  "title": "Sale of land (Gebelein), Chester Beatty Pap XXVI.2",
+  "script": "demotic",
+  "object": {
+    "name": "Chester Beatty Pap XXVI.2",
+    "date": "168-116 BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Sale of land (Gebelein)"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XXVI_2",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XXVI_2/files/images/PapXXVI_2_01992.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XXVI.2. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XXVI.2; CBL title: \"Sale of land (Gebelein)\"; CBL 'Script type': \"Demotic script\"; place: Gebelein. Canvas: \"Side 1\". Side 1; cropped to the larger left fragment. A handwritten mount label naming the script (top left) and the shelfmark label are excluded. Control item. License: Europeana record /1100/6474 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x1792 px."
+}

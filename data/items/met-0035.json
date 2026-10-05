@@ -1,0 +1,27 @@
+{
+  "id": "met-0035",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0035.jpg",
+  "title": "Ostracon, Met 25.10.25.1",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon (Met 25.10.25.1)",
+    "date": "595–30 BCE",
+    "period": "Late Period–Ptolemaic",
+    "material": "Pottery, ink",
+    "holder": "The Metropolitan Museum of Art, New York"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/571368",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/25-10-25-1s1.JPG",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1925",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 25.10.25.1; Met objectName: \"Ostracon, Hieratic\"; Met tags: Hieratic. Provenance per Met: Egypt, Western Desert; Kharga Oasis, Hibis; MMA excavations, 1908–10. Full image, no crop (the sherd fills the frame). Late Period to Ptolemaic hieratic on pottery, a period when demotic was also in use. Image 1636x2000 px, from the Met original file."
+}

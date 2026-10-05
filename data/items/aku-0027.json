@@ -1,0 +1,30 @@
+{
+  "id": "aku-0027",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0027.png",
+  "title": "Single hieratic sign, Kairo, Ägyptisches Museum, CG 58032 (AKU HT 5089)",
+  "script": "hieratic",
+  "gardiner": [
+    "C11"
+  ],
+  "object": {
+    "name": "Kairo, Ägyptisches Museum, CG 58032",
+    "date": "Third Intermediate Period, Dynasty 21, Siamun, regnal year 5, month 4, season šm.w, day 21",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Hymnus im Götterkult"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/5089",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_5089_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 5089",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 5089; AKU grapheme A0820 (AKU GR 775). Gold = the grapheme's MdC code(s) as given by AKU-PAL: C11 (std). Möller numbers listed by AKU-PAL for this grapheme: 37. Source publication of this facsimile: Möller 1927b. Occurrence: line 23; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; sign size 14.2 x 10.6 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 21. Dynastie, Siamun, Regierungsjahr 5, Monat 4, Jahreszeit šm.w, Tag 21\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

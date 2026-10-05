@@ -1,0 +1,30 @@
+{
+  "id": "aku-0080",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0080.png",
+  "title": "Single hieratic sign, Kairo, Ägyptisches Museum, JE 58063 (AKU HT 21141)",
+  "script": "hieratic",
+  "gardiner": [
+    "X1"
+  ],
+  "object": {
+    "name": "Kairo, Ägyptisches Museum, JE 58063",
+    "date": "Old Kingdom, Dynasty 5, Neferirkare I",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Administrativer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/21141",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_21141_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 21141",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 21141; AKU grapheme X0010 (AKU GR 728). Gold = the grapheme's MdC code(s) as given by AKU-PAL: X1 (std). Möller numbers listed by AKU-PAL for this grapheme: 575. Source publication of this facsimile: Möller 1927a, p. 55, no. 575. Occurrence: find place Pyramidenkomplex des Neferirkare Kakai; writing direction \"unspezifiziert\"; sign size 1.8 x 5.3 mm (h x w). AKU dating: \"Altes Reich, 5. Dynastie, Neferirkare I.\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

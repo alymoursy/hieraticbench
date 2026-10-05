@@ -1,0 +1,30 @@
+{
+  "id": "aku-0098",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0098.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10735 (AKU HT 57073)",
+  "script": "hieratic",
+  "gardiner": [
+    "N35"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10735",
+    "date": "Old Kingdom, Dynasty 5, Niuserre – Old Kingdom, Dynasty 6, Pepy II",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Rechnung"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/57073",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_57073.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 57073",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 57073; AKU grapheme N0590 (AKU GR 432). Gold = the grapheme's MdC code(s) as given by AKU-PAL: N35 (std). Möller numbers listed by AKU-PAL for this grapheme: 331. Source publication of this facsimile: Posener-Kriéger und Cenival 1968, pl. 20. Occurrence: line 12.2; find place Abusir; writing direction \"Kolumnen, linksläufig prograd\"; ink colour \"rot\"; sign size 2.1 x 4.9 mm (h x w). AKU dating: \"Altes Reich, 5. Dynastie, Niuserre – Altes Reich, 6. Dynastie, Pepi II.\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0004",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0004.png",
+  "title": "Single hieratic sign, D. Amasis, Jahr 5 (AKU HT 67591)",
+  "script": "hieratic",
+  "gardiner": [
+    "U33"
+  ],
+  "object": {
+    "name": "D. Amasis, Jahr 5",
+    "date": "Late Period, Dynasty 26, Amasis Chenemibre, regnal year 5, month 4, season pr.t, day 11",
+    "period": "Late Period",
+    "material": "limestone (dipinto)",
+    "content": "Besuchertext"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/67591",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_67591_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 67591",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 67591; AKU grapheme U0380 (AKU GR 663). Gold = the grapheme's MdC code(s) as given by AKU-PAL: U33 (std). Möller numbers listed by AKU-PAL for this grapheme: 401, 401 (v4p5). Source publication of this facsimile: Möller 1936a. Occurrence: line 4; find place Abusir; writing direction \"Zeilen, linksläufig prograd\"; sign size 11.8 x 5.5 mm (h x w). AKU dating: \"Spätzeit, 26. Dynastie, Amasis Chenemibre, Regierungsjahr 5, Monat 4, Jahreszeit pr.t, Tag 11\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

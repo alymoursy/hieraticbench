@@ -1,0 +1,28 @@
+{
+  "id": "wm-0010",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0010.jpg",
+  "title": "Will of Antef Meri from Kahun (UC32037)",
+  "script": "hieratic",
+  "object": {
+    "name": "Will of Antef Meri",
+    "date": "Year 39 of Amenemhat III",
+    "period": "Middle Kingdom, 12th Dynasty",
+    "material": "papyrus",
+    "holder": "Petrie Museum of Egyptian Archaeology, London (UC 32037)",
+    "content": "Legal document (will), from Kahun"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Petrie_Museum_papyrus_will_of_Antef_Meri.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Petrie_Museum_papyrus_will_of_Antef_Meri.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "BabelStone, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Photo of a framed papyrus through glass; the museum caption below the papyrus and a line-number tag at the right edge were cropped out."
+}

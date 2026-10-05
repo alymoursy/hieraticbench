@@ -1,0 +1,31 @@
+name: Offer a sentence
+description: For Egyptologists who can write a new sealed sentence or annotate signs.
+title: "Sentence offer: "
+labels: ["sentence"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. Please do not post the sentence, its transliteration or its translation here. This issue is public. We will arrange a private handover.
+  - type: input
+    id: who
+    attributes:
+      label: Your name and affiliation
+    validations:
+      required: true
+  - type: dropdown
+    id: offer
+    attributes:
+      label: What can you offer?
+      options:
+        - A new sealed sentence in hieratic
+        - Sign-by-sign annotation of a published document
+        - Review of model answers that score well
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Period, hand or genre you would write in
+      description: For example Middle Kingdom literary hand, Ramesside administrative hand.

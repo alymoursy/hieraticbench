@@ -1,0 +1,30 @@
+{
+  "id": "aku-0022",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0022.png",
+  "title": "Single hieratic sign, Paris, Bibliothèque Nationale de France, Egyptien 183 (AKU HT 17546)",
+  "script": "hieratic",
+  "gardiner": [
+    "Q7"
+  ],
+  "object": {
+    "name": "Paris, Bibliothèque Nationale de France, Egyptien 183",
+    "date": "Middle Kingdom, Dynasty 12",
+    "period": "Middle Kingdom",
+    "material": "papyrus",
+    "content": "Lehre (Kagemni)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/17546",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_17546.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Simone Gerhards; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 17546",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 17546; AKU grapheme Q0180 (AKU GR 516). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Q7 (std). Möller numbers listed by AKU-PAL for this grapheme: 394, 394 (v4p1), 394 (v4p5), 394B, 394B (v4p4). Source publication of this facsimile: Möller 1927a, p. 37, no. 394. Occurrence: line 5; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 10.3 x 8.9 mm (h x w). AKU dating: \"Mittleres Reich, 12. Dynastie\". Facsimile type: Digitalisat (AKU), by Simone Gerhards. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

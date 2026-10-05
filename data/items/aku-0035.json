@@ -1,0 +1,30 @@
+{
+  "id": "aku-0035",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0035.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10057 + EA 10058 (AKU HT 10797)",
+  "script": "hieratic",
+  "gardiner": [
+    "Z7"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10057 + EA 10058",
+    "date": "Second Intermediate Period, Dynasty 15, Apopi, regnal year 33, month 4, season ꜣḫ.t",
+    "period": "Second Intermediate Period",
+    "material": "papyrus",
+    "content": "Mathematischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/10797",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_10797_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 10797",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 10797; AKU grapheme Z0175 (AKU GR 1765). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Z7 (std). Möller numbers listed by AKU-PAL for this grapheme: 200B. Source publication of this facsimile: Möller 1927a, p. 19, no. 200B. Occurrence: find place Ramesseum; writing direction \"unspezifiziert\"; sign size 5 x 4.8 mm (h x w). AKU dating: \"Zweite Zwischenzeit, 15. Dynastie, Apopi, Regierungsjahr 33, Monat 4, Jahreszeit ꜣḫ.t\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

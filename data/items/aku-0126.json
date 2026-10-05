@@ -1,0 +1,30 @@
+{
+  "id": "aku-0126",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0126.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3055 (AKU HT 68428)",
+  "script": "hieratic",
+  "gardiner": [
+    "S34"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3055",
+    "date": "Third Intermediate Period, Dynasties 22–23",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Ritualtext im Götterkult"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/68428",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_68428_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 68428",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 68428; AKU grapheme S0410 (AKU GR 578). Gold = the grapheme's MdC code(s) as given by AKU-PAL: S34 (std). Möller numbers listed by AKU-PAL for this grapheme: 534. Source publication of this facsimile: Möller 1936a. Occurrence: line 8; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 14.4 x 8.5 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 22.–23. Dynastie\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

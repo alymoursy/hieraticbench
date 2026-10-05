@@ -1,0 +1,28 @@
+{
+  "id": "wm-0046",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0046.jpg",
+  "title": "Book of Breathing (Turin Cat. 1986), middle section",
+  "script": "hieratic",
+  "object": {
+    "name": "Book of Breathing, Turin Cat. 1986",
+    "date": "c. 1–200 CE",
+    "period": "Roman Period",
+    "material": "papyrus",
+    "holder": "Museo Egizio, Turin (Cat. 1986)",
+    "content": "Book of Breathing; from the Theban necropolis"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Book_of_Breathing_written_in_hieratic,_papyurs_-_Museo_Egizio,_Turin_C_1986_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Book_of_Breathing_written_in_hieratic%2C_papyurs_-_Museo_Egizio%2C_Turin_C_1986_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Late funerary hand. Date and period from the Wikidata item (Roman Egypt)."
+}

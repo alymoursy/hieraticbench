@@ -1,0 +1,27 @@
+{
+  "id": "wm-0057",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0057.jpg",
+  "title": "Papyrus of Hunefer, sheet 5, text columns",
+  "script": "cursive-hieroglyphic",
+  "object": {
+    "name": "Papyrus of Hunefer",
+    "period": "New Kingdom, 19th Dynasty",
+    "material": "papyrus",
+    "holder": "British Museum, London (EA 9901,5)",
+    "content": "Book of the Dead"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Book_of_the_Dead_of_Hunefer_sheet_5.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Book_of_the_Dead_of_Hunefer_sheet_5.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "British Museum, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "Control (not hieratic). Vignettes cropped out; cursive hieroglyphs in columns with red rubrics. The source does not name the script; identified visually. Period from the Wikipedia article on Hunefer."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "aku-0085",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0085.png",
+  "title": "Single hieratic sign, Paris, Musée du Louvre, E 25279 (AKU HT 61045)",
+  "script": "hieratic",
+  "gardiner": [
+    "Q3"
+  ],
+  "object": {
+    "name": "Paris, Musée du Louvre, E 25279",
+    "date": "Old Kingdom, Dynasty 5, Djedkare",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Rechnung"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/61045",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_61045.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 61045",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 61045; AKU grapheme Q0090 (AKU GR 509). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Q3 (std). Möller numbers listed by AKU-PAL for this grapheme: 388, 388B. Source publication of this facsimile: Posener-Kriéger und Cenival 1968, pl. 5 A. Occurrence: line 12; find place Pyramidenkomplex des Neferirkare Kakai; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 1.7 x 2.5 mm (h x w). AKU dating: \"Altes Reich, 5. Dynastie, Djedkare\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

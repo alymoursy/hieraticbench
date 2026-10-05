@@ -1,0 +1,32 @@
+{
+  "id": "aku-0084",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0084.png",
+  "title": "Single hieratic sign, London, British Museum, EA 9999 (AKU HT 9181)",
+  "script": "hieratic",
+  "gardiner": [
+    "Aa15",
+    "Aa13",
+    "Aa14"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 9999",
+    "date": "New Kingdom, Dynasty 20, Ramesses III, regnal year 32, month 3, season šm.w, day 6",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Tempelbezogene Texte"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/9181",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_9181_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 9181",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 9181; AKU grapheme F0550 (AKU GR 754). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Aa13 (var), Aa14 (var), Aa15 (std). Möller numbers listed by AKU-PAL for this grapheme: 327. Source publication of this facsimile: Möller 1927b, p. 30, no. 328. Occurrence: line a13; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; sign size 5.4 x 10.9 mm (h x w). AKU dating: \"Neues Reich, 20. Dynastie, Ramses III., Regierungsjahr 32, Monat 3, Jahreszeit šm.w, Tag 6\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

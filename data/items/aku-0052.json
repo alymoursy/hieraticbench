@@ -1,0 +1,30 @@
+{
+  "id": "aku-0052",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0052.png",
+  "title": "Single hieratic sign, Leiden, Rijksmuseum van Oudheden, AMS 59c (AKU HT 72135)",
+  "script": "hieratic",
+  "gardiner": [
+    "O1"
+  ],
+  "object": {
+    "name": "Leiden, Rijksmuseum van Oudheden, AMS 59c",
+    "date": "Third Intermediate Period, Dynasty 25, Shabaka – Third Intermediate Period, Dynasty 25, Taharqa",
+    "period": "Third Intermediate Period",
+    "material": "papyrus",
+    "content": "Magischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/72135",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_72135_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 72135",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 72135; AKU grapheme O0260 (AKU GR 456). Gold = the grapheme's MdC code(s) as given by AKU-PAL: O1 (std). Möller numbers listed by AKU-PAL for this grapheme: 340, 340B. Occurrence: line 4; find place Asasif; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.1 x 3.7 mm (h x w). AKU dating: \"Dritte Zwischenzeit, 25. Dynastie, Schabaka – Dritte Zwischenzeit, 25. Dynastie, Taharqa\". Facsimile type: Retro-Digitalisat (AKU), by Ursula Verhoeven. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

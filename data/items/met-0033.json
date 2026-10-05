@@ -1,0 +1,27 @@
+{
+  "id": "met-0033",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/met-0033.jpg",
+  "title": "Ostracon, Met 14.1.448",
+  "script": "demotic",
+  "object": {
+    "name": "Ostracon (Met 14.1.448)",
+    "date": "664 BCE–1st century CE",
+    "period": "Ptolemaic–Early Roman Period",
+    "material": "Pottery, ink",
+    "holder": "The Metropolitan Museum of Art, New York"
+  },
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/564888",
+    "fileUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-26684-001.jpg",
+    "license": "CC0 (Met Open Access)",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "attribution": "The Metropolitan Museum of Art, Rogers Fund, 1914",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Met accession 14.1.448; Met objectName: \"Ostracon, Demotic\". Provenance per Met: Egypt, Upper Egypt, Thebes, Medinet Habu. Cropped to the sherd. Control item. Image 2000x1531 px, from the Met original file."
+}

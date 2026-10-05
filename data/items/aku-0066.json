@@ -1,0 +1,30 @@
+{
+  "id": "aku-0066",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0066.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3057 (AKU HT 15705)",
+  "script": "hieratic",
+  "gardiner": [
+    "I9"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3057",
+    "date": "Argead (Macedonian) Period, Alexander the Great – Ptolemaic Period",
+    "period": "Argead (Macedonian) Period",
+    "material": "papyrus",
+    "content": "Verklärungen (Ritual des Herausbringens von Sokar aus dem Schetait-Sanktuar)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/15705",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/photo/ht_15705_3.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Burkhard Backes; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 15705",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 15705; AKU grapheme I0150 (AKU GR 309). Gold = the grapheme's MdC code(s) as given by AKU-PAL: I9 (std). Möller numbers listed by AKU-PAL for this grapheme: 263. Source publication of this facsimile: Backes 2016. Occurrence: line 30; find place Ägypten (unlokalisiert); writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\". AKU dating: \"Argeaden, Alexander der Große – Ptolemäerzeit\". Facsimile type: Fotografie (Kooperationspartner), by Burkhard Backes. Source photo (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

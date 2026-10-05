@@ -1,0 +1,30 @@
+{
+  "id": "aku-0136",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0136.png",
+  "title": "Single hieratic sign, Turin, Museo Egizio, S. 17507/2 (AKU HT 37369)",
+  "script": "hieratic",
+  "gardiner": [
+    "D58"
+  ],
+  "object": {
+    "name": "Turin, Museo Egizio, S. 17507/2",
+    "date": "Old Kingdom, Dynasty 4",
+    "period": "Old Kingdom",
+    "material": "papyrus",
+    "content": "Rechnung (Journal)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/37369",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_37369.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Kyra van der Moezel; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 37369",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 37369; AKU grapheme D0810 (AKU GR 173). Gold = the grapheme's MdC code(s) as given by AKU-PAL: D58 (std). Möller numbers listed by AKU-PAL for this grapheme: 124. Occurrence: find place Gebelein; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"rot\"; sign size 3.4 x 2.7 mm (h x w). AKU dating: \"Altes Reich, 4. Dynastie\". Facsimile type: Digitalisat (AKU), by Kyra van der Moezel. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

@@ -1,0 +1,20 @@
+name: Submit a run
+description: Results for a model on the public rungs.
+title: "Run: "
+labels: ["run"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Attach or link only files from results/runs. Files from results/inbox hold sealed answers and must be emailed, never posted here.
+  - type: input
+    id: model
+    attributes:
+      label: Model and settings
+      placeholder: claude-opus-5-5, effort high, 3 samples
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything unusual about the run

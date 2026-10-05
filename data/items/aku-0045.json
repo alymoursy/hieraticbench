@@ -1,0 +1,30 @@
+{
+  "id": "aku-0045",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0045.png",
+  "title": "Single hieratic sign, D. Assiut N13.1 TAS4 (AKU HT 28510)",
+  "script": "hieratic",
+  "gardiner": [
+    "U36"
+  ],
+  "object": {
+    "name": "D. Assiut N13.1 TAS4",
+    "date": "New Kingdom, Dynasty 18",
+    "period": "New Kingdom",
+    "material": "plaster (dipinto)",
+    "content": "Besuchertext (Scribe Iahmes. Temple of Djefaihapi. Hathor.); Lied (Song to \"the face of this mistress\")"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/28510",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_28510.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 28510",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 28510; AKU grapheme U0410 (AKU GR 666). Gold = the grapheme's MdC code(s) as given by AKU-PAL: U36 (std). Möller numbers listed by AKU-PAL for this grapheme: 483. Occurrence: line 2; find place Gebel Assiut al-gharbi; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 16 x 3.9 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

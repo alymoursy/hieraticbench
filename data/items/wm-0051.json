@@ -1,0 +1,28 @@
+{
+  "id": "wm-0051",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0051.jpg",
+  "title": "Demotic tax document (P. Berlin 23761), upper part",
+  "script": "demotic",
+  "object": {
+    "name": "Papyrus Berlin 23761",
+    "date": "664–525 BCE",
+    "period": "Late Period, 26th Dynasty",
+    "material": "papyrus",
+    "holder": "Neues Museum, Berlin (P 23761 E)",
+    "content": "Tax document"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:-600_demotische_Steuerakte_anagoria.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/-600_demotische_Steuerakte_anagoria.JPG",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Anagoria, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Gallery photo. Early (Saite) demotic."
+}

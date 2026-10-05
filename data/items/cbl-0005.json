@@ -1,0 +1,27 @@
+{
+  "id": "cbl-0005",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/cbl-0005.jpg",
+  "title": "Book of the Dead of Patjauderetmut, Chester Beatty Pap XX",
+  "script": "hieratic",
+  "object": {
+    "name": "Chester Beatty Pap XX",
+    "date": "10th or 9th century BC",
+    "material": "Papyrus; Ink",
+    "holder": "Chester Beatty, Dublin",
+    "content": "Book of the Dead of Patjauderetmut"
+  },
+  "source": {
+    "url": "https://viewer.cbl.ie/viewer/ppnresolver?id=Pap_XX",
+    "fileUrl": "https://viewer.cbl.ie/viewer/api/v1/records/Pap_XX/files/images/PapXX_02062.jpg/full/max/0/default.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Chester Beatty, Dublin, Pap XX. CC BY 4.0",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "CBL object no. Pap XX; CBL title: \"Book of the Dead of Patjauderetmut\"; CBL 'Script type': \"Hieratic script\". Canvas: \"Side 1\". Side 1; cropped to part of the upper strip (left portion). License: Europeana record /1100/6466 gives edm:rights CC BY 4.0; Chester Beatty's copyright page states that digital images of museum objects are released under CC BY 4.0 unless otherwise listed; the IIIF manifest metadata gives 'Copyright: Chester Beatty Library'. Image 2000x537 px."
+}

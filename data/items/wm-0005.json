@@ -1,0 +1,28 @@
+{
+  "id": "wm-0005",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0005.jpg",
+  "title": "Heqanakht Letter I (MET 22.3.516), upper right",
+  "script": "hieratic",
+  "object": {
+    "name": "Heqanakht Papyri, Letter I",
+    "date": "c. 1961–1917 BCE",
+    "period": "Middle Kingdom, 12th Dynasty (reign of Senwosret I)",
+    "material": "papyrus",
+    "holder": "Metropolitan Museum of Art, New York (22.3.516)",
+    "content": "Private letter of the ka-priest Heqanakht"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Heqanakht_Letter_I_MET_DP351757.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Heqanakht_Letter_I_MET_DP351757.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Metropolitan Museum of Art, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Cropped to the upper quarter; vertical columns, private letter hand."
+}

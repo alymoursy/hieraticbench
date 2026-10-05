@@ -1,0 +1,30 @@
+{
+  "id": "aku-0101",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0101.png",
+  "title": "Single hieratic sign, Berlin, Ägyptisches Museum und Papyrussammlung, P 3008 (AKU HT 69426)",
+  "script": "hieratic",
+  "gardiner": [
+    "Z9"
+  ],
+  "object": {
+    "name": "Berlin, Ägyptisches Museum und Papyrussammlung, P 3008",
+    "date": "Ptolemaic Period, Ptolemy VI Philometor – Ptolemaic Period, Ptolemy IX Soter II (first reign in Egypt)",
+    "period": "Ptolemaic Period",
+    "material": "papyrus",
+    "content": "Totenbuch"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/69426",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_69426_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 69426",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 69426; AKU grapheme Z0150 (AKU GR 744). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Z9 (std). Möller numbers listed by AKU-PAL for this grapheme: 565. Source publication of this facsimile: Möller 1936a. Occurrence: line 3; find place Ägypten (unlokalisiert); writing direction \"Zeilen, linksläufig prograd\"; sign size 8 x 7.6 mm (h x w). AKU dating: \"Ptolemäerzeit, Ptolemaios VI. Philometor – Ptolemäerzeit, Ptolemaios IX. Soter II. (1. Regierungszeit in Ägypten)\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

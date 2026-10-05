@@ -1,0 +1,27 @@
+{
+  "id": "wm-0027",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0027.jpg",
+  "title": "Papyrus Berlin 10463 (letter of the mayor of Thebes), recto",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Berlin 10463",
+    "period": "New Kingdom, 18th Dynasty",
+    "material": "papyrus",
+    "holder": "Ägyptisches Museum und Papyrussammlung, Berlin (P. 10463)",
+    "content": "Letter from the mayor of Thebes (Sennefer) to a tenant farmer"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_10463_(recto).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Papyrus_Berlin_10463_%28recto%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sandra Steiß (scan), Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum scan; worn surface, partly faded ink. Content from the Wikidata item and the title of File:-1455 Brief des Bürgermeisters von Theben Sennefer anagoria.JPG."
+}

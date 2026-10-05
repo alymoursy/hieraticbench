@@ -1,0 +1,28 @@
+{
+  "id": "wm-0039",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0039.jpg",
+  "title": "Ostracon: letter from the scribe Mose to the vizier Pesiur (Ashmolean HO 71)",
+  "script": "hieratic",
+  "object": {
+    "name": "Ostracon Ashmolean HO 71",
+    "date": "13th century BCE",
+    "period": "New Kingdom, 19th Dynasty (reign of Ramesses II)",
+    "material": "limestone ostracon",
+    "holder": "Ashmolean Museum, Oxford (HO 71)",
+    "content": "Letter concerning various commissions; from Deir el-Medina"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Letter_Mose_Pesiur_HO_71.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Letter_Mose_Pesiur_HO_71.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Zunkir, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Ramesside letter hand."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wm-0053",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0053.jpg",
+  "title": "Limestone ostracon with a demotic prayer (Brooklyn Museum)",
+  "script": "demotic",
+  "object": {
+    "name": "Demotic ostracon, Brooklyn Museum",
+    "period": "Ptolemaic Period",
+    "material": "limestone ostracon",
+    "holder": "Brooklyn Museum",
+    "content": "Prayer to Amun for healing of blindness; probably from Thebes"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Ostrakon_with_Demotic_Inscription_-_Egypt,_probably_Thebes,_Ptolemaic_Period,_305-330_BC,_limestone_-_Brooklyn_Museum_-_Brooklyn,_NY_-_DSC08691.JPG",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ostrakon_with_Demotic_Inscription_-_Egypt%2C_probably_Thebes%2C_Ptolemaic_Period%2C_305-330_BC%2C_limestone_-_Brooklyn_Museum_-_Brooklyn%2C_NY_-_DSC08691.JPG",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Daderot, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Gallery photo. Content from File:Demotic Ostrakon.jpg (same object, same Commons category 'Blindness healing ostraka')."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wm-0037",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0037.jpg",
+  "title": "Amphora from the tomb of Kha with a hieratic label (Turin S. 8618)",
+  "script": "hieratic",
+  "object": {
+    "name": "Amphora Turin S. 8618",
+    "date": "c. 1425–1353 BCE",
+    "period": "New Kingdom, 18th Dynasty",
+    "material": "baked clay amphora",
+    "holder": "Museo Egizio, Turin (S. 8618)",
+    "content": "Short jar label (three lines); from the tomb of Kha and Meryt (TT8)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Amphora_with_a_hieratic_label,_sealed_with_a_clay_stopper,_baked_clay_-_Museo_Egizio,_Turin_S_8618_p01.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Amphora_with_a_hieratic_label%2C_sealed_with_a_clay_stopper%2C_baked_clay_-_Museo_Egizio%2C_Turin_S_8618_p01.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Museo Egizio, Turin, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo, tight crop of the short label on the jar shoulder (only a few groups of signs). Date from the Wikidata item."
+}

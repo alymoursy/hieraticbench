@@ -1,0 +1,30 @@
+{
+  "id": "aku-0104",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0104.png",
+  "title": "Single hieratic sign, London, British Museum, EA 10188 (AKU HT 69230)",
+  "script": "hieratic",
+  "gardiner": [
+    "Z2"
+  ],
+  "object": {
+    "name": "London, British Museum, EA 10188",
+    "date": "Argead (Macedonian) Period, Alexander IV, regnal year 12, Choiak",
+    "period": "Argead (Macedonian) Period",
+    "material": "papyrus",
+    "content": "Ritualtext im Götterkult (Songs of Isis und Nephtyhs + Ritual of Bringing in Sokaris + Book of Overthrowing Apep, Names of Apep)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/69230",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_69230_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 69230",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 69230; AKU grapheme Z0100 (AKU GR 1460). Gold = the grapheme's MdC code(s) as given by AKU-PAL: Z2 (std). Möller numbers listed by AKU-PAL for this grapheme: 561. Source publication of this facsimile: Möller 1936a. Occurrence: line 25; find place Theben West; writing direction \"Zeilen, linksläufig prograd\"; sign size 2.5 x 4.7 mm (h x w). AKU dating: \"Argeaden, Alexander IV., Regierungsjahr 12, Choiak\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

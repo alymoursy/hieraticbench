@@ -1,0 +1,28 @@
+{
+  "id": "wm-0009",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0009.jpg",
+  "title": "Papyrus UC32128 (servant girl sent to Iuseneb), Petrie Museum",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus UC32128",
+    "date": "c. 1850–1700 BCE",
+    "period": "Late Middle Kingdom",
+    "material": "papyrus",
+    "holder": "Petrie Museum of Egyptian Archaeology, London (UC32128)",
+    "content": "Note that an unnamed servant girl is sent to a man called Iuseneb to work"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hieratic_papyrus_Petrie_Museum.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hieratic_papyrus_Petrie_Museum.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "BabelStone, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Photo through glass. Administrative/letter hand, vertical and horizontal text."
+}

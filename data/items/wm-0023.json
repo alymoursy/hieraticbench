@@ -1,0 +1,28 @@
+{
+  "id": "wm-0023",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0023.jpg",
+  "title": "Papyrus Chester Beatty I, Contendings of Horus and Seth",
+  "script": "hieratic",
+  "object": {
+    "name": "Papyrus Chester Beatty I",
+    "date": "c. 1160 BCE",
+    "period": "New Kingdom, 20th Dynasty",
+    "material": "papyrus",
+    "holder": "Chester Beatty Library, Dublin (Pap 1.2)",
+    "content": "The Contendings of Horus and Seth"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Contendings_of_Horus_and_Seth_(CBL_Pap_1.2).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Contendings_of_Horus_and_Seth_%28CBL_Pap_1.2%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Chester Beatty Library, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo; right half of the sheet (low resolution, ~1000 px wide). The viewer's page-number tag was cropped off. Literary hand with red rubrics. Period from the Wikipedia article."
+}

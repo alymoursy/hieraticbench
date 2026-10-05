@@ -1,0 +1,30 @@
+{
+  "id": "aku-0127",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0127.png",
+  "title": "Single hieratic sign, Edinburgh, National Museums of Scotland, The Royal Museum of Scotland, A 1956.314 (AKU HT 69702)",
+  "script": "hieratic",
+  "gardiner": [
+    "R4"
+  ],
+  "object": {
+    "name": "Edinburgh, National Museums of Scotland, The Royal Museum of Scotland, A 1956.314",
+    "date": "Roman Period, Julio-Claudian dynasty, Augustus, regnal year 19, day 26, Pachon",
+    "period": "Roman Period",
+    "material": "papyrus",
+    "content": "Buch vom Atmen"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/69702",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_69702_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 69702",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 69702; AKU grapheme R0080 (AKU GR 526). Gold = the grapheme's MdC code(s) as given by AKU-PAL: R4 (std). Möller numbers listed by AKU-PAL for this grapheme: 552. Source publication of this facsimile: Möller 1936a. Occurrence: line 1; find place Scheich Abd el-Qurna; writing direction \"Zeilen, linksläufig prograd\"; sign size 6.7 x 10.6 mm (h x w). AKU dating: \"Römische Zeit, Iulisch-Claudische Dynastie, Augustus, Regierungsjahr 19, Tag 26, Pachon\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}

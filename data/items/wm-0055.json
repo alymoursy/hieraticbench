@@ -1,0 +1,25 @@
+{
+  "id": "wm-0055",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0055.jpg",
+  "title": "Lepsius, Denkmäler VI pl. 125: demotic papyrus no. II (Berlin)",
+  "script": "demotic",
+  "object": {
+    "name": "Demotic papyrus no. II (Lepsius, Denkmäler Abth. VI, Bl. 125)",
+    "material": "papyrus",
+    "holder": "Königliche Museen zu Berlin (as of 1849)"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus._Demotische_Papyrus._No._I-III._(jetzt_im_K._Museum_zu_Berlin.)_(NYPL_b14291191-44354).jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Papyrus._Demotische_Papyrus._No._I-III._%28jetzt_im_K._Museum_zu_Berlin.%29_%28NYPL_b14291191-44354%29.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "attribution": "Karl Richard Lepsius, Denkmäler aus Aegypten und Aethiopien (1849); scan by the New York Public Library, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Control (not hieratic). Lithographic facsimile from the same publication as wm-0030, a deliberate style-matched pair. Plate caption cropped out."
+}

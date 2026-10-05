@@ -1,0 +1,30 @@
+{
+  "id": "aku-0016",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0016.png",
+  "title": "Single hieratic sign, D. Assiut N13.1 TAW1 (AKU HT 22377)",
+  "script": "hieratic",
+  "gardiner": [
+    "T14"
+  ],
+  "object": {
+    "name": "D. Assiut N13.1 TAW1",
+    "date": "New Kingdom, Dynasty 18, Thutmose III (sole reign) – New Kingdom, Dynasty 18, Amenhotep II",
+    "period": "New Kingdom",
+    "material": "plaster (dipinto)",
+    "content": "Prophezeiung (Speech of Neferti)"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/22377",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/svg/ht_22377.svg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Facsimile by Svenja A. Gülden, Ursula Verhoeven; AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 22377",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "AKU-PAL Hieratogramm (HT) 22377; AKU grapheme T0100 (AKU GR 609). Gold = the grapheme's MdC code(s) as given by AKU-PAL: T14 (std). Möller numbers listed by AKU-PAL for this grapheme: 457. Occurrence: line 20; find place Gebel Assiut al-gharbi; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 14.5 x 9.2 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Thutmosis III. (Alleinregierung) – Neues Reich, 18. Dynastie, Amenhotep II.\". Facsimile type: Digitalisat (AKU), by Svenja A. Gülden, Ursula Verhoeven. Rendered from the source SVG facsimile to PNG at 20 px/mm (long edge clamped to 160-600 px) on a white background with a white margin."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wm-0006",
+  "split": "public",
+  "rungs": [
+    "identify"
+  ],
+  "image": "images/wm-0006.jpg",
+  "title": "Heqanakht Letter IV, letter of Sitnebsekhtu (MET 22.3.519), upper half",
+  "script": "hieratic",
+  "object": {
+    "name": "Heqanakht Papyri, Letter IV",
+    "date": "c. 1961–1917 BCE",
+    "period": "Middle Kingdom, 12th Dynasty (reign of Senwosret I)",
+    "material": "papyrus",
+    "holder": "Metropolitan Museum of Art, New York (22.3.519)",
+    "content": "Letter of Sitnebsekhtu"
+  },
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Papyrus_of_Sitnebsekhtu,_Heqanakht_Letter_IV_MET_22.3.519_3185.jpg",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Papyrus_of_Sitnebsekhtu%2C_Heqanakht_Letter_IV_MET_22.3.519_3185.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Metropolitan Museum of Art, CC0, via Wikimedia Commons",
+    "retrieved": "2026-10-05"
+  },
+  "famous": false,
+  "notes": "Museum photo. Upper fragment only; vertical columns."
+}

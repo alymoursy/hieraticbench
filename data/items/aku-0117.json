@@ -1,0 +1,30 @@
+{
+  "id": "aku-0117",
+  "split": "public",
+  "rungs": [
+    "signs"
+  ],
+  "image": "images/aku-0117.png",
+  "title": "Single hieratic sign, Leipzig, Bibliotheca Albertina, Papyrus- und Ostrakasammlung, P. Ebers (AKU HT 1942)",
+  "script": "hieratic",
+  "gardiner": [
+    "X2"
+  ],
+  "object": {
+    "name": "Leipzig, Bibliotheca Albertina, Papyrus- und Ostrakasammlung, P. Ebers",
+    "date": "New Kingdom, Dynasty 18, Amenhotep I, regnal year 9",
+    "period": "New Kingdom",
+    "material": "papyrus",
+    "content": "Medizinischer Text"
+  },
+  "source": {
+    "url": "https://aku-pal.uni-mainz.de/signs/1942",
+    "fileUrl": "https://aku-pal.uni-mainz.de/img/data/ht/scan/ht_1942_2.webp",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Georg Möller, Hieratische Paläographie, retro-digitised by AKU-PAL (Akademie der Wissenschaften und der Literatur Mainz), AKU Hieratogramm 1942",
+    "retrieved": "2026-10-05"
+  },
+  "famous": true,
+  "notes": "AKU-PAL Hieratogramm (HT) 1942; AKU grapheme X0020 (AKU GR 731). Gold = the grapheme's MdC code(s) as given by AKU-PAL: X2 (std). Möller numbers listed by AKU-PAL for this grapheme: 554. Source publication of this facsimile: Möller 1927a, p. 53, no. 554. Occurrence: line 19; find place Theben; writing direction \"Zeilen, linksläufig prograd\"; ink colour \"schwarz\"; sign size 4.9 x 5.3 mm (h x w). AKU dating: \"Neues Reich, 18. Dynastie, Amenhotep I., Regierungsjahr 9\". Facsimile type: Retro-Digitalisat (Publikation), by Georg Möller. Source scan (WEBP) converted to PNG at native resolution, flattened onto white, white margin added."
+}
