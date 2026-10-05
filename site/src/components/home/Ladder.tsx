@@ -16,12 +16,12 @@ const rungs: { rung: Rung; question: string; scoring: string }[] = [
   {
     rung: "transliterate",
     question: "How does it sound?",
-    scoring: "Standard Egyptological transliteration. On the sentence, checked by the people who wrote it.",
+    scoring: "Standard Egyptological transliteration. Not scored on the sentence, since no answer is stored.",
   },
   {
     rung: "translate",
     question: "What does it say?",
-    scoring: "English. There is no stored answer key, so a reading that looks real goes to the sentence's authors.",
+    scoring: "English. Not scored on the sentence either. Scoring is built in for future public texts.",
   },
 ];
 
@@ -33,7 +33,7 @@ function bestSoFar(rung: Rung): string {
   }
   const top = best((k) => leaderboard.entries.find((e) => e.key === k)?.rungs[rung]?.score);
   if (top !== null) return `Best so far ${percent(top)}`;
-  return rung === "identify" || rung === "signs" ? "No runs yet" : "Checked by the authors. Nothing close yet";
+  return rung === "identify" || rung === "signs" ? "No runs yet" : "Not scored yet";
 }
 
 export function Ladder() {

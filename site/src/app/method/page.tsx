@@ -28,7 +28,7 @@ export default function MethodPage() {
             <strong>Sealed sentences.</strong> One sentence in two images. The first is in the professor&apos;s own hand.
             The second is the same text rewritten in a period-style hand by a hieratic specialist, closer to what a
             scribe would have produced. Both were commissioned in 2022. The script is public. What the sentence says
-            is known only to the people who wrote it.
+            has never been published.
           </li>
           <li>
             <strong>The public identification set.</strong> Photographs and facsimiles of real Egyptian documents from
@@ -79,8 +79,7 @@ export default function MethodPage() {
           </li>
           <li>
             <strong>Transliterate and translate.</strong> On the sentence these are not scored by machine, because no
-            answer key is stored. A reading that looks real goes to the people who wrote the sentence. The harness
-            still ships character error rate and chrF scoring for future public items with published readings.
+            answer key is stored. The harness still ships character error rate and chrF scoring for future public items with published readings.
           </li>
           <li>
             <strong>Averages.</strong> Samples are averaged per item, then items are averaged per rung.
@@ -94,8 +93,8 @@ export default function MethodPage() {
         <h2>Keeping the answer sealed</h2>
         <ol>
           <li>
-            There is no answer key. Not in the repository, not on a server, not with the maintainer. Only the professor
-            and the specialist who wrote the sentence know what it says, and it will never be published.
+            There is no answer key. Not in the repository, not on a server, not with the maintainer. It has never been
+            published and never will be.
           </li>
           <li>
             When anyone runs a sealed rung, the answers are written to a local inbox that is never committed either. A
@@ -105,10 +104,6 @@ export default function MethodPage() {
             The identify question on the sealed sentences also asks for a translation, so a model that can read it would
             write the answer there. For those items only the script the model named and its score are published. The
             full text stays private.
-          </li>
-          <li>
-            If a model&apos;s reading looks real, it goes privately to the sentence&apos;s authors. They are the only
-            ones who can say a model has read it.
           </li>
         </ol>
 
@@ -130,8 +125,8 @@ npm run bench -- leaderboard`}</pre>
           Any model can run as <code>provider:model-id</code>, for example{" "}
           <code>openrouter:qwen/qwen3.8-flash</code>. Claude runs through Anthropic&apos;s API, other labs&apos; models
           through OpenRouter. Scored results land in <code>results/runs</code>.
-          Answers about the sentence land in <code>results/inbox</code>. If you think your model has read it, send
-          that file to <a href={`mailto:${site.email}`}>{site.email}</a> and the sentence&apos;s authors will check.
+          Answers about the sentence land in <code>results/inbox</code>. Keep that file private. It is never committed. Questions go to{" "}
+          <a href={`mailto:${site.email}`}>{site.email}</a>.
         </p>
 
         <h2>Limits of version {leaderboard.harness}</h2>

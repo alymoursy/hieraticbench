@@ -124,8 +124,7 @@ export function LeaderboardTable() {
             .map((e) => `${e.label} declined ${e.refusals} questions, which count as wrong. `)
             .join("")}
           Real documents counts hieratic documents only, not the demotic and hieroglyphic controls. Transliterating and
-          translating the sentence aren&apos;t scored here, because no answer key is stored. A reading that looks real goes
-          to the people who wrote it. Chat-app transcripts above are quoted for the record and never counted here.
+          translating the sentence aren&apos;t scored, because no answer is stored anywhere. Chat-app transcripts above are quoted for the record and never counted here.
         </p>
       </Container>
     </section>

@@ -11,7 +11,7 @@ const audiences = [
   },
   {
     who: "AI researchers",
-    ask: "Run the harness on your model with your own key, or build a reader from scratch. If your model can read the sentence, send us its reading and the people who wrote it will check.",
+    ask: "Run the harness on your model with your own key, or build a reader from scratch. Every result goes on the public leaderboard.",
     cta: "Run the benchmark",
     href: site.github,
   },

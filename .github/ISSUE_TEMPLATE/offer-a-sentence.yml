@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you. Never post what your sentence says, here or anywhere. This issue is public. We only ever need the image. You keep the reading, and if a model's reading of your sentence looks real, we send it to you to check.
+        Thank you. Never post what your sentence says, here or anywhere. This issue is public. We only ever need the image. You keep the reading.
   - type: input
     id: who
     attributes:

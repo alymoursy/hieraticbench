@@ -3,7 +3,7 @@ import { Container } from "@/components/Container";
 const reasons = [
   {
     title: "The answer is sealed.",
-    body: "The translation has never been published, and the benchmark doesn't store it anywhere. Only the people who wrote the sentence know it, so no model can have memorised it.",
+    body: "The translation has never been published and the benchmark doesn't store it anywhere, so no model can have memorised it.",
   },
   {
     title: "Almost nobody can read it.",
