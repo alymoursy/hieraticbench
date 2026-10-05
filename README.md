@@ -10,7 +10,7 @@ In 2022 I asked an Oxford Egyptology professor to write me one sentence in hiera
 
 Every AI model I have shown it to fails. Most can't even name the script. Claude Opus 5.5 checked it against Tangut, Khitan, Jurchen, Nüshu and Gregg shorthand, and never once against Egypt. Claude Fable 5.1 decided it wasn't a real writing system. Claude Haiku 4.5 called it Urdu and translated it as "One should learn every day."
 
-HieraticBench turns that sentence into a benchmark, and asks for help making it bigger.
+The goal isn't my sentence. It's hieratic. The sentence is the exam. Its answer has never been published, so a model can only pass by actually reading the script. HieraticBench measures how close AI is to reading hieratic, from naming the script to reading single signs to translating, and asks for help getting there. When a model can really read hieratic, it will read the sentence too, and we'll publish the answer.
 
 ## Results so far
 

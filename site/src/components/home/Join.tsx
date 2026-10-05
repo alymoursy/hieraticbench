@@ -27,7 +27,7 @@ export function Join() {
   return (
     <section id="join" className="border-t border-black/5 bg-rubric-wash/50 py-24 sm:py-32">
       <Container>
-        <h2 className="max-w-[20ch] text-4xl font-medium tracking-tight text-balance sm:text-5xl">Help crack it.</h2>
+        <h2 className="max-w-[20ch] text-4xl font-medium tracking-tight text-balance sm:text-5xl">Help AI learn to read hieratic.</h2>
         <p className="mt-6 max-w-[56ch] text-lg/8 text-pretty text-stone-700">
           This only works with more people. It needs the few who can read hieratic, and the people building the models
           that one day might.

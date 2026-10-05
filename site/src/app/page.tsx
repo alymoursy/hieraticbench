@@ -1,6 +1,7 @@
 import { DatasetPreview } from "@/components/home/DatasetPreview";
 import { FairTest } from "@/components/home/FairTest";
 import { Gap } from "@/components/home/Gap";
+import { Goal } from "@/components/home/Goal";
 import { Hero } from "@/components/home/Hero";
 import { Hieratic } from "@/components/home/Hieratic";
 import { Join } from "@/components/home/Join";
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <Record />
       <Gap />
+      <Goal />
       <Hieratic />
       <FairTest />
       <Ladder />

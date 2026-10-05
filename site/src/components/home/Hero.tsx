@@ -58,7 +58,7 @@ export function Hero() {
             href="#join"
             className="rounded-full bg-ink px-5 py-3 text-lg text-white hover:bg-stone-800 focus-visible:outline-offset-2"
           >
-            Help crack it
+            Help AI read hieratic
           </a>
           <a href="#leaderboard" className="flex items-center gap-2 text-lg text-ink hover:text-rubric">
             See the leaderboard <Arrow />
