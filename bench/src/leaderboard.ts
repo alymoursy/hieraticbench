@@ -99,7 +99,8 @@ export function buildLeaderboard() {
 
   return {
     harness: HARNESS_VERSION,
-    generatedAt: new Date().toISOString(),
+    // The newest answer, not the build time, so rebuilding unchanged data changes nothing.
+    generatedAt: records.reduce((latest, r) => (r.createdAt > latest ? r.createdAt : latest), "") || new Date().toISOString(),
     dataset: summarize(items),
     entries,
     perItem,
@@ -112,18 +113,30 @@ export function buildLeaderboard() {
 }
 
 /**
- * How many sealed answers each row has waiting in the local inbox, per rung, so the
- * site can tell "answered, awaiting the key" apart from "never run". Only the
- * maintainer's machine has the inbox, so rebuild the leaderboard there.
+ * How many sealed answers each row has waiting to be scored, per rung, so the site can
+ * tell "answered, awaiting the key" apart from "never run". Only the maintainer's
+ * machine has the inbox, so counts from the committed leaderboard carry over on any
+ * other machine (CI, the site build) and the local inbox can only raise them.
  */
 function sealedAnswered() {
-  const counts: Record<string, Partial<Record<Rung, number>>> = {};
+  const file = path.join(RESULTS, "leaderboard.json");
+  const previous: Record<string, Partial<Record<Rung, number>>> = fs.existsSync(file)
+    ? (JSON.parse(fs.readFileSync(file, "utf8")).sealedAnswered ?? {})
+    : {};
+  const local: Record<string, Partial<Record<Rung, number>>> = {};
   for (const r of listJsonl(INBOX_DIR).flatMap(readRecords)) {
     if (r.error || r.privateCopy || r.rung === "identify") continue;
-    const row = (counts[entryKey(r.model)] ??= {});
+    const row = (local[entryKey(r.model)] ??= {});
     row[r.rung] = (row[r.rung] ?? 0) + 1;
   }
-  return counts;
+  const merged = structuredClone(previous);
+  for (const [key, rungs] of Object.entries(local)) {
+    for (const [rung, n] of Object.entries(rungs) as [Rung, number][]) {
+      const row = (merged[key] ??= {});
+      row[rung] = Math.max(row[rung] ?? 0, n);
+    }
+  }
+  return merged;
 }
 
 /** What each model named the script of the sealed sentences, with counts. */

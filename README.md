@@ -85,8 +85,10 @@ Site links (GitHub, contact email, domain) live in one file, `site/src/lib/site.
 
 ## Contribute
 
-- **Egyptologists.** Write a new sealed sentence, or annotate signs in a published papyrus. Open an issue with the "Offer a sentence" template, or email.
-- **AI researchers.** Run the harness on your model and send the results. Or build a dedicated reader. Public sign lists and corpora are a fair starting point.
+Anyone can add a model, add images, or write a sealed sentence, with no permission needed. Work in your fork, open a pull request, and CI checks it. Merging updates the leaderboard and the site automatically. **[CONTRIBUTING.md](CONTRIBUTING.md)** has the steps.
+
+- **Egyptologists.** Write a new sealed sentence, or annotate signs in a published papyrus.
+- **AI researchers.** Run the harness on any model with your own key and send the results.
 - **Everyone.** Share it, introduce us to an Egyptologist, or sponsor a commissioned sentence.
 
 ## Repository layout

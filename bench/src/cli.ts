@@ -8,6 +8,7 @@ import { buildPrompt } from "./prompts.ts";
 import { ask, missingCredentials } from "./providers/index.ts";
 import { HARNESS_VERSION, INBOX_DIR, RUNS_DIR, appendRecord, entryKey, listJsonl, newRunId, readRecords, type RunRecord } from "./runs.ts";
 import { scoreResponse } from "./score.ts";
+import { validate } from "./validate.ts";
 
 const HELP = `HieraticBench ${HARNESS_VERSION}
 
@@ -18,6 +19,7 @@ Commands
   score        Score sealed outputs in results/inbox (needs the private answer key)
   leaderboard  Rebuild results/leaderboard.json from results/runs
   items        Summarise the dataset
+  validate     Check items, licenses and results files (CI runs this on every pull request)
   models       List model shortcuts
 
 Options for run
@@ -64,6 +66,13 @@ async function main() {
       return leaderboard();
     case "items":
       return describeItems();
+    case "validate": {
+      const problems = validate();
+      problems.forEach((p) => console.error(p));
+      console.log(problems.length ? `${problems.length} problems` : "All items and results are valid.");
+      if (problems.length) process.exitCode = 1;
+      return;
+    }
     case "models":
       return MODELS.forEach((m) => console.log(`${m.key.padEnd(20)} ${m.provider.padEnd(11)} ${m.id}${m.effort ? `  effort=${m.effort}` : ""}`));
     default:

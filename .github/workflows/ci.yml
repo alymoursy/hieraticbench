@@ -1,0 +1,36 @@
+name: CI
+
+# Runs on every pull request and every push to main. It never calls a model,
+# so it needs no API keys and costs nothing.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Scoring tests
+        run: npm test
+      - name: Type check
+        run: npm run -w bench typecheck
+      - name: Items, licenses and results are valid
+        run: npm run validate
+      - name: Private files are never committed
+        run: |
+          if git ls-files | grep -E '^(data/private/|results/inbox/)|(^|/)\.env$'; then
+            echo "These files must never be committed. Sealed answers are emailed, not pushed."
+            exit 1
+          fi
+      - name: Leaderboard and site build
+        run: npm run build
