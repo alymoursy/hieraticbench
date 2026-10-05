@@ -9,8 +9,8 @@ export function Footer() {
           {site.name} was started by {site.founder}, founder of{" "}
           <a href={site.company.url} className="underline decoration-stone-300 hover:decoration-rubric">
             {site.company.name}
-          </a>
-          , in 2026. Code is MIT licensed and results are CC BY 4.0. Every image is credited on the{" "}
+          </a>{" "}
+          ({site.company.batch}), in 2026. Code is MIT licensed and results are CC BY 4.0. Every image is credited on the{" "}
           <a href="/dataset/" className="underline decoration-stone-300 hover:decoration-rubric">
             dataset page
           </a>

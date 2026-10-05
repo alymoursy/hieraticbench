@@ -2,6 +2,7 @@ import { Arrow } from "@/components/Arrow";
 import { Container } from "@/components/Container";
 import { Readings } from "@/components/Readings";
 import { leaderboard, sentenceScore } from "@/lib/data";
+import { site } from "@/lib/site";
 
 /** The claim under the headline, kept true by the leaderboard. */
 function nameTheScript(): string {
@@ -44,6 +45,13 @@ export function Hero() {
         <p className="mt-6 max-w-[48ch] text-xl/8 text-pretty text-stone-600">
           An Oxford Egyptologist wrote it for me in 2022, in hieratic, the everyday handwriting of ancient Egypt.{" "}
           {nameTheScript()}
+        </p>
+        <p className="mt-6 text-lg text-stone-600 sm:text-base">
+          <span className="text-ink">{site.founder}</span>, Founder of{" "}
+          <a href={site.company.url} className="text-ink underline decoration-stone-300 hover:decoration-rubric">
+            {site.company.name}
+          </a>{" "}
+          ({site.company.batch})
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-x-8 gap-y-4">
           <a

@@ -2,7 +2,7 @@
 
 **Can AI read ancient Egyptian handwriting?**
 
-Started by [Aly Moursy](https://github.com/alymoursy), founder of [Veeza AI](https://veeza.ai). Live at [hieraticbench.vercel.app](https://hieraticbench.vercel.app).
+Started by [Aly Moursy](https://github.com/alymoursy), Founder of [Veeza AI](https://veeza.ai) (YC F26). Live at [hieraticbench.vercel.app](https://hieraticbench.vercel.app).
 
 ![The professor's sentence](site/public/hero-sentence.png)
 
