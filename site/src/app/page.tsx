@@ -8,6 +8,7 @@ import { Join } from "@/components/home/Join";
 import { Ladder } from "@/components/home/Ladder";
 import { LeaderboardTable } from "@/components/home/LeaderboardTable";
 import { Record } from "@/components/home/Record";
+import { SeeIt } from "@/components/home/SeeIt";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <LeaderboardTable />
       <DatasetPreview />
       <Join />
+      <SeeIt />
     </>
   );
 }
